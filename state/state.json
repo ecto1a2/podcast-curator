@@ -59,11 +59,6 @@
     "last_run": "2026-11-18T21:49:08.368989+00:00"
   },
   "feed_cache": {
-    "The Knowledge Project with Shane Parrish": {
-      "url": null,
-      "checked": "2026-11-18T21:49:08.368989+00:00",
-      "matched": "The Knowledge Project"
-    },
     "The Diary Of A CEO with Steven Bartlett": {
       "url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
       "checked": "2026-11-18T21:49:08.368989+00:00",
@@ -78,11 +73,6 @@
       "url": "https://rss.pdrl.fm/f10906/feeds.megaphone.fm/MCI6910680963",
       "checked": "2026-11-18T21:49:08.368989+00:00",
       "matched": "Club Random with Bill Maher"
-    },
-    "Economist Podcasts": {
-      "url": null,
-      "checked": "2026-11-18T21:49:08.368989+00:00",
-      "matched": "Money Talks from The Economist"
     },
     "The Prof G Pod with Scott Galloway": {
       "url": "https://feeds.megaphone.fm/WWO6655869236",
