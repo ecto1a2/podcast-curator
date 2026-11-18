@@ -1,0 +1,41 @@
+{
+  "_help": "Knobs for the curator. Safe to edit. Every episode sent to your queue is sent once and never again.",
+
+  "model": "claude-sonnet-5-5",
+  "feed_title": "Benyamin's Curated Picks",
+  "feed_base_url": "",
+
+  "_budget": "About 8 a week: roughly 3 regulars plus up to 5 discovery picks.",
+  "max_discovery_per_week": 5,
+  "max_discovery_per_day": 1,
+  "max_seeds_per_week": 2,
+  "feed_window_days": 14,
+
+  "_regulars": "Episodes that always get sent. Weekdays: 0 Monday ... 4 Friday, Eastern time. Other episodes from these shows need others_min_score.",
+  "always_include": [
+    {"show": "Pardon My Take", "weekdays": [0, 4], "others_min_score": 92},
+    {"show": "Stavvy's World", "skip_title_words": ["bonus", "preview"], "others_min_score": 75}
+  ],
+  "always_include_max_age_days": 3,
+
+  "min_score": 70,
+  "seed_min_score": 55,
+  "core_min_score": 75,
+
+  "max_minutes": 125,
+  "short_minutes": 30,
+  "max_per_category_per_week": 2,
+  "occasional_categories": {"parenting": 14, "cooking": 14, "history": 14},
+  "thoughtful_categories": ["big_ideas", "systems", "geopolitics"],
+
+  "subscribed_window_days": 14,
+  "discovery_window_days": 45,
+  "search_window_days": 60,
+  "search_rotation_days": 3,
+  "rescore_after_days": 7,
+  "max_scored_per_run": 250,
+
+  "checkin_weekday": 6,
+  "buzz_scan_weekdays": [0, 3],
+  "github_username": "ecto1a2"
+}

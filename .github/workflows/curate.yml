@@ -1,0 +1,51 @@
+name: Curate podcasts
+
+on:
+  schedule:
+    - cron: "23 9 * * *"   # every day around 4 to 5 AM Cleveland time
+  workflow_dispatch:
+    inputs:
+      force_checkin:
+        description: "Open a check-in issue now"
+        type: boolean
+        default: false
+      force_buzz:
+        description: "Run the buzz scan now"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: curate
+  cancel-in-progress: false
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pick episodes and rebuild the feed
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          FORCE_CHECKIN: ${{ inputs.force_checkin && '1' || '' }}
+          FORCE_BUZZ: ${{ inputs.force_buzz && '1' || '' }}
+        run: python curator.py
+
+      - name: Save picks and state
+        run: |
+          git config user.name "podcast-curator"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          git diff --cached --quiet || git commit -m "Daily picks $(date -u +%Y-%m-%d)"
+          git push

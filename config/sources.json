@@ -1,0 +1,76 @@
+{
+  "_help": "Where the curator looks. 'subscribed' are your Pocket Casts shows (from your export). 'discovery_shows' are looked up by name each week. 'people' and 'topics' are searched across all podcasts. Add or remove lines freely.",
+
+  "core_shows": ["Stavvy's World", "Pardon My Take", "Making Sense with Sam Harris"],
+
+  "subscribed": [
+    {"name": "Pardon My Take", "url": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take"},
+    {"name": "Planet Money", "url": "https://feeds.npr.org/510289/podcast.xml"},
+    {"name": "Making Sense with Sam Harris", "url": "https://rss.libsyn.com/shows/94577/destinations/480596.xml"},
+    {"name": "The Partially Examined Life", "url": "https://rss.libsyn.com/shows/19421/destinations/16399.xml"},
+    {"name": "What the Health? From KFF Health News", "url": "https://whatthehealth.feeds.wamu.org"},
+    {"name": "The Gist Healthcare Podcast", "url": "https://feeds.acast.com/public/shows/622b8f5080a3a00013890f23"},
+    {"name": "Decoder with Nilay Patel", "url": "https://feeds.megaphone.fm/recodedecode"},
+    {"name": "Pablo Torre Finds Out", "url": "https://feeds.acast.com/public/shows/68b1d0ea993d10acb9c3fe4f"},
+    {"name": "We Might Be Drunk", "url": "https://feeds.megaphone.fm/YMH1251936023"},
+    {"name": "Acquired", "url": "https://feeds.transistor.fm/acquired"},
+    {"name": "From First Principles", "url": "https://rss2.flightcast.com/xwn8rowh2w6x1hbyvleypcsj.xml"},
+    {"name": "The Ezra Klein Show", "url": "https://feeds.simplecast.com/kEKXbjuJ"},
+    {"name": "Motley Fool Hidden Gems Investing", "url": "https://feeds.megaphone.fm/ARML8165884693"},
+    {"name": "The Big Think Interview", "url": "https://anchor.fm/s/1101e2880/podcast/rss"},
+    {"name": "Stavvy's World", "url": "https://feeds.simplecast.com/Fa0PP4fl"},
+    {"name": "The Journal", "url": "https://video-api.shdsvc.dowjones.io/api/podcasts/the%20journal/feed"},
+    {"name": "The Rest Is Politics", "url": "https://feeds.megaphone.fm/GLT9190936013"},
+    {"name": "Conversations with Tyler", "url": "https://rss.libsyn.com/shows/137081/destinations/850607.xml"},
+    {"name": "Stoic Wellbeing", "url": "https://rss.buzzsprout.com/1476157.rss"},
+    {"name": "Up First from NPR", "url": "https://feeds.npr.org/510318/podcast.xml"},
+    {"name": "Dying Every Day (Stoicism in a Year)", "url": "https://feeds.transistor.fm/dying-every-day-stoicism-in-a-year"},
+    {"name": "The Happiness Lab with Dr. Laurie Santos", "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss"},
+    {"name": "The Rest Is History", "url": "https://feeds.megaphone.fm/GLT4787413333"},
+    {"name": "2 Bears, 1 Cave", "url": "https://feeds.megaphone.fm/YMH8516456556"},
+    {"name": "The Heart of Healthcare", "url": "https://rss.art19.com/the-heart-of-healthcare"},
+    {"name": "The Rest Is Classified", "url": "https://feeds.megaphone.fm/therestisclassified"},
+    {"name": "Prof G Markets", "url": "https://feeds.megaphone.fm/profgmarkets"}
+  ],
+
+  "discovery_shows": [
+    "The Knowledge Project with Shane Parrish",
+    "The Diary Of A CEO with Steven Bartlett",
+    "The Blocks with Neal Brennan",
+    "Club Random with Bill Maher",
+    "Economist Podcasts",
+    "The Prof G Pod with Scott Galloway",
+    "HBR IdeaCast",
+    "The Art of Manliness",
+    "Within Reason",
+    "Matt and Shane's Secret Podcast",
+    "Bad Friends",
+    "Whiskey Ginger with Andrew Santino",
+    "TigerBelly",
+    "Tuesdays with Stories",
+    "GoodFellows: Conversations on Economics, History & Geopolitics",
+    "Dwarkesh Podcast",
+    "Hard Fork",
+    "Founders",
+    "Odd Lots",
+    "Freakonomics Radio",
+    "Pod Save America",
+    "Tradeoffs",
+    "Good Inside with Dr. Becky",
+    "Milk Street Radio",
+    "The Splendid Table",
+    "KPI Fireside"
+  ],
+
+  "people": [
+    "Stavros Halkias", "Mark Normand", "Sam Morril", "Neal Brennan", "Bobby Lee",
+    "Michael Che", "Nick Mullen", "Colin Quinn", "Andrew Santino",
+    "Tyler Cowen", "Sarah Paine", "Yuval Noah Harari", "Michael Pollan", "Annaka Harris",
+    "Cal Newport", "Dan Wang", "Alain de Botton", "Sam Harris", "Dario Amodei"
+  ],
+
+  "topics": [
+    "cartel economics", "drug trade", "AI healthcare", "first principles thinking",
+    "theory of constraints", "systems thinking", "geopolitics China", "consciousness"
+  ]
+}

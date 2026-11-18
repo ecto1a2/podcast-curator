@@ -1,0 +1,32 @@
+{
+  "_help": "Starred episodes you have not finished. The curator drips these into the feed (at most one a day) when there is an open slot. Delete a line once you've heard it.",
+  "seeds": [
+    {"show": "The Diary Of A CEO", "title": "Dr. Sarah Paine: Why The World Is Turning Away"},
+    {"show": "Conversations with Tyler", "title": "Dan Wang on What China and America Can Learn"},
+    {"show": "Conversations with Tyler", "title": "Cass Sunstein on Liberalism and Rights"},
+    {"show": "Conversations with Tyler", "title": "Theodore Schwartz on Neurosurgery"},
+    {"show": "Conversations with Tyler", "title": "David Commins on Saudi Arabia"},
+    {"show": "The Blocks with Neal Brennan", "title": "Alain de Botton"},
+    {"show": "The Blocks with Neal Brennan", "title": "Sam Harris"},
+    {"show": "Club Random with Bill Maher", "title": "Sam Harris"},
+    {"show": "The Knowledge Project with Shane Parrish", "title": "Bret Taylor"},
+    {"show": "The Diary Of A CEO with Steven Bartlett", "title": "Simon Sinek: You're Being Lied To About AI"},
+    {"show": "The Ezra Klein Show", "title": "Michael Pollan's Journey to the Borderlands of Consciousness"},
+    {"show": "The Ezra Klein Show", "title": "Something That Traditional Economics"},
+    {"show": "Prof G Markets", "title": "Cal Newport: The AI Industry Is Betting"},
+    {"show": "Decoder with Nilay Patel", "title": "OpenAI has a Muse problem"},
+    {"show": "Decoder with Nilay Patel", "title": "How Sonos rebooted itself"},
+    {"show": "The Journal", "title": "A Sneak Peek Into Anthropic's Business"},
+    {"show": "The Heart of Healthcare", "title": "Anthropic's Bet on the Future of Healthcare"},
+    {"show": "The Heart of Healthcare", "title": "Can AI Finish What The Quality Revolution Started"},
+    {"show": "What the Health? From KFF Health News", "title": "The Health Risks of AI"},
+    {"show": "We Might Be Drunk", "title": "Bobby Lee w/ Sam Morril & Mark Normand"},
+    {"show": "Making Sense with Sam Harris", "title": "Finding Equanimity in Chaos"},
+    {"show": "Making Sense with Sam Harris", "title": "The Lessons of Death"},
+    {"show": "KPI Fireside", "title": "Dr. Alan Barnard on Solving the Right Problems"},
+    {"show": "Within Reason", "title": "Annaka Harris"},
+    {"show": "The Knowledge Project with Shane Parrish", "title": "Dr. Becky Kennedy"},
+    {"show": "The Happiness Lab with Dr. Laurie Santos", "title": "How to Disagree Better"},
+    {"show": "Matt and Shane's Secret Podcast", "title": "Podcaster's Union"}
+  ]
+}
