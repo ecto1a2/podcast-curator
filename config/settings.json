@@ -9,6 +9,12 @@
   "max_discovery_per_week": 5,
   "max_discovery_per_day": 1,
   "max_seeds_per_week": 2,
+
+  "_exploration": "Each week Claude proposes new adjacent people, shows, and topics. Up to explore_per_week of the discovery picks come from them. Terms expire after expansion_ttl_days unless they prove themselves.",
+  "explore_per_week": 2,
+  "expansion_new_per_week": 8,
+  "expansion_max_active": 30,
+  "expansion_ttl_days": 42,
   "feed_window_days": 14,
 
   "_regulars": "Episodes that always get sent. Weekdays: 0 Monday ... 4 Friday, Eastern time. Other episodes from these shows need others_min_score.",

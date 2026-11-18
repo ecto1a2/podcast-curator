@@ -41,7 +41,7 @@ CATEGORIES = [
     "comedy", "ai", "big_ideas", "systems", "geopolitics", "business", "healthcare",
     "news", "crime_econ", "parenting", "cooking", "history", "sports", "other", "excluded",
 ]
-SOURCE_PRIORITY = ["seed", "core", "subscribed", "buzz", "discovery", "search"]
+SOURCE_PRIORITY = ["seed", "core", "subscribed", "buzz", "discovery", "search", "explore"]
 
 LOG = []
 ERRORS = []
@@ -346,6 +346,8 @@ For each candidate return an object with:
 - "score": 0 to 100. 90+ means the listener would likely star it. 70+ means worth a slot this week.
   Topic fit is a gate: if the topic is not one the listener is interested in, score 40 or lower no matter how good the guest or host.
   Among on-topic episodes, guest and host quality decides the ranking. Use what you know about the guest and the show.
+  An "explore" note means the episode came from a new adjacent interest proposed for this listener.
+  Score it on the same scale. It still has to connect to the listener's interests.
   A "buzz" flag means the episode was found because people are talking about it. Treat that as a plus if it fits.
 - "category": one of %s. Use "excluded" for murder or mystery true crime, celebrity gossip, and anything the profile says never to pick.
 - "filler": true for trailers, reruns, ad-only drops, housekeeping, or a weak bonus episode. Patreon previews are not filler by themselves.
@@ -363,6 +365,7 @@ def score_with_claude(cands, feedback):
             "minutes": c.get("minutes"), "published": (c.get("published") or "")[:10],
             "source": c["source"], "buzz": bool(c.get("buzz")),
             "description": c.get("description", "")[:450],
+            "explore": c.get("explore_reason") if c["source"] == "explore" else None,
         } for c in batch]
         try:
             reply = claude(system, "Candidates:\n" + json.dumps(payload, ensure_ascii=False), 6000)
@@ -403,6 +406,88 @@ def score_with_keywords(cands):
                         "filler": c.get("episode_type") == "trailer",
                         "reason": f"Dry-run keyword match: {cat}."}
     return out
+
+
+# ---------------------------------------------------------------- expansion
+
+def active_terms(state):
+    return state.get("expansion", {}).get("terms", [])
+
+
+EXPANSION_INSTRUCTIONS = """You widen the search net for a podcast curator serving one listener, described below.
+Propose new people, shows, and topics to search that are close to, or one step beyond, what the listener already likes.
+- Tier 2: direct neighbors. Comedians in the same circles, thinkers who debate or resemble the listener's favorites, shows similar to ones they star.
+- Tier 3: one step further. Adjacent subjects that connect clearly to a listed interest (for example, drug trade to sanctions and shadow shipping).
+Every proposal must connect to a listed interest. Never propose anything from the "never" list or unrelated subjects.
+Do not repeat anything already being searched.
+Reply with only a JSON object:
+{"add": [{"term": "...", "kind": "person" | "show" | "topic", "tier": 2 or 3, "reason": "under 12 words"}],
+ "keep": ["terms that have clearly worked and should become permanent"],
+ "drop": ["terms that are not working or that the listener rejected"]}"""
+
+
+def expand_interests(state, feed_state, sources, dry):
+    """Weekly: retire stale exploration terms and ask Claude for new adjacent ones."""
+    S = SETTINGS
+    exp = state.setdefault("expansion", {"terms": [], "last_run": None})
+    kept = []
+    for t in exp["terms"]:
+        if not t.get("kept") and days_ago(t["added"]) > S["expansion_ttl_days"]:
+            log(f"stopped exploring: {t['term']}")
+        else:
+            kept.append(t)
+    exp["terms"] = kept
+    if dry or OFFLINE:
+        return
+    if days_ago(exp.get("last_run")) < 6.5 and not os.environ.get("FORCE_EXPAND"):
+        return
+    sent = feed_state.get("history", [])[-40:]
+    current = [f"{t['term']} (tier {t.get('tier')}, {int(days_ago(t['added']))} days old, "
+               f"{t.get('hits', 0)} picks sent{', permanent' if t.get('kept') else ''})" for t in exp["terms"]]
+    user = "\n".join([
+        "Already searched: " + "; ".join(sources.get("people", []) + sources.get("topics", [])
+                                       + sources.get("discovery_shows", [])),
+        "Currently exploring: " + ("; ".join(current) or "nothing yet"),
+        "Recently sent episodes: " + "; ".join(
+            f"{h['show']}: {h['title']}" + (f" [from {h['explore_term']}]" if h.get("explore_term") else "")
+            for h in sent),
+        f"Propose up to {S['expansion_new_per_week']} additions.",
+    ])
+    try:
+        reply = extract_json(claude(EXPANSION_INSTRUCTIONS + "\n\n" + taste_context(state.get("feedback", [])),
+                                    user, 2000), "{")
+    except Exception as e:
+        warn(f"interest expansion skipped: {e}")
+        return
+    known = {t["term"].lower() for t in exp["terms"]} | {
+        x.lower() for x in sources.get("people", []) + sources.get("topics", []) + sources.get("discovery_shows", [])}
+    drop = {d.lower() for d in reply.get("drop", []) if isinstance(d, str)}
+    keep = {k.lower() for k in reply.get("keep", []) if isinstance(k, str)}
+    exp["terms"] = [t for t in exp["terms"] if t["term"].lower() not in drop or t.get("kept")]
+    for t in exp["terms"]:
+        if t["term"].lower() in keep and not t.get("kept"):
+            t["kept"] = True
+            log(f"made permanent: {t['term']}")
+    for d in drop:
+        log(f"dropped exploration: {d}")
+    added = 0
+    for a in reply.get("add", []):
+        if added >= S["expansion_new_per_week"] or not isinstance(a, dict):
+            continue
+        term = (a.get("term") or "").strip()
+        if not term or term.lower() in known or a.get("kind") not in ("person", "show", "topic"):
+            continue
+        exp["terms"].append({"term": term, "kind": a["kind"], "tier": a.get("tier", 2),
+                             "reason": (a.get("reason") or "")[:120], "added": NOW.isoformat(),
+                             "hits": 0, "kept": False})
+        known.add(term.lower())
+        added += 1
+        log(f"started exploring (tier {a.get('tier')}): {term}, {a.get('reason')}")
+    # stay under the active cap, dropping the oldest temporary terms first
+    temp = sorted([t for t in exp["terms"] if not t.get("kept")], key=lambda t: t["added"])
+    while len(exp["terms"]) > S["expansion_max_active"] and temp:
+        exp["terms"].remove(temp.pop(0))
+    exp["last_run"] = NOW.isoformat()
 
 
 # ---------------------------------------------------------------- gathering
@@ -447,6 +532,22 @@ def gather(sources, state, dry):
             if in_window(c, SETTINGS["search_window_days"]):
                 cands.append(c)
     log(f"people and topic searches: {len(cands) - n0} episodes")
+
+    n0 = len(cands)
+    for i, t in enumerate(active_terms(state)):
+        if i % rot != today:
+            continue
+        if t["kind"] == "show":
+            url = resolve_show_feed(t["term"], feed_cache)
+            found = [c for c in fetch_feed(url, t["term"], "explore", max_items=25)
+                     if in_window(c, SETTINGS["discovery_window_days"])] if url else []
+        else:
+            found = [c for c in search_episodes(t["term"], "explore")
+                     if in_window(c, SETTINGS["search_window_days"])]
+        for c in found:
+            c.update(explore_term=t["term"], explore_reason=t["reason"], explore_tier=t.get("tier"))
+        cands += found
+    log(f"exploration searches: {len(cands) - n0} episodes")
 
     if not dry and (NOW.weekday() in SETTINGS["buzz_scan_weekdays"] or os.environ.get("FORCE_BUZZ")):
         cands += buzz_scan(state)
@@ -598,13 +699,15 @@ def select(pool, cands, feed_state):
     def add(c, why, kind):
         entry = {k: c.get(k) for k in ("id", "show", "title", "audio_url", "audio_type", "published",
                                        "minutes", "description", "link", "guid", "image", "source",
-                                       "score", "category", "reason", "buzz", "buzz_note")}
+                                       "score", "category", "reason", "buzz", "buzz_note",
+                                       "explore_term", "explore_reason")}
         entry["added_at"] = NOW.isoformat()
         entry["kind"] = kind
         items.append(entry)
         h = {"id": c["id"], "show": c["show"], "title": c["title"], "source": c["source"],
              "category": c.get("category"), "score": c.get("score"), "minutes": c.get("minutes"),
-             "kind": kind, "added_at": entry["added_at"], "removed_at": None}
+             "kind": kind, "added_at": entry["added_at"], "removed_at": None,
+             "explore_term": c.get("explore_term")}
         history.append(h)
         week.append(h)
         seen.add(c["id"])
@@ -641,6 +744,10 @@ def select(pool, cands, feed_state):
     def last_added(pred):
         return min((days_ago(h["added_at"]) for h in history if pred(h)), default=9999)
 
+    def explore_waiting():
+        return any(p["source"] == "explore" and p["id"] not in seen and not p.get("filler")
+                   and p["category"] != "excluded" and p["score"] >= S["min_score"] for p in pool)
+
     def eligible(c):
         if c["id"] in seen or c.get("filler") or c["category"] == "excluded":
             return False
@@ -657,6 +764,12 @@ def select(pool, cands, feed_state):
             floor = S["min_score"]
         if c["score"] < floor:
             return False
+        explore_week = sum(1 for h in disc_week if h.get("source") == "explore")
+        if c["source"] == "explore" and explore_week >= S["explore_per_week"]:
+            return False
+        if (c["source"] != "explore" and explore_week < S["explore_per_week"] and explore_waiting()
+                and len(disc_week) - explore_week >= S["max_discovery_per_week"] - S["explore_per_week"]):
+            return False  # hold the exploration slots while exploration picks are available
         if c["source"] == "seed" and seeds_week >= S["max_seeds_per_week"]:
             return False
         if c["source"] != "seed" and c.get("minutes") and c["minutes"] > S["max_minutes"]:
@@ -685,6 +798,8 @@ def select(pool, cands, feed_state):
             c, why = best(), "best available"
         if not c:
             break
+        if c["source"] == "explore":
+            why = f"exploring {c.get('explore_term')}"
         add(c, why, "discovery")
         disc_week.append(week[-1])
         if c["source"] == "seed":
@@ -735,8 +850,11 @@ def write_feed(items):
 
     for it in sorted(items, key=lambda i: i["added_at"], reverse=True):
         e = ET.SubElement(ch, "item")
-        ET.SubElement(e, "title").text = f"{it['show']}: {it['title']}"
+        prefix = "Exploring: " if it.get("source") == "explore" else ""
+        ET.SubElement(e, "title").text = f"{prefix}{it['show']}: {it['title']}"
         why = it.get("reason") or ""
+        if it.get("explore_term"):
+            why += f" New interest being tested: {it['explore_term']} ({it.get('explore_reason', '')})"
         if it.get("buzz_note"):
             why += f" Buzz: {it['buzz_note']}"
         orig = (it.get("published") or "")[:10]
@@ -848,6 +966,8 @@ def weekly_checkin(feed_state, state, dry):
     week = [h for h in feed_state.get("history", []) if days_ago(h["added_at"]) < 7]
     picks = [f"{n}. {h['show']}: {h['title']}" for n, h in enumerate(week, 1)]
     poll = "" if dry else topic_poll(state)
+    new_terms = [t for t in active_terms(state) if days_ago(t["added"]) < 7]
+    exploring = [f"- {t['term']}: {t['reason']}" for t in new_terms]
     user = SETTINGS.get("github_username")
     body = "\n".join([
         f"@{user} Two-minute check-in. Reply below in any format. Short is fine." if user else
@@ -862,6 +982,8 @@ def weekly_checkin(feed_state, state, dry):
         "3. Want any of these new topics? Reply with the letters.",
         poll or "(no suggestions this week)",
         "4. Anything to change? More, less, never.",
+        "5. New interests the curator started exploring this week. Name any to drop or keep for good.",
+        *(exploring or ["(none new this week)"]),
         "",
         "Example reply: `starred 2, 5. skipped 3 boring guest. add B. fewer markets episodes.`",
     ])
@@ -900,6 +1022,7 @@ def main():
     feed_state = load_json(STATE / "feed.json", {"items": [], "history": []})
     scores = load_json(STATE / "scores.json", {})
 
+    expand_interests(state, feed_state, sources, dry)
     cands = dedupe(gather(sources, state, dry))
     log(f"{len(cands)} unique candidates")
 
@@ -922,6 +1045,11 @@ def main():
         if s:
             pool.append(dict(c, **{k: s[k] for k in ("score", "category", "filler", "reason")}))
     changes = select(pool, cands, feed_state)
+    sent_today = [h for h in feed_state["history"] if h["added_at"] == NOW.isoformat() and h.get("explore_term")]
+    for h in sent_today:
+        for t in active_terms(state):
+            if t["term"] == h["explore_term"]:
+                t["hits"] = t.get("hits", 0) + 1
     for ch in changes:
         log(ch)
 
