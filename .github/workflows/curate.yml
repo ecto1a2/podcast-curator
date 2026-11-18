@@ -43,6 +43,7 @@ jobs:
         run: python curator.py
 
       - name: Save picks and state
+        if: always()
         run: |
           git config user.name "podcast-curator"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

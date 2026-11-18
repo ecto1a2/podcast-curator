@@ -114,6 +114,11 @@ Changes apply on the next morning's run, or right away if you click **Run workfl
 - **Discovery shows are found by name.** If a name doesn't match, the run notes it and skips that show. Check `state/state.json` under `last_run`, then `errors`.
 - **First live test happens on GitHub.** The logic was tested offline with fake feeds. Live Apple Podcasts search, the Claude API, and the web search step run for the first time in your first workflow run.
 
+## Alerts
+
+- **If it breaks,** for example when API credits run out or the key is missing, it opens a GitHub issue titled "Curator needs attention." GitHub emails you. The issue closes itself once a run works again.
+- **Every Sunday,** the check-in starts with a health line: episodes sent that week against the target, how many days Claude scoring worked, and any feeds that failed.
+
 ## Troubleshooting
 
 - **Red X in Actions.** Click the run, then the failed step, to see the error. Most often the API key is missing or out of credit.

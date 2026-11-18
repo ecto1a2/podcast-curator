@@ -45,6 +45,8 @@ SOURCE_PRIORITY = ["seed", "core", "subscribed", "buzz", "discovery", "search", 
 
 LOG = []
 ERRORS = []
+CLAUDE_FAILURES = []
+ALERT_TITLE = "Curator needs attention"
 
 
 def log(msg):
@@ -374,6 +376,7 @@ def score_with_claude(cands, feedback):
                     results[row["id"]] = row
         except Exception as e:
             warn(f"scoring batch {i // 30 + 1} failed: {e}")
+            CLAUDE_FAILURES.append(str(e))
     return results
 
 
@@ -922,6 +925,42 @@ def gh(method, path, body=None):
         return json.loads(raw) if raw else None
 
 
+def health_summary(state, sent_this_week):
+    recent = [h for h in state.get("health", []) if days_ago(h["date"]) < 7]
+    ok = sum(1 for h in recent if h["claude_ok"])
+    feeds = sorted({f for h in recent for f in h.get("failed_feeds", [])})
+    line = (f"{sent_this_week} {'episode' if sent_this_week == 1 else 'episodes'} sent this week "
+            f"(target about 8). Claude scoring worked {ok} of {len(recent)} "
+            f"{'day' if len(recent) == 1 else 'days'}.")
+    if sent_this_week < 4:
+        line += " Fewer picks than usual. Check the bar or add sources if this keeps happening."
+    if feeds:
+        line += " Feeds that failed: " + ", ".join(feeds[:6]) + "."
+    return line
+
+
+def raise_or_clear_alert(problem):
+    """Open a GitHub issue (which emails the owner) when the curator breaks, close it when fixed."""
+    if not os.environ.get("GITHUB_TOKEN"):
+        return
+    try:
+        open_alerts = [i for i in gh("GET", "/issues?state=open&per_page=50")
+                       if i["title"] == ALERT_TITLE and "pull_request" not in i]
+        user = SETTINGS.get("github_username")
+        if problem and not open_alerts:
+            gh("POST", "/issues", {"title": ALERT_TITLE, "body":
+               f"{'@' + user + ' ' if user else ''}{problem}\n\nNo picks are being sent until this is fixed. "
+               "This issue closes itself once a run works again."})
+            log("opened alert issue")
+        elif not problem:
+            for i in open_alerts:
+                gh("POST", f"/issues/{i['number']}/comments", {"body": "Back to normal. Picks are flowing again."})
+                gh("PATCH", f"/issues/{i['number']}", {"state": "closed"})
+                log("closed alert issue")
+    except Exception as e:
+        warn(f"could not update alert issue: {e}")
+
+
 def read_checkin_replies(state):
     """Pull new replies from open check-in issues into state['feedback']."""
     feedback = state.setdefault("feedback", [])
@@ -973,6 +1012,9 @@ def weekly_checkin(feed_state, state, dry):
         f"@{user} Two-minute check-in. Reply below in any format. Short is fine." if user else
         "Two-minute check-in. Reply below in any format.",
         "",
+        "**Health**",
+        health_summary(state, len(week)),
+        "",
         "**This week's picks**",
         *(picks or ["No new picks this week."]),
         "",
@@ -1014,6 +1056,8 @@ def main():
     if dry and os.environ.get("GITHUB_ACTIONS"):
         print("ANTHROPIC_API_KEY secret is missing. Add it under Settings > Secrets and variables > "
               "Actions. Stopping so no picks are sent without Claude.")
+        raise_or_clear_alert("The ANTHROPIC_API_KEY secret is missing, so Claude can't score episodes. "
+                             "Add it under Settings > Secrets and variables > Actions.")
         return 1
     if dry:
         log("No ANTHROPIC_API_KEY found, so this is a dry run with simple keyword scoring.")
@@ -1055,6 +1099,22 @@ def main():
 
     write_feed(feed_state["items"])
     write_index(feed_state["items"])
+
+    problem = None
+    if not dry and need and not fresh:
+        detail = CLAUDE_FAILURES[-1] if CLAUDE_FAILURES else "no reply"
+        if "credit" in detail.lower():
+            problem = ("Claude stopped answering because the API credit balance ran out. "
+                       "Add credit at console.anthropic.com under Billing. Picks resume on the next run.")
+        else:
+            problem = f"Claude could not score episodes today. Error: {detail[:300]}"
+    failed_feeds = [e.split("feed failed for ", 1)[1].split(":")[0] for e in ERRORS if e.startswith("feed failed for ")]
+    health = state.setdefault("health", [])
+    health.append({"date": NOW.isoformat(), "claude_ok": problem is None,
+                   "sent": sum(1 for h in feed_state["history"] if h["added_at"] == NOW.isoformat()),
+                   "failed_feeds": failed_feeds[:20], "problem": problem})
+    del health[:-30]
+    raise_or_clear_alert(problem)
     weekly_checkin(feed_state, state, dry)
 
     # keep state files from growing forever
@@ -1067,6 +1127,10 @@ def main():
     save_json(STATE / "feed.json", feed_state)
     save_json(STATE / "scores.json", scores)
     log(f"done. {len(feed_state['items'])} picks in the feed, {len(ERRORS)} warnings.")
+    if problem:
+        print("PROBLEM: " + problem)
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
