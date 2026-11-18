@@ -38,15 +38,6 @@
         "kept": false
       },
       {
-        "term": "The Ezra Klein Show",
-        "kind": "show",
-        "tier": 2,
-        "reason": "Starred episodes (Pollan, men and boys); big ideas",
-        "added": "2026-11-18T21:49:08.368989+00:00",
-        "hits": 0,
-        "kept": false
-      },
-      {
         "term": "Annie Duke",
         "kind": "person",
         "tier": 2,
@@ -60,15 +51,6 @@
         "kind": "topic",
         "tier": 3,
         "reason": "Extends drug trade and money laundering into sanctions",
-        "added": "2026-11-18T21:49:08.368989+00:00",
-        "hits": 0,
-        "kept": false
-      },
-      {
-        "term": "Pablo Torre Finds Out",
-        "kind": "show",
-        "tier": 2,
-        "reason": "Sports business and corruption angle named in profile",
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
         "kept": false
@@ -373,24 +355,6 @@
       },
       "checked": "2026-11-18T21:49:08.368989+00:00"
     },
-    "The Knowledge Project with Shane Parrish|Bret Taylor": {
-      "candidate": {
-        "id": "ab6149ab81e7",
-        "show": "The Knowledge Project",
-        "title": "Bret Taylor: A Vision for AI’s Next Frontier",
-        "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/FSMI4955613846.mp3?updated=1752676935",
-        "audio_type": "audio/mpeg",
-        "published": "2025-04-15T10:00:00Z",
-        "minutes": 128,
-        "description": "What happens when one of the most legendary minds in tech delves deep into the real workings of modern AI? A 2-hour long masterclass that you don’t want to miss. Bret Taylor, current chairman of OpenAI, unpacks why AI is transforming software engineering forever, how founders can survive acquisition (he’s done it twice), and why the true bottlenecks in AI aren’t what most think. Drawing on his extensive experiences at Facebook, Google, Twitter and more, he explains why the next phase of AI won’t just be about building better models—it’s about creating entirely new ways for us to work with them",
-        "link": "https://podcasts.apple.com/us/podcast/bret-taylor-a-vision-for-ais-next-frontier/id990149481?i=1000703580473&uo=4",
-        "guid": "7bdae122-1963-11f0-97fc-27a9fdca520e",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/9c/e2/4a9ce2fd-ddf6-0d00-8760-4e7167378ecf/mza_16600443422050351456.jpeg/600x600bb.jpg",
-        "episode_type": "",
-        "source": "seed"
-      },
-      "checked": "2026-11-18T21:49:08.368989+00:00"
-    },
     "The Diary Of A CEO with Steven Bartlett|Simon Sinek: You're Being Lied To About AI": {
       "candidate": {
         "id": "f3693095bcd9",
@@ -628,24 +592,6 @@
         "link": "https://podcasters.spotify.com/pod/show/alex-oconnor4/episodes/104-Annaka-Harris---Is-Consciousness-Fundamental-e394lqi",
         "guid": "52d81d3c-37c6-4724-b7bf-4f446b60b21b",
         "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44549714/550aa4f18f30146e.png",
-        "episode_type": "",
-        "source": "seed"
-      },
-      "checked": "2026-11-18T21:49:08.368989+00:00"
-    },
-    "The Knowledge Project with Shane Parrish|Dr. Becky Kennedy": {
-      "candidate": {
-        "id": "3c234bf6492a",
-        "show": "The Knowledge Project",
-        "title": "Dr. Becky Kennedy: The One Thing You Can Say That Changes Everything",
-        "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/FSMI9727853872.mp3?updated=1753453802",
-        "audio_type": "audio/mpeg",
-        "published": "2024-02-06T06:00:00Z",
-        "minutes": 117,
-        "description": "Dr. Becky Kennedy shares the crucial life and parenting skills you need but didn't get taught on regulating emotions, setting boundaries, and the best sentence you can say when a partner tells you something difficult. This episode applies to EVERY relationship in your life, not just your kids. Get ready to parent more effectively with less stress, repair after a disagreement, regulate emotions, and unlock the next level in all of your relationships. Dubbed the “The Millennial Parenting Whisperer” by TIME Magazine, Dr. Kennedy is the #1 New York Times bestselling author of Good Inside: A Guide ",
-        "link": "https://podcasts.apple.com/us/podcast/dr-becky-kennedy-the-one-thing-you-can-say-that/id990149481?i=1000644311414&uo=4",
-        "guid": "85bfafbd-7fcf-410c-b4b3-3ae42f5994c1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/9c/e2/4a9ce2fd-ddf6-0d00-8760-4e7167378ecf/mza_16600443422050351456.jpeg/600x600bb.jpg",
         "episode_type": "",
         "source": "seed"
       },

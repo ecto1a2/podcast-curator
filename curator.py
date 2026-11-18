@@ -224,7 +224,14 @@ def fetch_feed(url, label, source, max_items=None):
 
 # ---------------------------------------------------------------- Apple Podcasts directory
 
+_LAST_ITUNES = [0.0]
+
+
 def itunes(params):
+    wait = 3.2 - (time.time() - _LAST_ITUNES[0])  # Apple allows roughly 20 searches a minute
+    if wait > 0:
+        time.sleep(wait)
+    _LAST_ITUNES[0] = time.time()
     params = dict(params, media="podcast", country="US")
     url = "https://itunes.apple.com/search?" + urllib.parse.urlencode(params)
     try:
@@ -241,14 +248,16 @@ def resolve_show_feed(name, cache):
         return hit.get("url")
     best, best_score = None, 0.0
     for r in itunes({"term": name, "entity": "podcast", "limit": 8}):
-        s = overlap(name, r.get("collectionName", ""))
+        cn = r.get("collectionName", "")
+        s = max(overlap(name, cn), overlap(cn, name) if len(norm_tokens(cn)) >= 2 else 0)
         if s > best_score and r.get("feedUrl"):
             best, best_score = r, s
     url = best["feedUrl"] if best and best_score >= 0.6 else None
     cache[name] = {"url": url, "checked": NOW.isoformat(),
                    "matched": best.get("collectionName") if best else None}
     if not url:
-        warn(f"could not find a feed for discovery show '{name}'")
+        seen_name = best.get("collectionName") if best else "nothing close"
+        warn(f"could not find a feed for discovery show '{name}' (closest: {seen_name})")
     return url
 
 
@@ -450,6 +459,7 @@ def expand_interests(state, feed_state, sources, dry):
     user = "\n".join([
         "Already searched: " + "; ".join(sources.get("people", []) + sources.get("topics", [])
                                        + sources.get("discovery_shows", [])),
+        "Already subscribed (never propose these): " + "; ".join(subscribed),
         "Currently exploring: " + ("; ".join(current) or "nothing yet"),
         "Recently sent episodes: " + "; ".join(
             f"{h['show']}: {h['title']}" + (f" [from {h['explore_term']}]" if h.get("explore_term") else "")
@@ -462,8 +472,10 @@ def expand_interests(state, feed_state, sources, dry):
     except Exception as e:
         warn(f"interest expansion skipped: {e}")
         return
+    subscribed = [x["name"] for x in sources.get("subscribed", [])]
     known = {t["term"].lower() for t in exp["terms"]} | {
-        x.lower() for x in sources.get("people", []) + sources.get("topics", []) + sources.get("discovery_shows", [])}
+        x.lower() for x in sources.get("people", []) + sources.get("topics", []) + sources.get("discovery_shows", [])
+        + subscribed}
     drop = {d.lower() for d in reply.get("drop", []) if isinstance(d, str)}
     keep = {k.lower() for k in reply.get("keep", []) if isinstance(k, str)}
     exp["terms"] = [t for t in exp["terms"] if t["term"].lower() not in drop or t.get("kept")]
@@ -478,7 +490,8 @@ def expand_interests(state, feed_state, sources, dry):
         if added >= S["expansion_new_per_week"] or not isinstance(a, dict):
             continue
         term = (a.get("term") or "").strip()
-        if not term or term.lower() in known or a.get("kind") not in ("person", "show", "topic"):
+        if (not term or term.lower() in known or a.get("kind") not in ("person", "show", "topic")
+                or any(overlap(term, k) >= 0.8 for k in subscribed)):
             continue
         exp["terms"].append({"term": term, "kind": a["kind"], "tier": a.get("tier", 2),
                              "reason": (a.get("reason") or "")[:120], "added": NOW.isoformat(),
@@ -985,7 +998,10 @@ def topic_poll(state):
             "based on the profile and starred examples. One line each, under 15 words, labeled A, B, C. "
             "Reply with only the three lines.")
     try:
-        return claude(system, user, 400).strip()
+        reply = claude(system, user, 1500).strip()
+        if not reply:
+            warn("topic poll came back empty")
+        return reply
     except Exception as e:
         warn(f"topic poll skipped: {e}")
         return ""
