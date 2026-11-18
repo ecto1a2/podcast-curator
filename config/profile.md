@@ -9,10 +9,11 @@ Edit it any time on GitHub. Plain English is fine.
 - Often stops episodes early on purpose. Skips final credits and ads.
 
 ## What matters most
-1. Guest and host quality beats topic. A great guest on a so-so topic beats a so-so guest on a great topic.
-2. Episode-level buzz beats show ratings. One widely discussed episode from a small show beats an average episode of a top-10 show.
-3. Recency matters less than quality. An episode from weeks or months ago is fine if it is strong or recently talked about.
-4. My stars are my strongest signal. Episodes similar to my starred list (guests, depth, topics) should score high.
+1. Topic comes first. The episode must be on a topic I am interested in (see Topics below). A great host or guest on a topic I do not care about, like celebrity gossip or ballet, is a no.
+2. Among on-topic episodes, guest and host quality decides the ranking. A great guest on an interesting topic beats an average guest on the same topic.
+3. Episode-level buzz beats show ratings. One widely discussed episode from a small show beats an average episode of a top-10 show.
+4. Recency matters less than quality. An episode from weeks or months ago is fine if it is strong or recently talked about.
+5. My stars are my strongest signal. Episodes similar to my starred list (guests, depth, topics) should score high.
 
 ## Topics
 ### Lead (highest weight)

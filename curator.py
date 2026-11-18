@@ -344,7 +344,8 @@ SCORING_INSTRUCTIONS = """You score podcast episodes for one listener, described
 For each candidate return an object with:
 - "id": copy it exactly
 - "score": 0 to 100. 90+ means the listener would likely star it. 70+ means worth a slot this week.
-  Weight guest and host quality first, then topic fit. Use what you know about the guest and the show.
+  Topic fit is a gate: if the topic is not one the listener is interested in, score 40 or lower no matter how good the guest or host.
+  Among on-topic episodes, guest and host quality decides the ranking. Use what you know about the guest and the show.
   A "buzz" flag means the episode was found because people are talking about it. Treat that as a plus if it fits.
 - "category": one of %s. Use "excluded" for murder or mystery true crime, celebrity gossip, and anything the profile says never to pick.
 - "filler": true for trailers, reruns, ad-only drops, housekeeping, or a weak bonus episode. Patreon previews are not filler by themselves.

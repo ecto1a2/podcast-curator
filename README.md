@@ -13,7 +13,7 @@ https://ecto1a2.github.io/podcast-curator/feed.xml
 Each day, around 4 to 5 AM Cleveland time:
 
 1. **Gather.** New episodes from your 27 subscriptions, 26 discovery shows, and searches for 19 people and 8 topics. Twice a week, Claude also searches the web for episodes getting buzz.
-2. **Score.** Claude rates each new episode 0 to 100 using `config/profile.md`, your notes, and your check-in replies. Guest quality counts most.
+2. **Score.** Claude rates each new episode 0 to 100 using `config/profile.md`, your notes, and your check-in replies. Topic fit comes first. Among on-topic episodes, guest and host quality decides the ranking.
 3. **Send.** About 8 a week:
    - **Regulars, about 3 a week.** Pardon My Take on Monday and Friday, and Stavvy's World's main weekly episode, always go in.
    - **Discovery, up to 5 a week, at most 1 a day.** Only episodes scoring 70 or higher. On a slow day, the slot stays empty rather than sending filler.
