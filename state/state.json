@@ -1,1 +1,726 @@
-{}
+{
+  "expansion": {
+    "terms": [
+      {
+        "term": "Tim Dillon",
+        "kind": "person",
+        "tier": 2,
+        "reason": "Nick Mullen's close comedy circle; ideas-heavy conversations",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "ChinaTalk",
+        "kind": "show",
+        "tier": 2,
+        "reason": "Dan Wang-style China analysis and tech geopolitics",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Ethan Mollick",
+        "kind": "person",
+        "tier": 2,
+        "reason": "AI and work, practical business strategy",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Eric Topol",
+        "kind": "person",
+        "tier": 2,
+        "reason": "AI in healthcare, strong fit with Heart of Healthcare",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "The Ezra Klein Show",
+        "kind": "show",
+        "tier": 2,
+        "reason": "Starred episodes (Pollan, men and boys); big ideas",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Annie Duke",
+        "kind": "person",
+        "tier": 2,
+        "reason": "Decision making and mental models, close to systems thinking",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "sanctions evasion shadow fleet",
+        "kind": "topic",
+        "tier": 3,
+        "reason": "Extends drug trade and money laundering into sanctions",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Pablo Torre Finds Out",
+        "kind": "show",
+        "tier": 2,
+        "reason": "Sports business and corruption angle named in profile",
+        "added": "2026-11-18T21:49:08.368989+00:00",
+        "hits": 0,
+        "kept": false
+      }
+    ],
+    "last_run": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "feed_cache": {
+    "The Knowledge Project with Shane Parrish": {
+      "url": null,
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "The Knowledge Project"
+    },
+    "The Diary Of A CEO with Steven Bartlett": {
+      "url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "The Diary Of A CEO with Steven Bartlett"
+    },
+    "The Blocks with Neal Brennan": {
+      "url": "https://feeds.megaphone.fm/TPC1688414199",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Blocks: I Wish I Knew w/ Neal Brennan"
+    },
+    "Club Random with Bill Maher": {
+      "url": "https://rss.pdrl.fm/f10906/feeds.megaphone.fm/MCI6910680963",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Club Random with Bill Maher"
+    },
+    "Economist Podcasts": {
+      "url": null,
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Money Talks from The Economist"
+    },
+    "The Prof G Pod with Scott Galloway": {
+      "url": "https://feeds.megaphone.fm/WWO6655869236",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "The Prof G Pod with Scott Galloway"
+    },
+    "HBR IdeaCast": {
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "HBR IdeaCast"
+    },
+    "The Art of Manliness": {
+      "url": "https://rss.art19.com/the-art-of-manliness",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "The Art of Manliness"
+    },
+    "Within Reason": {
+      "url": "https://anchor.fm/s/10a220e88/podcast/rss",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Within Reason"
+    },
+    "Matt and Shane's Secret Podcast": {
+      "url": "https://feeds.megaphone.fm/GLT1158789509",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Matt and Shane's Secret Podcast"
+    },
+    "Bad Friends": {
+      "url": "https://feeds.megaphone.fm/TPC1602991613",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Bad Friends"
+    },
+    "Whiskey Ginger with Andrew Santino": {
+      "url": "https://feeds.megaphone.fm/TPC6596839207",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Whiskey Ginger with Andrew Santino"
+    },
+    "TigerBelly": {
+      "url": "https://rss.art19.com/tigerbelly-podcast",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "TigerBelly"
+    },
+    "Tuesdays with Stories": {
+      "url": "https://rss.libsyn.com/shows/548322/destinations/4729792.xml",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Tuesdays with Stories!"
+    },
+    "GoodFellows: Conversations on Economics, History & Geopolitics": {
+      "url": "https://feed.podbean.com/goodfellows/feed.xml",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "GoodFellows: Conversations on Economics, History & Geopolitics"
+    },
+    "Dwarkesh Podcast": {
+      "url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Dwarkesh Podcast"
+    },
+    "Hard Fork": {
+      "url": "https://feeds.simplecast.com/6HKOhNgS",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Hard Fork"
+    },
+    "Founders": {
+      "url": "https://feeds.megaphone.fm/DSLLC6297708582",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Founders"
+    },
+    "Odd Lots": {
+      "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Odd Lots"
+    },
+    "Freakonomics Radio": {
+      "url": "https://feeds.simplecast.com/Y8lFbOT4",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Freakonomics Radio"
+    },
+    "Pod Save America": {
+      "url": "https://audioboom.com/channels/5166624.rss",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Pod Save America"
+    },
+    "Tradeoffs": {
+      "url": "https://feeds.acast.com/public/shows/170f7fea-3078-4315-9c6b-57b666e73855",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Tradeoffs"
+    },
+    "Good Inside with Dr. Becky": {
+      "url": "https://feeds.simplecast.com/Y5N0xWWZ",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Good Inside with Dr. Becky"
+    },
+    "Milk Street Radio": {
+      "url": "https://rss.pdrl.fm/864d83/publicfeeds.net/f/9135/feed-rss.xml",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Christopher Kimball’s Milk Street Radio"
+    },
+    "The Splendid Table": {
+      "url": "https://feeds.publicradio.org/public_feeds/the-splendid-table",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "The Splendid Table: Conversations & Recipes For Curious Cooks & Eaters"
+    },
+    "KPI Fireside": {
+      "url": "https://media.rss.com/kpi-fireside/feed.xml",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "KPI Fireside: A Continuous Improvement Podcast"
+    },
+    "ChinaTalk": {
+      "url": "https://feeds.megaphone.fm/CHTAL4990341033",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "ChinaTalk"
+    },
+    "The Ezra Klein Show": {
+      "url": "https://feeds.simplecast.com/kEKXbjuJ",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "The Ezra Klein Show"
+    },
+    "Pablo Torre Finds Out": {
+      "url": "https://feeds.acast.com/public/shows/68b1d0ea993d10acb9c3fe4f",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "Pablo Torre Finds Out"
+    },
+    "The Diary Of A CEO": {
+      "url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+      "checked": "2026-11-18T21:49:08.368989+00:00",
+      "matched": "The Diary Of A CEO with Steven Bartlett"
+    }
+  },
+  "seed_cache": {
+    "The Diary Of A CEO|Dr. Sarah Paine: Why The World Is Turning Away": {
+      "candidate": {
+        "id": "2aa70aa2a4c1",
+        "show": "The Diary Of A CEO with Steven Bartlett",
+        "title": "Dr. Sarah Paine: Why The World Is Turning Away From America",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5NXR742DT1QNDCDPS193Q51.mp3?fcv=h2py3z4az6uqv0g3rqs8dg6k",
+        "audio_type": "audio/mpeg",
+        "published": "2026-10-29T06:00:00+00:00",
+        "minutes": 102,
+        "description": "Are escalating geopolitical tensions hurtling humanity towards World War III? Dr. Sarah Paine highlights the historical roots of geopolitical conflicts and demonstrates how shifting away from a rules-based maritime order guarantees economic collapse. Dr. Sarah Paine is a renowned geopolitical strategist, historian, and retired professor from the U.S. Naval War College, specializing in Russian and Chinese imperial history and maritime strategy. She applies historical models such as the Peloponnesian War and World War II to decode the actions of leaders like Vladimir Putin and Xi Jinping. In thi",
+        "link": "",
+        "guid": "flightcast:01M5NXR742DT1QNDCDPS193Q51",
+        "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5NZ8FAPCJ2RFPDH202RH6XM/paine_cover.jpg",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Conversations with Tyler|Dan Wang on What China and America Can Learn": {
+      "candidate": {
+        "id": "8190f9a0a522",
+        "show": "Conversations with Tyler",
+        "title": "Dan Wang on What China and America Can Learn from Each Other",
+        "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-274-DanWang-Audio-Final-V2.mp3?dest-id=850607",
+        "audio_type": "audio/mpeg",
+        "published": "2025-12-03T12:50:00+00:00",
+        "minutes": 93,
+        "description": "Help us keep the conversations going in 2026. Donate to Conversations with Tyler today. Dan Wang argues that China is a nation of engineers while America is a nation of lawyers, and this distinction explains everything from subway construction to pandemic response to why Chinese citizens will never have yards with dogs. His prescription: America should become 20% more engineering-minded to fix its broken infrastructure, while China needs to be 50% more lawyerly so the Communist Party can stop strangling individual rights and the creative impulses of its people. But would a more lawyerly China ",
+        "link": "https://cowenconvos.libsyn.com/dan-wang-on-what-china-and-america-can-learn-from-each-other",
+        "guid": "b43f7aad-5e19-4bb1-8056-be8fe3c3aebc",
+        "image": "https://static.libsyn.com/p/assets/4/7/0/2/470221bcd1a86888d959afa2a1bf1c87/CWT-274-DanWang-Libsyn.png",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Conversations with Tyler|Cass Sunstein on Liberalism and Rights": {
+      "candidate": {
+        "id": "b8aef8995b96",
+        "show": "Conversations with Tyler",
+        "title": "Cass Sunstein on Liberalism and Rights in the Age of AI",
+        "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-271-CassSunstein-Audio-Final.mp3?dest-id=850607",
+        "audio_type": "audio/mpeg",
+        "published": "2025-11-26T12:00:00+00:00",
+        "minutes": 80,
+        "description": "Cass Sunstein is one of the most widely cited legal scholars of all time and among the most prolific writers working today. This year alone he has five books out, including Imperfect Oracle on the strengths and limits of AI and On Liberalism: In Defense of Freedom . In his second appearance on the show, he brings his characteristic intellectual range to exploring liberalism's present precariousness and AI's implications for law and speech. Tyler and Cass discuss whether liberalism is self-undermining or simply vulnerable to illiberal forces, the tensions in how a liberal immigration regime wou",
+        "link": "https://cowenconvos.libsyn.com/cass-sunstein-on-liberalism-and-rights-in-the-age-of-ai",
+        "guid": "db47550a-e56f-4e9b-a08c-c8f2e2c82e37",
+        "image": "https://static.libsyn.com/p/assets/4/b/f/b/4bfb6e670dca7590d959afa2a1bf1c87/CWT-271-CassSunstein-Libsyn.png",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Conversations with Tyler|Theodore Schwartz on Neurosurgery": {
+      "candidate": {
+        "id": "8bfcc5a9aafd",
+        "show": "Conversations with Tyler",
+        "title": "Theodore Schwartz on Neurosurgery, Consciousness, and Brain-Computer Interfaces",
+        "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-239-TedSchwartz-Audio-Final-92nyintro.mp3?dest-id=850607",
+        "audio_type": "audio/mpeg",
+        "published": "2025-05-21T11:30:00+00:00",
+        "minutes": 58,
+        "description": "Get tickets to the CWT live show at 92NY with David Brooks! Theodore Schwartz stands at the pinnacle of neurosurgical expertise. With over 500 published articles, 200 pieces of commentary, and 5 patents to his name—effectively producing a scholarly work every two weeks for three decades—Schwartz spent most of his career at Weill Cornell Medicine, where he pioneered new minimally-invasive surgical techniques and led the Epilepsy Research Laboratory, among many (many) other things. His recent book Gray Matters: A Biography of Brain Surgery offers readers an insider's view of one of medicine's mo",
+        "link": "https://cowenconvos.libsyn.com/theodore-schwartz",
+        "guid": "c4c81710-d001-477b-9097-4483cb8d0873",
+        "image": "https://static.libsyn.com/p/assets/8/0/c/f/80cf90e3d40bb427d959afa2a1bf1c87/CWT-239-TheodoreSchwartz-Libsyn.png",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Conversations with Tyler|David Commins on Saudi Arabia": {
+      "candidate": {
+        "id": "316e58bc1ad6",
+        "show": "Conversations with Tyler",
+        "title": "David Commins on Saudi Arabia, Wahhabism, and the Future of the Gulf States",
+        "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-263-DavidCommins-Audio-Final.mp3?dest-id=850607",
+        "audio_type": "audio/mpeg",
+        "published": "2025-09-17T12:00:00+00:00",
+        "minutes": 51,
+        "description": "David Commins, author of the new book Saudi Arabia: A Modern History , brings decades of scholarship and firsthand experience to explain the kingdom's unlikely rise. Tyler and David discuss why Wahhabism was essential for Saudi state-building, the treatment of Shiites in the Eastern Province and whether discrimination has truly ended, why the Saudi state emerged from its poorer and least cosmopolitan regions, the lasting significance of the 1979 Grand Mosque seizure by millenarian extremists, what's kept Gulf states stable, the differing motivations behind Saudi sports investments, the disappo",
+        "link": "https://cowenconvos.libsyn.com/david-commins",
+        "guid": "57f6aa84-3496-4c21-a642-087ddeb236f0",
+        "image": "https://static.libsyn.com/p/assets/8/b/9/7/8b9795d199a0ae0c16c3140a3186d450/CWT-263-DavidCommins-Libsyn.png",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Blocks with Neal Brennan|Alain de Botton": {
+      "candidate": {
+        "id": "acd6a9a490b7",
+        "show": "Blocks: I Wish I Knew w/ Neal Brennan",
+        "title": "Alain de Botton",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/27/pscrb.fm/rss/p/arttrk.com/p/PRGN3/claritaspod.com/measure/traffic.megaphone.fm/TPC8754671591.mp3?updated=1764660519",
+        "audio_type": "audio/mpeg",
+        "published": "2025-10-30T10:00:00+00:00",
+        "minutes": 127,
+        "description": "Neal Brennan interviews Alain de Botton (The School of Life) about the things that make him feel lonely, isolated, and like something's wrong - and how he is persevering despite these blocks. Subscribe to the School of Life: @theschooloflifetv 00:00 Intro 00:33 Philosophy as self-therapy 3:24 ‘Status Anxiety’ & Career Snobbery 5:30 You Will Marry the Wrong Person 11:40 The Tragedy of Baldness 14:02 Philosopher to Psychotherapy 16:55 Healing 19:50 Putting Your Wound To Use 20:40 Self-Pity 27:35 Difficulty of Changing 30:33 Love 32:36 Religion & Spirituality 40:14 Fatherhood 44:27 How The School",
+        "link": "",
+        "guid": "acc31ed2-b4ed-11f0-85b3-23ad5f85a3a5",
+        "image": "https://megaphone.imgix.net/podcasts/acc31ed2-b4ed-11f0-85b3-23ad5f85a3a5/image/26f9a7f0b60bcc54b1a656f7fe72aed3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Blocks with Neal Brennan|Sam Harris": {
+      "candidate": {
+        "id": "63a08d2b6a73",
+        "show": "Blocks: I Wish I Knew w/ Neal Brennan",
+        "title": "Sam Harris",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/27/pscrb.fm/rss/p/arttrk.com/p/PRGN3/claritaspod.com/measure/traffic.megaphone.fm/TPC2827859226.mp3?updated=1773774748",
+        "audio_type": "audio/mpeg",
+        "published": "2026-03-19T10:00:00+00:00",
+        "minutes": 124,
+        "description": "Neal Brennan interviews Sam Harris (Making Sense, Waking Up) about his mother Susan Harris' sitcom history, philosophy of the mind, meditation, Trump, secular rationality, fiction writing, dropping out of Stanford, psychic powers, magic, eye contact, consuming bad news, pacifism, meditation vs. political agitation, social media addiction, leftist hypocrisy and much more. Subscribe to @samharrisorg 00:00 Intro 2:25 His mother, Susan Harris 12:09 His father 15:13 Childhood perfectionism 17:22 Fiction writing aspirations & dropping out of college 18:52 MDMA 30:40 Sponsor: Huel 32:58 Sponsor: Mars",
+        "link": "",
+        "guid": "b3586668-221f-11f1-a7c7-b72183a5a157",
+        "image": "https://megaphone.imgix.net/podcasts/b3586668-221f-11f1-a7c7-b72183a5a157/image/73acc8a6ab5969fff75f65503d0a8845.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Club Random with Bill Maher|Sam Harris": {
+      "candidate": {
+        "id": "cf6911a970bd",
+        "show": "Club Random with Bill Maher",
+        "title": "Sam Harris | Club Random with Bill Maher",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/STU9009631027.mp3?updated=1772965041",
+        "audio_type": "audio/mpeg",
+        "published": "2026-03-09T07:00:00+00:00",
+        "minutes": 110,
+        "description": "Bill Maher and Sam Harris go head-to-head on some of the most explosive issues of the moment — and neither pulls punches. Maher defends his dinner with Donald Trump while Harris pushes back hard, sparking a debate that expands into the left’s blind spots, sex differences in sports, media narratives, and the influence of Joe Rogan and podcast culture. Then the conversation turns personal. Harris reflects on nearly losing his home in the Los Angeles fires, while Maher explains why anxiety spirals might actually be a meditation alarm. Along the way they touch on geopolitics, Tucker Carlson, Iran,",
+        "link": "",
+        "guid": "60f244ec-8d56-11f0-88e5-d7067c69175c",
+        "image": "https://megaphone.imgix.net/podcasts/7541140c-272b-11ee-9263-0f01d10dd322/image/e9a2b4505ada7d36325d91b885691512.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Knowledge Project with Shane Parrish|Bret Taylor": {
+      "candidate": {
+        "id": "ab6149ab81e7",
+        "show": "The Knowledge Project",
+        "title": "Bret Taylor: A Vision for AI’s Next Frontier",
+        "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/FSMI4955613846.mp3?updated=1752676935",
+        "audio_type": "audio/mpeg",
+        "published": "2025-04-15T10:00:00Z",
+        "minutes": 128,
+        "description": "What happens when one of the most legendary minds in tech delves deep into the real workings of modern AI? A 2-hour long masterclass that you don’t want to miss. Bret Taylor, current chairman of OpenAI, unpacks why AI is transforming software engineering forever, how founders can survive acquisition (he’s done it twice), and why the true bottlenecks in AI aren’t what most think. Drawing on his extensive experiences at Facebook, Google, Twitter and more, he explains why the next phase of AI won’t just be about building better models—it’s about creating entirely new ways for us to work with them",
+        "link": "https://podcasts.apple.com/us/podcast/bret-taylor-a-vision-for-ais-next-frontier/id990149481?i=1000703580473&uo=4",
+        "guid": "7bdae122-1963-11f0-97fc-27a9fdca520e",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/9c/e2/4a9ce2fd-ddf6-0d00-8760-4e7167378ecf/mza_16600443422050351456.jpeg/600x600bb.jpg",
+        "episode_type": "",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Diary Of A CEO with Steven Bartlett|Simon Sinek: You're Being Lied To About AI": {
+      "candidate": {
+        "id": "f3693095bcd9",
+        "show": "The Diary Of A CEO with Steven Bartlett",
+        "title": "Simon Sinek: You're Being Lied To About AI's Real Purpose And We're Teaching Our Kids To Not Be Human!",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/jl7lfaop4min0meq5r0oal63.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2025-05-26T05:00:00+00:00",
+        "minutes": 127,
+        "description": "What if AI isn’t just a tool - but the greatest threat to human connection we’ve ever faced? Simon Sinek is a world-renowned entrepreneur, optimism expert, and founder of The Optimism Company, a platform which teaches human skills to leaders and organisations. He is also the bestselling author of books such as, ‘Start With Why’ and ‘Leaders Eat Last’. He explains: Why modern politics is killing your sense of purpose. Why we’ve forgotten how to be a good friend. How AI will create a generation of helpless humans. The number one secret skill AI can’t learn. How human skills like empathy are vani",
+        "link": "",
+        "guid": "4836e5ee-37ec-11f0-a260-bbc4eb137de9",
+        "image": "https://files.flightcast.com/episode-imports/images/xmsftuzjjykcmqwolaqn6mdn/jl7lfaop4min0meq5r0oal63/o1c7hcwtrwti43yw8pzvg8eq.jpg",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Ezra Klein Show|Michael Pollan's Journey to the Borderlands of Consciousness": {
+      "candidate": null,
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Ezra Klein Show|Something That Traditional Economics": {
+      "candidate": null,
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Prof G Markets|Cal Newport: The AI Industry Is Betting": {
+      "candidate": {
+        "id": "3d10e7f06c7c",
+        "show": "Prof G Markets",
+        "title": "Cal Newport: The AI Industry Is Betting On The Wrong Kind Of AI",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1239526480.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2026-10-09T08:15:00+00:00",
+        "minutes": 80,
+        "description": "Ed Elson is joined by Cal Newport to discuss AI’s impact on children and mental health and how AI companies are addressing these risks. They also explore what AI “gone right” would look like, whether large language models are the future of the industry, and what role the government should play in regulating the technology. Cal Newport is a Professor of Computer Science at Georgetown University and New York Times bestselling author of eight books. Vote for Prof G Markets at the Signal Awards here Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Foll",
+        "link": "",
+        "guid": "e911f022-c3c8-11f0-b1f3-778cd566f238",
+        "image": "https://megaphone.imgix.net/podcasts/e911f022-c3c8-11f0-b1f3-778cd566f238/image/89bf7447486b89813be1657f5eb603b6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Decoder with Nilay Patel|OpenAI has a Muse problem": {
+      "candidate": {
+        "id": "23ecf03ce37a",
+        "show": "Decoder with Nilay Patel",
+        "title": "OpenAI has a Muse problem",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6813236420.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2026-10-08T09:00:00+00:00",
+        "minutes": 45,
+        "description": "My guest today is Hayden Field, The Verge’s senior AI reporter, and we're discussing the new wave of consumer friendly AI agents. AI enthusiasts have been using agents for a minute now, but the launch of Meta’s Muse, OpenAI’s Dots, and XAI’s Grok Bot has brought easy to use agents to millions. Muse, notably, is free, while Dots is not, and you’ll hear Hayden and me get into why Meta, which still doesn't have a frontier model of its own, might have a meaningful edge here because it's much better at making and distributing consumer products. And wrapped up in this heated agent race are a lot of ",
+        "link": "",
+        "guid": "f0bb4cba-cfc6-11f0-83c5-b30efc51f01d",
+        "image": "https://megaphone.imgix.net/podcasts/f0bb4cba-cfc6-11f0-83c5-b30efc51f01d/image/c2c8bd3c4229763664e2a3c800e72fff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Decoder with Nilay Patel|How Sonos rebooted itself": {
+      "candidate": {
+        "id": "95f29e171d99",
+        "show": "Decoder with Nilay Patel",
+        "title": "How Sonos rebooted itself",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2424781090.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2026-09-03T09:00:00+00:00",
+        "minutes": 74,
+        "description": "My guest today is Sonos CEO Tom Conrad. Tom was on the board at Sonos during the disastrous 2024 app redesign that threatened to crash the entire brand, and he took over as interim CEO to right the ship during that period. About a year ago, he took the permanent role. I have been dying to have Tom on the show to talk about how the board decided to move on from previous CEO Patrick Spence, how he diagnosed the issues inside the company, and what decisions he made to fix them. Plus. Tom was willing to get into the weeds and nerd out with me, and I think this one is pretty fun because of it. Read",
+        "link": "",
+        "guid": "ef824876-cfc6-11f0-83c5-2fee08fa8068",
+        "image": "https://megaphone.imgix.net/podcasts/ef824876-cfc6-11f0-83c5-2fee08fa8068/image/8ae0753c40857d78c036a8bf04ab3d89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Journal|A Sneak Peek Into Anthropic's Business": {
+      "candidate": {
+        "id": "f91ba9e79760",
+        "show": "The Journal.",
+        "title": "A Sneak Peek Into Anthropic’s Business",
+        "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/WSJ6473319531.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2026-10-21T20:34:00+00:00",
+        "minutes": 18,
+        "description": "Anthropic is preparing for what could be one of the biggest IPOs in history. WSJ's Anissa Gardizy got a look at a draft of the company's S-1. It reveals soaring revenue, a business heavily reliant on a few customers and a long list of risk factors, including the possibility of a catastrophic AI incident. Ryan Knutson hosts. Further Listening: - The Great AI Freakout Has Begun - A Data Center Offered $26 Million for Her Land. She Said No. Sign up for WSJ’s free What’s News newsletter. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "link": "",
+        "guid": "f52c324c-cd8f-11f1-98a9-8fd4af4ec809",
+        "image": "https://megaphone.imgix.net/podcasts/b84f9932-8174-11e9-bbd8-7f261513f0c9/image/d84a4f4d55158df9d14f6f2d4b219a28.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Heart of Healthcare|Anthropic's Bet on the Future of Healthcare": {
+      "candidate": {
+        "id": "f931a1bc141d",
+        "show": "The Heart of Healthcare | A Digital Health Podcast",
+        "title": "Anthropic’s Bet on the Future of Healthcare | Healthcare and Life Sciences Lead, Sarah Russell",
+        "audio_url": "https://rss.art19.com/episodes/09ec345e-ccec-4e35-8084-d28a057fb017.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+        "audio_type": "audio/mpeg",
+        "published": "2026-09-14T06:00:00+00:00",
+        "minutes": 33,
+        "description": "Sarah Russell picked up a phrase at her new job at Anthropic: a \"non-regrettable primitive.\" It's how she describes the kind of infrastructure she thinks Anthropic should be building in healthcare, and it says a lot about how one of the most closely watched companies in health AI is positioning itself. In this episode, Steve talks with Sarah Russell, MD healthcare and life sciences lead at Anthropic. This conversation comes as Anthropic heads toward what's shaping up to be one of the most anticipated IPOs in years.We cover:What Anthropic is doing in healthcareWhy HIPAA is struggling to keep up",
+        "link": "",
+        "guid": "gid://art19-episode-locator/V0/-EodhOL8yXeS0Gj19919DKDBhrhR8CnTgPJK6Fqh_hY",
+        "image": "https://content.production.cdn.art19.com/images/25/c0/b4/9b/25c0b49b-412e-473a-93be-c1a6ae510c70/d4731582aee5a5fe3d49003ad119c2fb7594d8f36f54e0452ba96dc9a64491ebd329ecbbf8d323b4f22f0b61add1b65e44dd2d91170b930c03274c2a24726d8a.jpeg",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Heart of Healthcare|Can AI Finish What The Quality Revolution Started": {
+      "candidate": {
+        "id": "6fa7b45f0159",
+        "show": "The Heart of Healthcare | A Digital Health Podcast",
+        "title": "Can AI Finish What The Quality Revolution Started? | Bunkerhill Health CCO Dr. Azita Hamedani",
+        "audio_url": "https://rss.art19.com/episodes/76bb8de5-d7cb-4ae4-800d-65c704692c56.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+        "audio_type": "audio/mpeg",
+        "published": "2026-09-21T06:00:00+00:00",
+        "minutes": 37,
+        "description": "For decades, healthcare's quality movement gave us checklists, forcing functions, and protocols to catch human error before it reached a patient. It worked, to a point. But as medical knowledge and patient complexity keep outpacing what any human system can track, a new question is emerging: can AI pick up where that movement left off?In this episode, in her first interview since stepping into the role, we talk with Dr. Azita Hamedani, the newly appointed Chief Clinical Officer at Bunkerhill Health, an AI company backed by Sequoia and Khosla Ventures. After nearly her entire career in academic",
+        "link": "",
+        "guid": "gid://art19-episode-locator/V0/Lw2LMce2e6gpmB5kxVjRSL_A3CVIB_BSHtJTjpy1ybA",
+        "image": "https://content.production.cdn.art19.com/images/a2/e1/db/31/a2e1db31-fa52-4859-9a59-536ee0443a78/f4d3f55579ae176f542f49ade57d80e64ead39470b6c9195295e904d0dc406ae63661e607ea27c78b6b1f0d4e80a4617f9248e99f3213a960826d225dd68c6f4.jpeg",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "What the Health? From KFF Health News|The Health Risks of AI": {
+      "candidate": {
+        "id": "3a5aa982cbc2",
+        "show": "What the Health? From KFF Health News",
+        "title": "The Health Risks of AI",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/14448/9a637b06-2583-4090-baaa-cc956154d98a/Ep_463_01.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2026-09-17T18:00:00+00:00",
+        "minutes": 38,
+        "description": "Reports from a top artificial intelligence company that it found and stopped attempted uses of its product to manufacture a potential bioweapon caught the attention of lawmakers in Washington this week, although it is still unclear whether or when they will act to regulate the fast-moving industry. Meanwhile, President Donald Trump wants to send $500 checks to about a million enrollees in Affordable Care Act plans. Anna Edney of Bloomberg News, Tami Luhby of CNN, and Alice Miranda Ollstein of Politico join KFF Health News’ Julie Rovner to discuss these stories and more. Also this week, Rovner ",
+        "link": "https://play.prx.org/listen?ge=prx_14448_9a637b06-2583-4090-baaa-cc956154d98a&uf=https%3A%2F%2Fwhatthehealth.feeds.wamu.org",
+        "guid": "prx_14448_9a637b06-2583-4090-baaa-cc956154d98a",
+        "image": "https://f.prxu.org/14448/images/22fc5dba-0795-4053-9bbc-8fb9eb6623c5/WTH-3000sq_2025.jpg",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "We Might Be Drunk|Bobby Lee w/ Sam Morril & Mark Normand": {
+      "candidate": {
+        "id": "d204a6e1cfd4",
+        "show": "We Might Be Drunk",
+        "title": "Bobby Lee w/ Sam Morril & Mark Normand - We Might Be Drunk Podcast",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/mgln.ai/e/1118/clrtpod.com/m/arttrk.com/p/YMH00/traffic.megaphone.fm/YMH9311257210.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2026-10-19T01:00:00+00:00",
+        "minutes": 103,
+        "description": "Bobby Lee joins Mark and Sam to recap the Netflix comedy brunch, meeting Eddie Murphy, and Mark bombing with Jerry Seinfeld. Plus, Bobby explains how he became “Billy Lee,” shares dating disasters in Hawaii, and opens up about social anxiety, friendship, and his upcoming Hulu special. Sponsored by: Fabletics: Save 70–80% off everything when you sign up as a new VIP. Take the style quiz and select WMBD when prompted.https://www.fabletics.com/WMBD Willie’s Remedy: Get 20% off your first order with code WMBD, plus free shipping on orders over $95.https://www.drinkwillies.com Tempo: Get 60% off yo",
+        "link": "",
+        "guid": "608777dc-ca74-11f1-a7af-bfed198d7180",
+        "image": "https://megaphone.imgix.net/podcasts/594c7c94-98d7-11f0-a551-63ec77ca5cfb/image/207c13a897c640dcd7722654d69bd50b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Making Sense with Sam Harris|Finding Equanimity in Chaos": {
+      "candidate": {
+        "id": "4464c6171e45",
+        "show": "Making Sense with Sam Harris",
+        "title": "#408 — Finding Equanimity in Chaos",
+        "audio_url": "https://traffic.libsyn.com/secure/wakingup/Making_Sense_408_Dan_Harris_subscriber.mp3?dest-id=480596",
+        "audio_type": "audio/mpeg",
+        "published": "2025-04-14T16:26:00+00:00",
+        "minutes": 110,
+        "description": "Dan Harris interviews Sam Harris for Dan's podcast, 10% Happier . They discuss how meditation helped Sam after evacuating his home during the LA fires, why Sam owns a gun, the ethics of violence, how to feel compassion for your political opponents, why it doesn't make sense to \"hate\" anyone, free will and determinism, psychedelics, the importance of training your mind, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe . Learning how to train your mind is the single greatest investm",
+        "link": "https://wakingup.libsyn.com/408-finding-equanimity-in-chaos",
+        "guid": "8870a6dd-a360-4bc3-b75e-4280331bd153",
+        "image": "https://static.libsyn.com/p/assets/2/9/5/7/295701b7ccbf722f16c3140a3186d450/408-podcatcher-square.png",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Making Sense with Sam Harris|The Lessons of Death": {
+      "candidate": {
+        "id": "2c70cb13c58a",
+        "show": "Making Sense with Sam Harris",
+        "title": "#104 — The Lessons of Death",
+        "audio_url": "https://traffic.libsyn.com/secure/wakingup/Making_Sense_104_The_Lessons_of_Death_Paywall_8-6-22.mp3?dest-id=480596",
+        "audio_type": "audio/mpeg",
+        "published": "2017-11-15T03:25:52+00:00",
+        "minutes": 28,
+        "description": "Sam Harris speaks with Frank Ostaseski about death and dying—and about how the awareness of death can improve our lives in each moment. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
+        "link": "https://wakingup.libsyn.com/104-the-lessons-of-death",
+        "guid": "15e3b84d4faaeee39b378211a11eabea",
+        "image": "https://static.libsyn.com/p/assets/1/5/e/1/15e1d6e8b1750088d959afa2a1bf1c87/104.png",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "KPI Fireside|Dr. Alan Barnard on Solving the Right Problems": {
+      "candidate": {
+        "id": "19be03a33e3d",
+        "show": "KPI Fireside: A Continuous Improvement Podcast",
+        "title": "Dr. Alan Barnard on Solving the Right Problems with the Theory Of Constraints",
+        "audio_url": "https://content.rss.com/episodes/321944/2002374/kpi-fireside/2025_04_25_23_28_42_7731b8d3-7f25-482d-8aa4-c7a3a5a5edf1.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2025-04-28T12:01:19+00:00",
+        "minutes": 66,
+        "description": "In this episode, Keith Norris sits down with Dr. Alan Barnard—decision scientist, CEO of Goldratt Research Labs, and one of the world’s leading experts on the Theory of Constraints—to explore how organizations can solve the right problems, not just the most obvious ones. Drawing on decades of research, consulting, and direct work with Dr. Eli Goldratt, Alan shares practical insights into how TOC helps companies focus their improvement efforts where it matters most. 🔻 Why most systems fail by solving the wrong problems first 🔻 How the Theory of Constraints reveals the real bottleneck blocking p",
+        "link": "https://rss.com/podcasts/kpi-fireside/2002374",
+        "guid": "0c683399-a984-44b7-8db3-09578f1da570",
+        "image": "https://media.rss.com/kpi-fireside/ep_cover_20250425_110408_cd2a17739ec178c0d5166e7f4be77923.png",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Within Reason|Annaka Harris": {
+      "candidate": {
+        "id": "55a4ec8bca4a",
+        "show": "Within Reason",
+        "title": "#104 Annaka Harris - Is Consciousness Fundamental?",
+        "audio_url": "https://anchor.fm/s/10a220e88/podcast/play/109253906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-5%2F408715691-44100-2-48b4ffb97519264f.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2025-05-04T06:29:00+00:00",
+        "minutes": 93,
+        "description": "Annaka Harris is an American writer. Her work touches on neuroscience, meditation, philosophy of mind and consciousness. She is the author of the New York Times bestseller Conscious: A Brief Guide to the Fundamental Mystery of the Mind . Get Annaka Harris’ documentary Lights On here . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "link": "https://podcasters.spotify.com/pod/show/alex-oconnor4/episodes/104-Annaka-Harris---Is-Consciousness-Fundamental-e394lqi",
+        "guid": "52d81d3c-37c6-4724-b7bf-4f446b60b21b",
+        "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44549714/550aa4f18f30146e.png",
+        "episode_type": "",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Knowledge Project with Shane Parrish|Dr. Becky Kennedy": {
+      "candidate": {
+        "id": "3c234bf6492a",
+        "show": "The Knowledge Project",
+        "title": "Dr. Becky Kennedy: The One Thing You Can Say That Changes Everything",
+        "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/FSMI9727853872.mp3?updated=1753453802",
+        "audio_type": "audio/mpeg",
+        "published": "2024-02-06T06:00:00Z",
+        "minutes": 117,
+        "description": "Dr. Becky Kennedy shares the crucial life and parenting skills you need but didn't get taught on regulating emotions, setting boundaries, and the best sentence you can say when a partner tells you something difficult. This episode applies to EVERY relationship in your life, not just your kids. Get ready to parent more effectively with less stress, repair after a disagreement, regulate emotions, and unlock the next level in all of your relationships. Dubbed the “The Millennial Parenting Whisperer” by TIME Magazine, Dr. Kennedy is the #1 New York Times bestselling author of Good Inside: A Guide ",
+        "link": "https://podcasts.apple.com/us/podcast/dr-becky-kennedy-the-one-thing-you-can-say-that/id990149481?i=1000644311414&uo=4",
+        "guid": "85bfafbd-7fcf-410c-b4b3-3ae42f5994c1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/9c/e2/4a9ce2fd-ddf6-0d00-8760-4e7167378ecf/mza_16600443422050351456.jpeg/600x600bb.jpg",
+        "episode_type": "",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "The Happiness Lab with Dr. Laurie Santos|How to Disagree Better": {
+      "candidate": {
+        "id": "b70905e7a5aa",
+        "show": "The Happiness Lab with Dr. Laurie Santos",
+        "title": "How to Disagree Better",
+        "audio_url": "https://pdrl.fm/e76c46/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/a4801544-d17b-4614-8424-b1ef00bdef0c/audio.mp3?utm_source=Podcast&in_playlist=d623ef0b-3fee-4c26-b815-ae32006cd739",
+        "audio_type": "audio/mpeg",
+        "published": "2024-09-23T04:01:00+00:00",
+        "minutes": 33,
+        "description": "It feels like our world is deeply polarized. We seem to fundamentally disagree with so many people - and with those disputes comes anger and hatred. Can anything bridge these yawning divides? It turns out that we aren’t as divided as all that. Our minds often fool us into thinking we disagree with people more than is actually true. Dr Laurie Santos and Dr Jamil Zaki look at ways we can tame this misconception and get on with people who think a little differently to us. Jamil's book Hope for Cynics: The Surprising Science of Human Goodness is out now. See omnystudio.com/listener for privacy inf",
+        "link": "https://omny.fm/shows/the-happiness-lab-with-dr-laurie-santos/how-to-disagree-better",
+        "guid": "a4801544-d17b-4614-8424-b1ef00bdef0c",
+        "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/image.jpg?t=1793649062&size=Large",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    },
+    "Matt and Shane's Secret Podcast|Podcaster's Union": {
+      "candidate": {
+        "id": "ce8729e8355d",
+        "show": "Matt and Shane's Secret Podcast",
+        "title": "Ep 635 - Podcaster's Union (feat. Kevin Ryan & H. Foley)",
+        "audio_url": "https://traffic.megaphone.fm/GLT3089775729.mp3",
+        "audio_type": "audio/mpeg",
+        "published": "2026-09-10T12:00:00+00:00",
+        "minutes": 59,
+        "description": "Support the D.A.W.G.Z. @ patreon.com/MSsecretpod Support Kippy & Hank @ https://www.patreon.com/cw/AreYouGarbage WATCH their New Special 'American Garbage' THIS Sunday on their YouTube Go See Matt Live @ mattmccusker.com/dates Go See Shane Live @ shanemgillis.com Go See Lemaire Lee Live @ https://lemairelee.fun/ Go See Shawn Gardini Live if you want Seattle and Portland this wknd plz @ https://www.shawngardini.com/live y0o0o0o. Good mornin'. We got the AYG D.A.W.G.Z. in Cusky HQ for you this week. Not gonna lie ... it's a steaming hot cast from the jump. I was crackin' up haha. Check out their",
+        "link": "",
+        "guid": "8538c57e-acc7-11f1-beb7-eb5c99dc6703",
+        "image": "https://megaphone.imgix.net/podcasts/b38b7390-de88-11ef-906f-97532119452a/image/af71cf4472ef1c1891c3cf2583a17755.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "episode_type": "full",
+        "source": "seed"
+      },
+      "checked": "2026-11-18T21:49:08.368989+00:00"
+    }
+  },
+  "health": [
+    {
+      "date": "2026-11-18T21:49:08.368989+00:00",
+      "claude_ok": true,
+      "sent": 3,
+      "failed_feeds": [],
+      "problem": null
+    }
+  ],
+  "feedback": [],
+  "checkin_picks": {
+    "1": [
+      "Pardon My Take: NFL Week 10, Fastest 2 Minutes, Niners And Bengals Roll, Vikings Are Back With Kirk, Hank's Sad Pancakes + Who's Back Of The Week",
+      "Stavvy's World: #207 - Nathan Lund and Sam Tallent",
+      "The Diary Of A CEO with Steven Bartlett: Dr. Sarah Paine: Why The World Is Turning Away From America"
+    ]
+  },
+  "last_run": {
+    "at": "2026-11-18T21:49:08.368989+00:00",
+    "dry_run": false,
+    "candidates": 395,
+    "scored": 249,
+    "changes": [
+      "sent (regular, score 70): Pardon My Take / NFL Week 10, Fastest 2 Minutes, Niners And Bengals Roll, Vikings Are Back With Kirk, Hank's Sad Pancakes + Who's Back Of The Week",
+      "sent (regular, score 88): Stavvy's World / #207 - Nathan Lund and Sam Tallent",
+      "sent (thoughtful pick, score 97): The Diary Of A CEO with Steven Bartlett / Dr. Sarah Paine: Why The World Is Turning Away From America"
+    ],
+    "errors": [
+      "could not find a feed for discovery show 'The Knowledge Project with Shane Parrish'",
+      "could not find a feed for discovery show 'Economist Podcasts'",
+      "starred episode not found yet: The Ezra Klein Show / Michael Pollan's Journey to the Borderlands of Consciousness",
+      "directory search failed for The Ezra Klein Show Something That Traditional Economics: HTTP Error 429: Too Many Requests",
+      "starred episode not found yet: The Ezra Klein Show / Something That Traditional Economics"
+    ]
+  }
+}

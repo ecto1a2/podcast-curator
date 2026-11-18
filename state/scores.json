@@ -1,0 +1,1745 @@
+{
+  "2aa70aa2a4c1": {
+    "score": 97,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Sarah Paine on great power strategy and maritime order, an automatic yes and a past star.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "f91ba9e79760": {
+    "score": 90,
+    "category": "ai",
+    "filler": false,
+    "reason": "WSJ's look at Anthropic's draft S-1: revenue, customer concentration, and catastrophic-risk disclosures, in a tight 18 minutes.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "d204a6e1cfd4": {
+    "score": 88,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee with Sam Morril and Mark Normand, three of your favorite comedians, with Seinfeld and Eddie Murphy stories.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3d10e7f06c7c": {
+    "score": 86,
+    "category": "ai",
+    "filler": false,
+    "reason": "Cal Newport on AI risks to kids and whether LLMs are the right bet; fits your AI-risk interest.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "23ecf03ce37a": {
+    "score": 80,
+    "category": "ai",
+    "filler": false,
+    "reason": "Hayden Field on consumer AI agents and Meta's Muse strategy, a sharp AI business angle.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "6fa7b45f0159": {
+    "score": 84,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Dr. Azita Hamedani on whether AI can extend the healthcare quality movement; squarely your lane.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3a5aa982cbc2": {
+    "score": 78,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "KFF panel on AI health risks and bioweapon attempts, plus ACA policy for your health strategy work.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "f931a1bc141d": {
+    "score": 89,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Anthropic's healthcare lead Sarah Russell on the company's health AI strategy; ties your top themes together.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ce8729e8355d": {
+    "score": 55,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Comedy podcast with funny guests, but not among your named favorites; decent filler for chores.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "95f29e171d99": {
+    "score": 80,
+    "category": "business",
+    "filler": false,
+    "reason": "Sonos CEO Tom Conrad on how the company recovered from its app disaster; a strong operator story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "63a08d2b6a73": {
+    "score": 90,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Neal Brennan and Sam Harris on mind, meditation, and politics; a favorite pairing, though long at 124 minutes.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "cf6911a970bd": {
+    "score": 86,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Sam Harris and Bill Maher clash on politics and podcast culture; a starred pairing.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8190f9a0a522": {
+    "score": 90,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Dan Wang on China as engineers vs America as lawyers; a past star-level conversation.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b8aef8995b96": {
+    "score": 84,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Cass Sunstein on liberalism and AI's effect on law and speech, with Tyler Cowen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "acd6a9a490b7": {
+    "score": 86,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Alain de Botton on loneliness and philosophy as self-therapy with Neal Brennan; a past star.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "316e58bc1ad6": {
+    "score": 84,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "David Commins on Saudi history and Wahhabism, a Middle East deep dive in 51 minutes.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "f3693095bcd9": {
+    "score": 82,
+    "category": "ai",
+    "filler": false,
+    "reason": "Simon Sinek on AI and human connection; a starred episode, though long.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8bfcc5a9aafd": {
+    "score": 84,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Neurosurgeon Theodore Schwartz on consciousness and brain-computer interfaces; a starred episode with Tyler Cowen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "55a4ec8bca4a": {
+    "score": 84,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Annaka Harris on whether consciousness is fundamental, squarely your philosophy interest.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "19be03a33e3d": {
+    "score": 78,
+    "category": "systems",
+    "filler": false,
+    "reason": "Alan Barnard on Theory of Constraints and solving the right problems; a past star.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ab6149ab81e7": {
+    "score": 88,
+    "category": "ai",
+    "filler": false,
+    "reason": "OpenAI chair Bret Taylor on AI's real bottlenecks and software's future; a starred masterclass.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "4464c6171e45": {
+    "score": 86,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Sam Harris on equanimity and meditation after the LA fires, a past star.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b70905e7a5aa": {
+    "score": 50,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Laurie Santos on disagreeing better; mild fit with your decision-making interests but lightweight.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3c234bf6492a": {
+    "score": 82,
+    "category": "parenting",
+    "filler": false,
+    "reason": "Dr. Becky Kennedy on parenting and relationships, a past star; parenting is an occasional topic.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "2c70cb13c58a": {
+    "score": 84,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Sam Harris and Frank Ostaseski on death and living well, a past star and a short listen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "77c832eb8d6a": {
+    "score": 70,
+    "category": "sports",
+    "filler": false,
+    "reason": "Core Pardon My Take show with a Chargers recap and CFB talk; long but auto-queued.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "bfff6fa8d83c": {
+    "score": 88,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Your core weekly Stavvy's World with Nathan Lund and Sam Tallent; funny and economics-minded.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "28f8e7b34358": {
+    "score": 70,
+    "category": "sports",
+    "filler": false,
+    "reason": "Monday Pardon My Take NFL Week 10 recap; a core show, though very long.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e60d736450c1": {
+    "score": 70,
+    "category": "sports",
+    "filler": false,
+    "reason": "Friday Pardon My Take with Dan Orlovsky and Week 10 picks; core show.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "576b14a914ba": {
+    "score": 58,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Short Patreon preview of Stavvy's World with Max Wittert; quick, fun listen for a chore.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "2c86db6774c4": {
+    "score": 72,
+    "category": "news",
+    "filler": false,
+    "reason": "Sam Harris and Jonah Goldberg unpack the midterm fallout, a major event explained by a sharp, trusted pair.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "5b85067b9d80": {
+    "score": 42,
+    "category": "sports",
+    "filler": false,
+    "reason": "A midweek Pardon My Take at 2.5 hours; only worth it if you want trade deadline talk.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ba6e5e9f7d4b": {
+    "score": 84,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Stav with Maury Povich: legendary career, comedy history, and live callers in the format you love.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "1a646b0ca043": {
+    "score": 68,
+    "category": "sports",
+    "filler": false,
+    "reason": "Your Monday Pardon My Take NFL Week 9 recap, though it runs long.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a911124ede9c": {
+    "score": 68,
+    "category": "sports",
+    "filler": false,
+    "reason": "Your Friday Pardon My Take with Brian Baldinger on NFL Week 9, though it runs long.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "da67687c49da": {
+    "score": 68,
+    "category": "comedy",
+    "filler": false,
+    "reason": "A short Stavvy call-show preview, good for chores, with the usual Stav and Eldy chaos.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0caeb1d98098": {
+    "score": 57,
+    "category": "business",
+    "filler": false,
+    "reason": "A quick take on Nvidia's future without Jensen Huang, plus Waymo and Target; light but relevant.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e060fde8fe27": {
+    "score": 58,
+    "category": "business",
+    "filler": false,
+    "reason": "An interesting operator story about a company with no layoffs in 75 years; short and useful.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "708f62d9c1e4": {
+    "score": 25,
+    "category": "other",
+    "filler": false,
+    "reason": "A pigeon magnetoreception science debate, which is off your topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0abf0133ca8a": {
+    "score": 40,
+    "category": "news",
+    "filler": false,
+    "reason": "A daily news roundup touching the Trump-Xi-Putin summit and Nvidia; thin for your taste.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3847af2bc782": {
+    "score": 68,
+    "category": "ai",
+    "filler": false,
+    "reason": "Gil Luria on Nvidia without Jensen, the AI bubble and Anthropic's IPO; strong AI business angle.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e2403215e97c": {
+    "score": 62,
+    "category": "ai",
+    "filler": false,
+    "reason": "A short, clear look at how risky AI data center bets could reach your portfolio.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "eb2ee9aeddef": {
+    "score": 64,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Campbell and Stewart on the Trump-Xi-Putin summit and what makes China different to negotiate with.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8bcacab98a8f": {
+    "score": 33,
+    "category": "business",
+    "filler": false,
+    "reason": "Earnings-season stock chatter on Disney and Home Depot, outside your main interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "fe330e084363": {
+    "score": 56,
+    "category": "business",
+    "filler": false,
+    "reason": "A short WSJ look at the Washington blame game after Nvidia's CEO scandal.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "9479b2890e85": {
+    "score": 36,
+    "category": "news",
+    "filler": false,
+    "reason": "A daily headline roundup on air traffic control and Nvidia petitions; skippable.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "1b6d255989c6": {
+    "score": 62,
+    "category": "ai",
+    "filler": false,
+    "reason": "Prof G Markets panel on Nvidia's risks and Huang's possible return; solid AI-company analysis.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a9bc046cfa93": {
+    "score": 55,
+    "category": "systems",
+    "filler": false,
+    "reason": "A systems-failure story on the antiquated air traffic communications behind Friday's meltdown, in a short format.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "7fa64bf21dad": {
+    "score": 33,
+    "category": "business",
+    "filler": false,
+    "reason": "An intrinsic value explainer for investors; a mild fit with your business interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "931af66df990": {
+    "score": 38,
+    "category": "other",
+    "filler": false,
+    "reason": "A fun Bond casting discussion with former spies, but off your core topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "bfaa263816ad": {
+    "score": 48,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Segura and Kreischer with an MLB guest; funny but not your core comedians.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0c3427d65265": {
+    "score": 35,
+    "category": "news",
+    "filler": false,
+    "reason": "A daily headline roundup on the FAA ground stop and Democratic leadership; skippable.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "aab8533bfcca": {
+    "score": 72,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "A short, practical read on what the new Congress means for hospitals and health systems.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "565139107753": {
+    "score": 52,
+    "category": "news",
+    "filler": false,
+    "reason": "Nilay Patel interviews Gov. Sherrill on corruption and tech billionaires owning media; politics-heavy.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e011f5f8d63a": {
+    "score": 72,
+    "category": "ai",
+    "filler": false,
+    "reason": "Galloway and Elson on the Nvidia scandal and Anthropic's IPO as a test for the AI trade.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0b64392d8769": {
+    "score": 62,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Kate Bowler on joy amid loss and imperfection; meaning and mortality themes, kept short.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "aadcaeb443c3": {
+    "score": 90,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "CMS Innovation Center's Jacob Shiff on AI and Medicare payment reform; direct fit for your healthcare and AI interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "d202875422ff": {
+    "score": 88,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand and Sam Morril with Paul Schrader on Pryor, De Niro and Taxi Driver.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "4c567fba45ab": {
+    "score": 62,
+    "category": "news",
+    "filler": false,
+    "reason": "Ezra Klein with Rob Sand on breaking up the two-party system; political and thoughtful, though not core.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "067e47281fbb": {
+    "score": 38,
+    "category": "other",
+    "filler": false,
+    "reason": "A culture and politics chat with Brace Belden, only loosely tied to sports.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "c72d02f22243": {
+    "score": 58,
+    "category": "history",
+    "filler": false,
+    "reason": "Gripping intelligence history from Gordon Corera and David Omand, but it's the middle of a series.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8f47e366896e": {
+    "score": 52,
+    "category": "history",
+    "filler": false,
+    "reason": "Well-told narrative history, but it's part three of a series and only occasional for you.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "405001efdc03": {
+    "score": 45,
+    "category": "business",
+    "filler": false,
+    "reason": "Useful bond-market primer with BlackRock's Steve Laipply, though it's retail investing advice rather than strategy.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "709ae7dedbeb": {
+    "score": 62,
+    "category": "business",
+    "filler": false,
+    "reason": "Schwab CEO Rick Wurster on the AI trade and prediction markets, in a lively live-stage interview.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "50b95a6b48b8": {
+    "score": 40,
+    "category": "news",
+    "filler": false,
+    "reason": "Interesting childcare policy story, but it only loosely connects to your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "6b22b65d1ca8": {
+    "score": 72,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Chalmers on whether an LLM could be conscious fits your AI and consciousness interests, though it's part two.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "1a17d163b365": {
+    "score": 12,
+    "category": "other",
+    "filler": false,
+    "reason": "Music interview with a drummer, well outside your topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "854b0a480422": {
+    "score": 62,
+    "category": "business",
+    "filler": false,
+    "reason": "Robin Wigglesworth on how bonds built the modern world blends markets and history well.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "2c9c7c51a0f4": {
+    "score": 25,
+    "category": "news",
+    "filler": true,
+    "reason": "Daily headline roundup with nothing major for you.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "472d0cf83a3a": {
+    "score": 90,
+    "category": "ai",
+    "filler": false,
+    "reason": "Helen Toner, who voted to fire Altman, on AI risk and why we can't trust AI CEOs.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e710d3f047a7": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Short midterm opinion piece, not your focus.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ac1965752395": {
+    "score": 52,
+    "category": "systems",
+    "filler": false,
+    "reason": "Planet Money on how wildfire risk is breaking insurance economics, a good systems story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "77a8dc4ba5c1": {
+    "score": 55,
+    "category": "ai",
+    "filler": false,
+    "reason": "Stock-focused take on Nvidia after Huang and the AI bubble question, with some strategy angle.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "1e8f3026755b": {
+    "score": 50,
+    "category": "business",
+    "filler": false,
+    "reason": "Why the job market is frozen, with a possible AI-and-work angle.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "41dd109f7ef9": {
+    "score": 35,
+    "category": "news",
+    "filler": true,
+    "reason": "Headline roundup; the Nvidia story is covered better elsewhere.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "f008a9593110": {
+    "score": 82,
+    "category": "sports",
+    "filler": false,
+    "reason": "Pablo Torre and Nick Berardini on the NBA gambling scandal and the mob, the corruption angle you like.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "dac23257a0b1": {
+    "score": 38,
+    "category": "news",
+    "filler": false,
+    "reason": "Ezra Klein with Hasan Piker on left politics, which is not your core topic.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "f697f17f87f1": {
+    "score": 45,
+    "category": "business",
+    "filler": false,
+    "reason": "Kathryn Edwards on the economy, health insurance and affordability, though it's mostly midterm politics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "9a04ee30f061": {
+    "score": 72,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Adam Frank argues life isn't a machine, a thoughtful take that challenges how we think about AI.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "70fccab6ee1f": {
+    "score": 60,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Omar Mohammed on living under ISIS and how people become extremists, short and sharp.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0122a24c1fcb": {
+    "score": 70,
+    "category": "ai",
+    "filler": false,
+    "reason": "Concise WSJ breakdown of Jensen Huang's resignation and what it means for Nvidia and AI.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "901619c520c1": {
+    "score": 52,
+    "category": "ai",
+    "filler": false,
+    "reason": "Investor reaction to Huang's exit and Nvidia's leadership questions, shorter and stock-focused.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "d37ea409303d": {
+    "score": 72,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Julie Rovner on how the new Congress could fix US health care, directly in your lane.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "081d3efadb92": {
+    "score": 35,
+    "category": "news",
+    "filler": false,
+    "reason": "Political interview with a senator-elect, with limited relevance to your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b458c1d1d86c": {
+    "score": 80,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Kyle Chan on what China wanted from Huang, a China-and-AI chips story told well.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a14903a61512": {
+    "score": 25,
+    "category": "news",
+    "filler": true,
+    "reason": "Daily news roundup focused on domestic politics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "773c5092e684": {
+    "score": 80,
+    "category": "ai",
+    "filler": false,
+    "reason": "Josh Tyrangiel on reining in AI and tech CEOs before it's too late, a strong AI-risk conversation.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "303c575ed633": {
+    "score": 78,
+    "category": "ai",
+    "filler": false,
+    "reason": "Chris McGuire on Nvidia export rules, plus enterprise AI spending and Anthropic's IPO.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "952a826950ca": {
+    "score": 48,
+    "category": "history",
+    "filler": false,
+    "reason": "Part two of a Crimean War series; it's best heard in order, and you only want history occasionally.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "78bd480da526": {
+    "score": 55,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Covers AI-driven cyberattacks and the fight over the next UN chief, but it's a broad roundup.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "71894939b2ee": {
+    "score": 66,
+    "category": "business",
+    "filler": false,
+    "reason": "Anthropic's tools aimed at Microsoft Office plus CoreWeave and AI infrastructure demand; a tidy, short AI-business listen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "472117d6754b": {
+    "score": 35,
+    "category": "other",
+    "filler": false,
+    "reason": "Interesting satellite science, but outside your core topics, so a likely skip.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3a5c08070689": {
+    "score": 45,
+    "category": "business",
+    "filler": false,
+    "reason": "Fun immigrant-business economics story, but only loosely tied to your core interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "036593b70572": {
+    "score": 82,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Tyler Cowen talking with Terence Tao on proof, beauty and AI's role in math; fits your starred Conversations with Tyler.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "4112720c829f": {
+    "score": 30,
+    "category": "news",
+    "filler": false,
+    "reason": "Daily headline roundup on Hegseth and House politics; not a major explained event.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a8f704137002": {
+    "score": 58,
+    "category": "business",
+    "filler": false,
+    "reason": "Nvidia's drop and Anthropic's valuation get covered, but you've said you get enough Prof G markets.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "263629d00c41": {
+    "score": 48,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Covers Nvidia scandal and global fallout, but it's mostly political commentary and runs long.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "aa51bb6f732b": {
+    "score": 76,
+    "category": "news",
+    "filler": false,
+    "reason": "The Journal explains the Nvidia CEO affair and its China chip diversion angle, a big, well-told story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a7d2cd4c9c5a": {
+    "score": 50,
+    "category": "business",
+    "filler": false,
+    "reason": "Key-man risk at Nvidia is a decent business angle, but it overlaps with other Nvidia coverage.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ff518daab7dc": {
+    "score": 28,
+    "category": "news",
+    "filler": true,
+    "reason": "Daily headline roundup you've said to skip unless something major happened.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "7649cc6796e0": {
+    "score": 57,
+    "category": "sports",
+    "filler": false,
+    "reason": "Pablo Torre on the business side of sports ownership with Maury Povich; fits your Torre interest, though the guest is a bit off-topic.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "52dd868cceda": {
+    "score": 40,
+    "category": "news",
+    "filler": false,
+    "reason": "Ezra Klein on Democratic strategy is quality, but it's domestic politics outside your core topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a7d2cd4c9c5a_dup_guard": {
+    "score": 0,
+    "category": "other",
+    "filler": true,
+    "reason": "Placeholder.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "5afb040a431f": {
+    "score": 72,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Chalmers on whether LLMs could be conscious, which sits where your AI and consciousness interests meet.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "d9c3377a017d": {
+    "score": 62,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Goldsmith-style intelligence take on the Nvidia honeytrap and China, with a strong spy-craft lens.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "64f704a8b210": {
+    "score": 35,
+    "category": "business",
+    "filler": false,
+    "reason": "Berkshire and Coinbase investing chat; not close to your core themes.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8a3b8ec94500": {
+    "score": 74,
+    "category": "ai",
+    "filler": false,
+    "reason": "The Journal on the data center backlash and what it means for AI companies; short and relevant.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "f4d2c6d9eee4": {
+    "score": 38,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Tom Segura and Bert Kreischer aren't on your comedian list; this one's mostly banter.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "5da81f989c69": {
+    "score": 28,
+    "category": "news",
+    "filler": true,
+    "reason": "Daily headline roundup; skip unless you want a quick catch-up.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "5d51a6d015b1": {
+    "score": 78,
+    "category": "ai",
+    "filler": false,
+    "reason": "Nilay Patel with RIAA's Mitch Glazier on fighting AI over copyright, with Napster parallels.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a00b05b3ec3b": {
+    "score": 55,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "A 4-minute Stoic meditation on Socrates' inner voice, a good short for chores.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "bd9be409c349": {
+    "score": 50,
+    "category": "business",
+    "filler": false,
+    "reason": "Covers markets and the data center backlash, but it's long and you get plenty of Prof G.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "eb5314fcddce": {
+    "score": 40,
+    "category": "other",
+    "filler": false,
+    "reason": "Pleasant happiness-science talk, but it's not a topic you prioritize.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0afaa3bb6460": {
+    "score": 88,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Nvidia's Kimberly Powell on AI in hospitals, drug discovery and surgical robotics; it hits healthcare and AI squarely.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "01f94df7474f": {
+    "score": 84,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand and Sam Morril riffing together, two of your favorite comedians.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "20125e20d939": {
+    "score": 50,
+    "category": "history",
+    "filler": false,
+    "reason": "Rest Is History kicks off the Crimean War; good narrative history, but long and only occasional for you.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "9b5ec0e61650": {
+    "score": 42,
+    "category": "history",
+    "filler": false,
+    "reason": "Watergate spy history from the Rest Is Classified; interesting but it's a middle-of-the-series episode.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "27e12c8350f9": {
+    "score": 52,
+    "category": "sports",
+    "filler": false,
+    "reason": "Ice Cube on taking the BIG3 public is a sports-business angle, and it's short.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "52693158a6bb": {
+    "score": 38,
+    "category": "other",
+    "filler": false,
+    "reason": "Pop-culture chat on the Elizabeth Holmes documentary; only loosely related to your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "331d28a05689": {
+    "score": 30,
+    "category": "news",
+    "filler": false,
+    "reason": "Post-midterm domestic politics wrap-up; not in your core topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "9761a5e5ff0f": {
+    "score": 22,
+    "category": "business",
+    "filler": false,
+    "reason": "Personal-finance tax tips for giving; not a topic you follow.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b4010c501792": {
+    "score": 30,
+    "category": "news",
+    "filler": false,
+    "reason": "Daily headline roundup with no major event explained in depth.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "509006c7633e": {
+    "score": 86,
+    "category": "ai",
+    "filler": false,
+    "reason": "Alex Stamos argues AI is breaking the cybersecurity industry; direct, sharp Decoder conversation on AI and business.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8432fdcfcdb7": {
+    "score": 68,
+    "category": "ai",
+    "filler": false,
+    "reason": "Short, focused take on why the AI trade is losing steam.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "5c73f626a9af": {
+    "score": 52,
+    "category": "business",
+    "filler": false,
+    "reason": "Curious look at the insurance industry's fire lab; only loosely tied to your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "6e60f86f7f00": {
+    "score": 38,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Philosophy improv riffing on Nussbaum; more goofing than substance.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b47e6db61652": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Investor debate on whether AI spending and the Nasdaq selloff mark a lasting shift.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "eb335113f0d2": {
+    "score": 68,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Inside story of a Russian officer who defected to Ukraine, and what it says about Russia's military.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "156b96fe6c94": {
+    "score": 30,
+    "category": "news",
+    "filler": false,
+    "reason": "Daily headline roundup on jobs, gas prices and the arch.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "6ea2f3438df9": {
+    "score": 48,
+    "category": "news",
+    "filler": false,
+    "reason": "Rachel Maddow on the midterms; mostly politics, with sports only a sideline.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "2264b26c2b6e": {
+    "score": 42,
+    "category": "news",
+    "filler": false,
+    "reason": "Scaramucci on midterm fallout; political commentary more than deep analysis.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ff08034a3c7b": {
+    "score": 68,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Paul Davies on life's origin and information, touching Michael Levin; fits your consciousness and big-ideas taste.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "7b4bc3332d7d": {
+    "score": 40,
+    "category": "news",
+    "filler": false,
+    "reason": "Explains the shift in Southern politics; a regional election story outside your core interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "4af72c7c5934": {
+    "score": 33,
+    "category": "business",
+    "filler": false,
+    "reason": "Daily stock-pick and earnings chatter; low fit.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "40a7287ad3f0": {
+    "score": 80,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Special episode on what the Democratic sweep means for health policy, from a show you star.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "290e663b64df": {
+    "score": 64,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Dr. Zhen Xu on histotripsy, destroying tumors with sound; strong medical-tech science.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3851a48fa67e": {
+    "score": 48,
+    "category": "sports",
+    "filler": false,
+    "reason": "Pablo Torre on The Onion's bid for a bowl game; fun, but light on sports business.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "bc4917c7f5fa": {
+    "score": 8,
+    "category": "other",
+    "filler": true,
+    "reason": "One-minute show promo for new listeners.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "de1cc80e3a89": {
+    "score": 55,
+    "category": "news",
+    "filler": false,
+    "reason": "Catherine Rampell on the midterms, plus Alex Bores on data-center backlash and AI politics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a633fe44cc15": {
+    "score": 55,
+    "category": "history",
+    "filler": false,
+    "reason": "Strong narrative history of the 1956 Hungarian Uprising, though a long listen for an occasional topic.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "67df19161729": {
+    "score": 76,
+    "category": "crime_econ",
+    "filler": false,
+    "reason": "How North Korea stole $6.3bn in crypto to fund nukes; a sanctions and money-laundering angle.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ce0b594c46ea": {
+    "score": 60,
+    "category": "business",
+    "filler": false,
+    "reason": "Odd Lots on the economics of GTA VI and a shaky game industry.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "355606ed1433": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Long Democratic-politics debate; weak topic fit despite Derek Thompson.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "727847615683": {
+    "score": 50,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Lyman Stone on falling birth rates and marriage; a short, data-driven listen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "fe1ed5253a1a": {
+    "score": 80,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee with Hunter Biden in an open, unfiltered conversation on sobriety and politics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "dccaa1b80dfc": {
+    "score": 62,
+    "category": "business",
+    "filler": false,
+    "reason": "Founders on Hyundai founder Chung Ju-yung's life; an inspiring operator story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "aa1b676e158f": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Harvard's David Deming on measuring leadership soft skills; short and useful, on a show you star.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "dc3452a6111c": {
+    "score": 48,
+    "category": "parenting",
+    "filler": false,
+    "reason": "Daniel Cox on why young men and women are pairing off less; relationship topic, occasional fit.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3362e0eb317b": {
+    "score": 72,
+    "category": "business",
+    "filler": false,
+    "reason": "Harvard's Willy Shih on supply chains, tariffs and the AI boom's hidden costs.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "cf5cb31d2063": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan political recap at nearly two hours; only loosely connected to your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ae1a373720f0": {
+    "score": 72,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Robert Greene on a near-fatal stroke and finding meaning fits your death and meaning interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e66b851260be": {
+    "score": 60,
+    "category": "parenting",
+    "filler": false,
+    "reason": "Dr. Becky with Jenny Slate on parenting without self-judgment; a good fit for your occasional parenting slot.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "1050d4228e99": {
+    "score": 70,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand and Joe List in their weekly comedy hang; reliably funny.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "155666c3815e": {
+    "score": 94,
+    "category": "ai",
+    "filler": false,
+    "reason": "Paul Christiano, who invented RLHF, on near-term AI takeover risk. Strong guest on your top theme.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "28d7f04fe266": {
+    "score": 64,
+    "category": "systems",
+    "filler": false,
+    "reason": "KPI Fireside on closing the strategy-execution gap, with ex-Covey strategist Michael Simpson.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b57bea84e129": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Mark Cuban on startup mistakes, with a healthcare angle; short and useful but light.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "9da58df6cd72": {
+    "score": 72,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee's heartbreak story on Bad Friends, with the raw honesty you liked in his other shows.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "88bb31029b9b": {
+    "score": 72,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Odd Lots on the US-China guns, butter and AI trade-offs, tied to the Nvidia crisis.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "325434105dce": {
+    "score": 78,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bill Maher and Mike Rowe on blue-collar versus white-collar America; a Club Random conversation that goes off the rails.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "c153335d258e": {
+    "score": 58,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Ex-CIA officer John Kiriakou on the Nvidia honeypot story; timely, but over two hours.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "5db03765a2de": {
+    "score": 33,
+    "category": "news",
+    "filler": false,
+    "reason": "Buttigieg on Democratic strategy; partisan politics outside your core topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e9e858c036ce": {
+    "score": 55,
+    "category": "ai",
+    "filler": false,
+    "reason": "Short Galloway essay read aloud on spies versus AI, tied to the Nvidia story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "29df87d48bdc": {
+    "score": 68,
+    "category": "business",
+    "filler": false,
+    "reason": "Bernstein's Stacy Rasgon on Nvidia's future and what it means for the wider AI ecosystem.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "d398b079afeb": {
+    "score": 86,
+    "category": "ai",
+    "filler": false,
+    "reason": "Dwarkesh explains how he now sees superintelligence coming sooner; short and on your top theme.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "6801114e939c": {
+    "score": 33,
+    "category": "cooking",
+    "filler": true,
+    "reason": "A 2023 rerun with Madhur Jaffrey; pleasant but not new.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e03ecb64a503": {
+    "score": 90,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Andrew Santino and Sam Morril, two of your comedians, talking stand-up and his new special.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "32ad5f403c6f": {
+    "score": 48,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Freakonomics on the fertility gap; interesting economics, but only loosely tied to your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0881f11813c8": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan Democratic leadership debate; not a topic you follow.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ced50b9c7c0c": {
+    "score": 45,
+    "category": "news",
+    "filler": false,
+    "reason": "Weekly headline roundup that covers Jensen Huang's fall, but you skip roundups.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "4b34a9a7c7dc": {
+    "score": 52,
+    "category": "business",
+    "filler": false,
+    "reason": "Why a big law firm collapsed, explained through a partner-run lens; a decent business story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ec7467e583ec": {
+    "score": 48,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Dorie Greenspan's career story; good chef interview for your occasional cooking slot.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "2ead6749b73e": {
+    "score": 30,
+    "category": "other",
+    "filler": true,
+    "reason": "Short replay clip of an earlier episode; nothing new.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "1e05fc226e7f": {
+    "score": 72,
+    "category": "ai",
+    "filler": false,
+    "reason": "Hard Fork on Jensen Huang's exit from Nvidia; a quick, well-explained big AI story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "aa0a4ba8c8f1": {
+    "score": 48,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Matt and Shane's chaotic comedy; not one of your core comedians.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "07533e83764d": {
+    "score": 93,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Neal Brennan and Judd Apatow on observing your own mind and career fear; classic Blocks.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "1a2508beb760": {
+    "score": 62,
+    "category": "business",
+    "filler": false,
+    "reason": "Michael Lewis on how DOGE fought career civil servants; strong guest, though more politics than your core topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ab90e6f86498": {
+    "score": 66,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Bloomberg's Mackenzie Hawkins on Megaspeed and the Nvidia-China story; useful context.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "c7114c783135": {
+    "score": 76,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Michael Chernew on Medicare policy and MedPAC; short and relevant to your health strategy work.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "c410c222e266": {
+    "score": 52,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Short documentary chapter on Jacques Pépin's early life; mixes chef story and narrative history.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "7c33be5879be": {
+    "score": 38,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Brain health and dementia prevention with Perlmutter, but it's lifestyle advice rather than your health strategy topics, and it runs long.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "fad97e4fb9ad": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan campaign strategy debrief from a live show, not a big-event explainer.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "d615b5a6d8ab": {
+    "score": 35,
+    "category": "other",
+    "filler": false,
+    "reason": "Jonathan Shedler on therapy is interesting, but it's off your core topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "2a3bef6b4446": {
+    "score": 78,
+    "category": "ai",
+    "filler": false,
+    "reason": "Covers the AI trade wobbling and the Anthropic IPO, with a market-structure angle.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8b49a59ee527": {
+    "score": 82,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee riffing with Dane Cook, a comedy icon, and the Funny Money fraud story.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "6836c390ef34": {
+    "score": 60,
+    "category": "business",
+    "filler": false,
+    "reason": "Short, practical HBR conversation with Vikas Mittal on customer value, in the vein of your starred IdeaCast pick.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "29ebfca8e07d": {
+    "score": 30,
+    "category": "other",
+    "filler": false,
+    "reason": "Self-improvement take on envy, which is off your main topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "542324b40909": {
+    "score": 78,
+    "category": "ai",
+    "filler": false,
+    "reason": "Hard Fork on Nvidia's Jensen Huang, a suspected Chinese spy, and what it means for AI and China.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "767dbfde9475": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Democratic Party messaging from a live show, and a long listen for little fit.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "fb40885cd589": {
+    "score": 42,
+    "category": "business",
+    "filler": false,
+    "reason": "Eliza Filby on inheritance and inequality is only loosely on your economics interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "9a175a9f52e1": {
+    "score": 50,
+    "category": "parenting",
+    "filler": false,
+    "reason": "Dr. Becky with Olympian Elana Meyers Taylor, but it's more about learning new skills than parenting.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "430d546296bb": {
+    "score": 70,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand and Joe List with Stavros Halkias on the list, a loose and funny hang.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "925deb3b97b7": {
+    "score": 45,
+    "category": "business",
+    "filler": false,
+    "reason": "Leadership development coaching is adjacent to your interests, but generic.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ebe57f173182": {
+    "score": 66,
+    "category": "business",
+    "filler": false,
+    "reason": "David Senra on founder drive and when to sell, a solid operator-focused listen at 43 minutes.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "55f260afa887": {
+    "score": 68,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee's Bad Friends, a loose comedy hang with your kind of comedians.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "630b8ec4656f": {
+    "score": 52,
+    "category": "systems",
+    "filler": false,
+    "reason": "A systems look at how New York runs trash collection, at 24 million pounds a day.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "346536ef5abe": {
+    "score": 70,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bill Maher and Dean Norris on Hollywood and politics, on a show you've starred before.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e22cbfb8ff8c": {
+    "score": 68,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Katt Williams tells his origin story as a legendary stand-up, though it runs close to two hours.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "fba748360bc2": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Democratic strategists on the midterms, with little fit for your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b61e04734608": {
+    "score": 55,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "A short essay on boys and men, which connects to a topic you starred with Ezra Klein.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0902b130c0ea": {
+    "score": 55,
+    "category": "news",
+    "filler": false,
+    "reason": "Jonah Goldberg and Niall Ferguson explain a historic midterm result, which is a big event.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "7e791d63cd55": {
+    "score": 75,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Andrew Santino and Gary Owen on stand-up and fatherhood.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "b050e08d836f": {
+    "score": 62,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Freakonomics asks whether randomly chosen citizens could replace elections, an interesting systems idea.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "825d0fd219e1": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan post-election analysis, a long listen with little fit.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ef16e4a86607": {
+    "score": 30,
+    "category": "news",
+    "filler": false,
+    "reason": "Weekly headline roundup with only light topic fit.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3028f3aa7092": {
+    "score": 52,
+    "category": "business",
+    "filler": false,
+    "reason": "Odd Lots on the market reaction to the midterms, with some AI and data center angles.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "71038bff7923": {
+    "score": 45,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Home cooking conversations with Kay Chun and Katie Button, a pleasant occasional pick.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "9432033bf0b8": {
+    "score": 52,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Jacques Pépin's stories about the mob, JFK, and frozen meals make for a fun chef interview.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8fe4d21608b2": {
+    "score": 40,
+    "category": "business",
+    "filler": true,
+    "reason": "A clipped replay of a Daniel Ek conversation, which is thin as a standalone listen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "c09352fecd5a": {
+    "score": 35,
+    "category": "news",
+    "filler": true,
+    "reason": "A rerun of a David Brooks conversation, with little new content.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "4755ff1de37e": {
+    "score": 68,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "James Bosworth explains how Lula's win reshapes Latin America and US influence there, in a tight 32 minutes.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "55f2a8c5f467": {
+    "score": 76,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Georgetown's Katie Keith on what the Democratic wave means for health policy, in a quick 22 minutes.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "4abb6d3cd5d0": {
+    "score": 74,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Robert Pape, a leading political violence scholar, on Iran war escalation and great-power risk, on a show you've starred.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "aa8f23c9315b": {
+    "score": 45,
+    "category": "business",
+    "filler": false,
+    "reason": "A founder-style study of Oda's obsessive craft; interesting, but only loosely tied to your topics.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e5dc9b3be0d2": {
+    "score": 45,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Loose comedy hangout; fine for chores, but none of your core comedians are on it.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "21ca2b7504e2": {
+    "score": 55,
+    "category": "comedy",
+    "filler": true,
+    "reason": "Michael Che on comedy's unspoken rules, but this is only a 10-minute preview.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "701d0bf3d9cb": {
+    "score": 42,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan election-night reaction; the midterm result is big news, but this is a hot-take recap.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "36e211c88e49": {
+    "score": 55,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Brian Winter on Lula's comeback and Brazil's politics; solid, but lighter on strategy than Odd Lots.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "757fe186702e": {
+    "score": 50,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee's show with an actress guest; chaotic fun but not a comedian-led conversation.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "060b90e6d887": {
+    "score": 28,
+    "category": "cooking",
+    "filler": true,
+    "reason": "A 2022 rerun of a Chinese cooking episode with nothing new.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e8e0ab638eba": {
+    "score": 62,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Fareed Zakaria on the midterms, the Iran war and the global populist wave.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "17b73b3ff532": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "A Harvard Business School lecturer on how leaders can open up avoided workplace topics; a useful short listen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "3c110fe52939": {
+    "score": 58,
+    "category": "big_ideas",
+    "filler": true,
+    "reason": "Oliver Burkeman on mortality and using your time well, but it's a rebroadcast.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "67db30704b99": {
+    "score": 30,
+    "category": "news",
+    "filler": false,
+    "reason": "Election-eve partisan takes; it will be stale by now.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "71a46da12538": {
+    "score": 58,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Dr. Anna Lembke on addiction, letting go of control and parenting; a thoughtful guest.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a5d7881b87be": {
+    "score": 40,
+    "category": "news",
+    "filler": false,
+    "reason": "Nate Silver's Election Day preview has been overtaken by the results.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "2d6c384238b8": {
+    "score": 72,
+    "category": "parenting",
+    "filler": false,
+    "reason": "Dr. Becky with Dr. Sasha Hamdani on sensitive kids and rejection; the parenting slot for this stretch.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "dd5d66c105b0": {
+    "score": 45,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Comedy storytelling hangout that's fun but not one of your core comedians.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "70d80aabfd80": {
+    "score": 60,
+    "category": "systems",
+    "filler": false,
+    "reason": "A KPI Fireside look at listening as a continuous-improvement problem; fits your systems interest.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "c13288463b58": {
+    "score": 66,
+    "category": "ai",
+    "filler": false,
+    "reason": "Scott Galloway on whether AI is killing software, plus jobs data; a short, relevant listen.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "349d389b40b6": {
+    "score": 48,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Dane Cook on Bad Friends; funny, but not a core comedian or idea-driven.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e60d72885483": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Odd Lots on the booming $300B structured notes market; a markets explainer.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "55f169a6a681": {
+    "score": 68,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bill Maher and Ron Livingston on Club Random; entertaining, but the guest is an actor rather than an ideas guest.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "0b85726cd7ed": {
+    "score": 45,
+    "category": "news",
+    "filler": false,
+    "reason": "James Talarico on inequality and corruption; a long, politics-heavy campaign conversation.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "271d2fb12279": {
+    "score": 35,
+    "category": "news",
+    "filler": false,
+    "reason": "Harry Enten's final poll breakdown before Election Day; dated now.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "190ff304b584": {
+    "score": 38,
+    "category": "business",
+    "filler": false,
+    "reason": "A Galloway essay read aloud; short, but not a conversation.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "272386f67322": {
+    "score": 82,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Robert Caro on what 50 years of studying power taught him, interviewed by Dwarkesh; a rare deep conversation.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "43606359c42e": {
+    "score": 80,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Andrew Santino with Sam Tallent on stand-up, road life and writing a novel.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ce18184487ce": {
+    "score": 86,
+    "category": "ai",
+    "filler": false,
+    "reason": "Hard Fork on the first pure-play LLM company going public and what its books show about the AI bubble.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "c6dc1d34edbe": {
+    "score": 74,
+    "category": "ai",
+    "filler": false,
+    "reason": "Dubner interviews AI performer Tilly Norwood on whether AI replaces human work.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "aa3313b54eba": {
+    "score": 22,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan midterm commentary and a daily-style political roundup, which isn't a topic you follow.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "a3a87e743561": {
+    "score": 58,
+    "category": "business",
+    "filler": false,
+    "reason": "Short weekly recap that touches Anthropic's IPO numbers, but it's a roundup and you've said you get enough Prof G.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "55a142150fa8": {
+    "score": 72,
+    "category": "ai",
+    "filler": false,
+    "reason": "Frontier AI found a dormant PHP bug; a concrete look at AI cybersecurity risk from Calif's Thai Duong and Bruce Dang.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "8c6c4efe89a2": {
+    "score": 30,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Tony Shalhoub on bread and culture is pleasant, but it's light on technique and outside your core interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ccf4405f5117": {
+    "score": 18,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Halloween folklore and candy history special; low fit for your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "44ccc209dc6f": {
+    "score": 45,
+    "category": "parenting",
+    "filler": true,
+    "reason": "Short clip of a previously released interview with divorce lawyer James Sexton, so it's a rerun-style highlight.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "89479e67b09d": {
+    "score": 70,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Dwarkesh's short essay on power through LBJ and Robert Moses, a good chore-length listen on how the world works.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "e9a2756c27aa": {
+    "score": 96,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee with Neal Brennan on Blocks: your favorite pairing, and a candid talk on sobriety, his father's death, and career.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "ac2fcce6defa": {
+    "score": 45,
+    "category": "news",
+    "filler": false,
+    "reason": "Heather Cox Richardson is a sharp historian, but this is midterm political analysis that sits at the edge of your interests.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  },
+  "bfce919a82d3": {
+    "score": 74,
+    "category": "ai",
+    "filler": false,
+    "reason": "Barclays strategists on the Anthropic S-1 and how Wall Street is pricing the AI trade right now.",
+    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+  }
+}
