@@ -888,6 +888,10 @@ OFFLINE = bool(os.environ.get("OFFLINE"))
 
 def main():
     dry = not os.environ.get("ANTHROPIC_API_KEY")
+    if dry and os.environ.get("GITHUB_ACTIONS"):
+        print("ANTHROPIC_API_KEY secret is missing. Add it under Settings > Secrets and variables > "
+              "Actions. Stopping so no picks are sent without Claude.")
+        return 1
     if dry:
         log("No ANTHROPIC_API_KEY found, so this is a dry run with simple keyword scoring.")
     sources = load_json(CFG / "sources.json", {})
