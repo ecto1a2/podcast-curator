@@ -5,13 +5,13 @@
   "feed_title": "Benyamin's Curated Picks",
   "feed_base_url": "",
 
-  "_budget": "About 8 a week: roughly 3 regulars plus up to 5 discovery picks.",
-  "max_discovery_per_week": 5,
+  "_budget": "About 10 a week: roughly 3 regulars plus up to 7 discovery picks.",
+  "max_discovery_per_week": 7,
   "max_discovery_per_day": 1,
   "max_seeds_per_week": 2,
 
   "_exploration": "Each week Claude proposes new adjacent people, shows, and topics. Up to explore_per_week of the discovery picks come from them. Terms expire after expansion_ttl_days unless they prove themselves.",
-  "explore_per_week": 2,
+  "explore_per_week": 3,
   "expansion_new_per_week": 8,
   "expansion_max_active": 30,
   "expansion_ttl_days": 42,

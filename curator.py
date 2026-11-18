@@ -943,7 +943,7 @@ def health_summary(state, sent_this_week):
     ok = sum(1 for h in recent if h["claude_ok"])
     feeds = sorted({f for h in recent for f in h.get("failed_feeds", [])})
     line = (f"{sent_this_week} {'episode' if sent_this_week == 1 else 'episodes'} sent this week "
-            f"(target about 8). Claude scoring worked {ok} of {len(recent)} "
+            f"(target about {SETTINGS['max_discovery_per_week'] + 3}). Claude scoring worked {ok} of {len(recent)} "
             f"{'day' if len(recent) == 1 else 'days'}.")
     if sent_this_week < 4:
         line += " Fewer picks than usual. Check the bar or add sources if this keeps happening."

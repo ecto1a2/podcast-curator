@@ -1,6 +1,6 @@
 # Podcast Curator
 
-A personal podcast feed that fills itself. Every morning, Claude scans your shows, a list of discovery shows, appearances by people you like, and episodes people are talking about. It scores each one against your taste profile and sends about 8 episodes a week into one feed. You subscribe to that feed once in Pocket Casts, and it becomes your whole Up Next queue. Every episode is sent once and never again.
+A personal podcast feed that fills itself. Every morning, Claude scans your shows, a list of discovery shows, appearances by people you like, and episodes people are talking about. It scores each one against your taste profile and sends about 10 episodes a week into one feed. You subscribe to that feed once in Pocket Casts, and it becomes your whole Up Next queue. Every episode is sent once and never again.
 
 Your feed address, once set up:
 
@@ -15,10 +15,10 @@ Each day, around 4 to 5 AM Cleveland time:
 1. **Widen the net (weekly).** Claude proposes up to 8 new people, shows, and topics close to what you like (second order, like comedians in Normand's circle) or one step further (third order, like sanctions and shadow fleets next to the drug trade). Each must connect to a listed interest. New names expire after 6 weeks unless they prove themselves.
 2. **Gather.** New episodes from your 27 subscriptions, 26 discovery shows, and searches for 19 people and 8 topics. Twice a week, Claude also searches the web for episodes getting buzz.
 3. **Score.** Claude rates each new episode 0 to 100 using `config/profile.md`, your notes, and your check-in replies. Topic fit comes first. Among on-topic episodes, guest and host quality decides the ranking.
-4. **Send.** About 8 a week:
+4. **Send.** About 10 a week:
    - **Regulars, about 3 a week.** Pardon My Take on Monday and Friday, and Stavvy's World's main weekly episode, always go in.
-   - **Exploration, 2 of those 5.** Two discovery slots a week are held for episodes found through the new names. They show up as "Exploring:" in Pocket Casts.
-   - **Discovery, up to 5 a week, at most 1 a day.** Only episodes scoring 70 or higher. On a slow day, the slot stays empty rather than sending filler.
+   - **Exploration, 3 of those 7.** Three discovery slots a week are held for episodes found through the new names. They show up as "Exploring:" in Pocket Casts.
+   - **Discovery, up to 7 a week, at most 1 a day.** Only episodes scoring 70 or higher. On a slow day, the slot stays empty rather than sending filler.
    - Anything sent is remembered forever and never sent again.
 5. **Publish.** The feed and a simple web page at `https://ecto1a2.github.io/podcast-curator/` show the picks, each with a one-line reason.
 

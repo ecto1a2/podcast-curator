@@ -8,7 +8,7 @@
         "reason": "Nick Mullen's close comedy circle; ideas-heavy conversations",
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
-        "kept": false
+        "kept": true
       },
       {
         "term": "ChinaTalk",
@@ -17,7 +17,7 @@
         "reason": "Dan Wang-style China analysis and tech geopolitics",
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
-        "kept": false
+        "kept": true
       },
       {
         "term": "Ethan Mollick",
@@ -26,7 +26,7 @@
         "reason": "AI and work, practical business strategy",
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
-        "kept": false
+        "kept": true
       },
       {
         "term": "Eric Topol",
@@ -35,7 +35,7 @@
         "reason": "AI in healthcare, strong fit with Heart of Healthcare",
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
-        "kept": false
+        "kept": true
       },
       {
         "term": "Annie Duke",
@@ -44,7 +44,7 @@
         "reason": "Decision making and mental models, close to systems thinking",
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
-        "kept": false
+        "kept": true
       },
       {
         "term": "sanctions evasion shadow fleet",
@@ -53,7 +53,7 @@
         "reason": "Extends drug trade and money laundering into sanctions",
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
-        "kept": false
+        "kept": true
       }
     ],
     "last_run": "2026-11-18T21:49:08.368989+00:00"
