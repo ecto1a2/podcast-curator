@@ -754,7 +754,8 @@ def select(pool, cands, feed_state):
 
     # 3. discovery picks, paced to the weekly budget
     disc_week = [h for h in week if h.get("kind") != "regular"]
-    budget = min(S["max_discovery_per_day"], S["max_discovery_per_week"] - len(disc_week))
+    sent_today = sum(1 for h in disc_week if days_ago(h["added_at"]) < 0.75)  # reruns the same day count too
+    budget = min(S["max_discovery_per_day"] - sent_today, S["max_discovery_per_week"] - len(disc_week))
     seeds_week = sum(1 for h in disc_week if h["source"] == "seed")
 
     def last_added(pred):
