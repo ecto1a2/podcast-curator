@@ -2,7 +2,7 @@
   "_help": "Knobs for the curator. Safe to edit. Every episode sent to your queue is sent once and never again.",
 
   "model": "claude-sonnet-5-5",
-  "feed_title": "Benyamin's Curated Picks",
+  "feed_title": "B.rza Listening Shelf",
   "feed_base_url": "",
 
   "_budget": "About 10 a week: roughly 3 regulars plus up to 7 discovery picks.",

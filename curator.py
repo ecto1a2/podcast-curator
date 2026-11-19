@@ -902,7 +902,7 @@ def write_index(items):
             f"added {it['added_at'][:10]}</div></li>")
     page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Curated Picks</title>
+<title>B.rza Listening Shelf</title>
 <style>
 :root{{--bg:#fbfaf7;--fg:#1d1d1b;--muted:#6b6a65;--accent:#b4441c;--line:#e6e3dc}}
 @media (prefers-color-scheme:dark){{:root{{--bg:#161614;--fg:#eeece6;--muted:#9a978f;--accent:#f08a5d;--line:#2c2b28}}}}
@@ -915,7 +915,7 @@ a{{color:var(--fg);font-size:19px;text-decoration:none}} a:hover{{text-decoratio
 .why{{margin-top:4px}} .meta{{color:var(--muted);font:13px system-ui,sans-serif;margin-top:4px}}
 code{{font-size:13px;word-break:break-all}}
 </style></head><body><main>
-<h1>Curated Picks</h1>
+<h1>B.rza Listening Shelf</h1>
 <p class="sub">Updated {NOW.strftime('%B %d, %Y')}. Subscribe in your podcast app with <code>{html.escape(base_url())}feed.xml</code></p>
 <ul>{''.join(rows) or '<li>No picks yet.</li>'}</ul>
 </main></body></html>"""
