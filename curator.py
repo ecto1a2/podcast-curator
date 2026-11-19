@@ -585,7 +585,13 @@ def buzz_scan(state):
     try:
         reply = claude(system, user, 4000,
                        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 8}])
-        found = extract_json(reply)
+        try:
+            found = extract_json(reply)
+        except ValueError:
+            reply = claude("Convert the text into a JSON array of objects with keys show, title, why. "
+                           "Reply with only the JSON array. Use [] if no episodes are named.",
+                           reply[-12000:] or "none", 2000)
+            found = extract_json(reply)
     except Exception as e:
         warn(f"buzz scan skipped: {e}")
         return []
@@ -663,6 +669,17 @@ def dedupe(cands):
 def rank(c):
     bonus = 5 if c.get("buzz") else 0
     return c["score"] + bonus
+
+
+def eastern_date(iso):
+    d = parse_date(iso)
+    if not d:
+        return None
+    try:
+        from zoneinfo import ZoneInfo
+        return d.astimezone(ZoneInfo("America/New_York")).date()
+    except Exception:
+        return (d - timedelta(hours=5)).date()
 
 
 def eastern_weekday(iso):
@@ -755,7 +772,8 @@ def select(pool, cands, feed_state):
 
     # 3. discovery picks, paced to the weekly budget
     disc_week = [h for h in week if h.get("kind") != "regular"]
-    sent_today = sum(1 for h in disc_week if days_ago(h["added_at"]) < 0.75)  # reruns the same day count too
+    sent_today = sum(1 for h in disc_week  # same calendar day in Cleveland, so reruns count too
+                     if eastern_date(h["added_at"]) == eastern_date(NOW.isoformat()))
     budget = min(S["max_discovery_per_day"] - sent_today, S["max_discovery_per_week"] - len(disc_week))
     seeds_week = sum(1 for h in disc_week if h["source"] == "seed")
 
