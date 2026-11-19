@@ -3197,5 +3197,54 @@
     "filler": false,
     "reason": "Short breakdown of Mollick's four human advantages; useful but secondhand.",
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
+  },
+  "06dcdff69f3a": {
+    "score": 62,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Short Patreon preview with Django Gold and JP McDade riffing on tour life and post-video culture; fun but light.",
+    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+  },
+  "f73383428a5e": {
+    "score": 55,
+    "category": "news",
+    "filler": false,
+    "reason": "Quick daily briefing that covers the Anthropic IPO and a Trump-Xi-Putin summit, but it's a headline roundup.",
+    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+  },
+  "a1d359b4ce3f": {
+    "score": 80,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Tyler Cowen with Richard Hanania on Nostromo, Latin American crime and populism; this matches your starred Conversations with Tyler episodes.",
+    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+  },
+  "b5d3f99e8213": {
+    "score": 93,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Michael Che with Sam Morril and Mark Normand, three of your favorite comedians, and close to your starred Bobby Lee episode.",
+    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+  },
+  "cca5e7b96f7f": {
+    "score": 84,
+    "category": "ai",
+    "filler": false,
+    "reason": "The Economist covers Anthropic's record IPO and what it means for OpenAI, in a tight 23 minutes.",
+    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+  },
+  "0298ba99a129": {
+    "score": 50,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "The Nvidia espionage story has a tech and China angle, but it's a long spy-tradecraft episode and only loosely on your topics.",
+    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+  },
+  "6799a207b219": {
+    "score": 58,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Cal Newport on flourishing in a technological world is short and on theme, but it mostly promotes his book.",
+    "scored_at": "2026-11-19T12:21:10.365547+00:00"
   }
 }

@@ -685,6 +685,13 @@
       "sent": 0,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-19T12:21:10.365547+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [],
@@ -696,13 +703,13 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-19T10:25:12.507568+00:00",
+    "at": "2026-11-19T12:21:10.365547+00:00",
     "dry_run": false,
-    "candidates": 445,
-    "scored": 208,
-    "changes": [],
-    "errors": [
-      "buzz scan skipped: no JSON found in model reply"
-    ]
+    "candidates": 446,
+    "scored": 7,
+    "changes": [
+      "sent (short pick, score 93): Making Sense with Sam Harris / #499 — The Birth of AGI"
+    ],
+    "errors": []
   }
 }

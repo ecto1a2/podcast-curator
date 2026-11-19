@@ -68,6 +68,29 @@
       "explore_reason": null,
       "added_at": "2026-11-18T21:49:08.368989+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "54dcef2be786",
+      "show": "Making Sense with Sam Harris",
+      "title": "#499 — The Birth of AGI",
+      "audio_url": "https://traffic.libsyn.com/secure/wakingup/499_MS_Kevin_Roose_10-13-26_paywall.mp3?dest-id=480596",
+      "audio_type": "audio/mpeg",
+      "published": "2026-10-20T17:30:00Z",
+      "minutes": 21,
+      "description": "Sam Harris speaks with Kevin Roose about the race to build artificial general intelligence. They discuss Roose's book The AGI Chronicles, the scaling laws behind AI's rapid progress, Dario Amodei's \"big blob of compute\" memo, the birth of reasoning models, Roose's encounter with Bing's Sydney chatbot, the roughly 50 people deciding humanity's future, the rivalries among lab leaders, AI agents and recursive self-improvement, the absence of regulation, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samha",
+      "link": "https://podcasts.apple.com/us/podcast/499-the-birth-of-agi/id733163012?i=1000797297597&uo=4",
+      "guid": "8eaabf0b-8029-45f0-8f66-55e329a2d9ee",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/a6/5a/a8a65a2e-593f-a80f-c844-cfbfe0a99a93/mza_16874892289583596212.png/600x600bb.jpg",
+      "source": "search",
+      "score": 93,
+      "category": "ai",
+      "reason": "Sam Harris with Kevin Roose on the AGI race, Amodei and AI risk; short.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-19T12:21:10.365547+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -109,6 +132,19 @@
       "minutes": 102,
       "kind": "discovery",
       "added_at": "2026-11-18T21:49:08.368989+00:00",
+      "removed_at": null,
+      "explore_term": null
+    },
+    {
+      "id": "54dcef2be786",
+      "show": "Making Sense with Sam Harris",
+      "title": "#499 — The Birth of AGI",
+      "source": "search",
+      "category": "ai",
+      "score": 93,
+      "minutes": 21,
+      "kind": "discovery",
+      "added_at": "2026-11-19T12:21:10.365547+00:00",
       "removed_at": null,
       "explore_term": null
     }
