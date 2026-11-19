@@ -31,7 +31,7 @@ House rules built in:
 - Two-hour cap (125 minutes, to allow for ads). Your starred backlog is exempt.
 - Your 27 unplayed starred episodes drip in, at most 2 a week
 
-Every Sunday, it opens a GitHub issue with the week's picks, the new names it started exploring, and five short questions. Say which new names to keep or drop. GitHub emails you. Reply in the issue, in any format. Claude reads replies daily and uses them for every score after that.
+Every Sunday, it opens a GitHub issue and GitHub emails you. It's a checklist you tap through on the web or in the GitHub app: Loved it, Fine, or Skipped for each pick, Keep or Drop for each new interest, new topics to try, and whether the weekly volume is right. Add a comment only if you want to say more. The curator reads your ticks daily. Keep and Drop take effect right away, and everything else shapes Claude's scoring from then on.
 
 ## One-time setup (about 20 minutes)
 
