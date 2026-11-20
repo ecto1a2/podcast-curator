@@ -91,6 +91,29 @@
       "explore_reason": null,
       "added_at": "2026-11-19T12:21:10.365547+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "e9a2756c27aa",
+      "show": "Blocks: I Wish I Knew w/ Neal Brennan",
+      "title": "Bobby Lee: I Wish I Knew",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/27/pscrb.fm/rss/p/arttrk.com/p/PRGN3/claritaspod.com/measure/traffic.megaphone.fm/TPC4990733188.mp3",
+      "audio_type": "audio/mpeg",
+      "published": "2026-10-29T10:00:00+00:00",
+      "minutes": 77,
+      "description": "Bobby Lee joins Neal Brennan to share what he wishes he knew sooner: worrying about his career wouldn’t change its course, asking for help mattered, and the life he built could look different from the one he imagined. He still likes the MadTV tattoo, though. They talk about Bobby’s first stand-up special, learning to watch himself on screen, sobriety, his father’s death, and the unexpected emotional impact of a trip to Build-A-Bear. Plus: homemade glue hands, a swimming pool full of coffee, Neal’s place in the comedy police, and whether he’s allowed to speak at Bobby’s funeral. ---------------",
+      "link": "",
+      "guid": "bba2b0e8-d341-11f1-934b-870730853735",
+      "image": "https://megaphone-images.spotifycdn.com/podcasts/bba2b0e8-d341-11f1-934b-870730853735/image/aec54595f4f542478b20c15ee918f253.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "source": "discovery",
+      "score": 96,
+      "category": "comedy",
+      "reason": "Bobby Lee with Neal Brennan on Blocks: your favorite pairing, and a candid talk on sobriety, his father's death, and career.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-20T10:25:22.363901+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -145,6 +168,19 @@
       "minutes": 21,
       "kind": "discovery",
       "added_at": "2026-11-19T12:21:10.365547+00:00",
+      "removed_at": null,
+      "explore_term": null
+    },
+    {
+      "id": "e9a2756c27aa",
+      "show": "Blocks: I Wish I Knew w/ Neal Brennan",
+      "title": "Bobby Lee: I Wish I Knew",
+      "source": "discovery",
+      "category": "comedy",
+      "score": 96,
+      "minutes": 77,
+      "kind": "discovery",
+      "added_at": "2026-11-20T10:25:22.363901+00:00",
       "removed_at": null,
       "explore_term": null
     }
