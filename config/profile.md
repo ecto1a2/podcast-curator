@@ -17,7 +17,7 @@ Edit it any time on GitHub. Plain English is fine.
 
 ## Topics
 ### Lead (highest weight)
-- Comedy, from stand-up comedians I like: Stavros Halkias, Mark Normand, Sam Morril, Neal Brennan, Bobby Lee, Michael Che, Nick Mullen, Colin Quinn, Andrew Santino. Comedians talking ideas (Blocks, Club Random) count double.
+- Comedy, from stand-up comedians I like: Stavros Halkias, Mark Normand, Sam Morril, Neal Brennan, Michael Che, Nick Mullen, Colin Quinn, Andrew Santino, and the Are You Garbage? hosts H. Foley and Kevin Ryan. Comedians talking ideas (Blocks, Club Random) count double.
 - AI: business strategy, AI in healthcare, AI companies (Anthropic, OpenAI), AI and work, AI risk. This is my strongest theme outside comedy.
 
 ### Regular
@@ -55,7 +55,6 @@ This feed is my whole queue now. My subscriptions no longer auto-add.
 
 ## Starred examples (what "special" looks like to me)
 - Stavvy's World with Michael Che and with Nick Mullen
-- We Might Be Drunk with Bobby Lee
 - Blocks with Neal Brennan: Sam Harris, Alain de Botton
 - Club Random: Sam Harris with Bill Maher
 - Conversations with Tyler: Dan Wang on China, Cass Sunstein, David Commins on Saudi Arabia, Theodore Schwartz on neurosurgery
