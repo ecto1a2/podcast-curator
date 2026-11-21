@@ -706,6 +706,13 @@
       "sent": 1,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-21T13:36:54.295546+00:00",
+      "claude_ok": true,
+      "sent": 2,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [],
@@ -717,12 +724,13 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-21T10:07:44.700155+00:00",
+    "at": "2026-11-21T13:36:54.295546+00:00",
     "dry_run": false,
-    "candidates": 413,
-    "scored": 50,
+    "candidates": 412,
+    "scored": 0,
     "changes": [
-      "sent (best available, score 94): Dwarkesh Podcast / Paul Christiano – We could be 12 months away from AIs that can overthrow the government"
+      "sent (regular, score 62): Stavvy's World / Bonus #207 - Django Gold and JP McDade [PATREON PREVIEW]",
+      "sent (regular, score 70): Pardon My Take / Kyle Long In Studio, Week 11 Picks & Preview, RIP Fiona The Hippo + Fyre Fest Of The Week"
     ],
     "errors": []
   }
