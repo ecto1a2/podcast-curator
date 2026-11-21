@@ -21,6 +21,7 @@ Edit it any time on GitHub. Plain English is fine.
 - AI: business strategy, AI in healthcare, AI companies (Anthropic, OpenAI), AI and work, AI risk. This is my strongest theme outside comedy.
 
 ### Regular
+- Deep subject-matter experts, Conversations with Tyler style: academics, specialists, and operators with unusual depth in one field, interviewed with sharp, specific questions. Tyler Cowen and his show are a favorite. Treat guests of this type as a strong plus on any show.
 - Big ideas and philosophy: consciousness, meditation, Stoicism, meaning, death, equanimity. Sam Harris, Ezra Klein, Tyler Cowen style.
 - Systems and thinking: systems thinking, systems engineering, first principles, mental models, decision making, Theory of Constraints, asking better questions.
 - Geopolitics and economics: China, Middle East, great power strategy, how the world works. Sarah Paine, Dan Wang, Yuval Noah Harari style.
