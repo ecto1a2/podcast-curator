@@ -698,6 +698,21 @@ def rule_for(c, rules):
     return next((r for r in rules if overlap(r["show"], c["show"]) >= 0.8), None)
 
 
+def listen_day(c, r):
+    """The day an episode is meant for: posted the night before counts toward the next morning."""
+    d = eastern_date(c.get("published"))
+    if d is None:
+        return None
+    try:
+        from zoneinfo import ZoneInfo
+        hour = parse_date(c["published"]).astimezone(ZoneInfo("America/New_York")).hour
+    except Exception:
+        hour = 12
+    if hour >= r.get("night_before_hour", 17):
+        d = d + timedelta(days=1)
+    return d
+
+
 def is_regular(c, r):
     """True when a core episode is one that always gets sent."""
     if not r or c.get("episode_type") == "trailer":
@@ -705,8 +720,10 @@ def is_regular(c, r):
     title = c["title"].lower()
     if any(w in title for w in r.get("skip_title_words", [])):
         return False
-    if r.get("weekdays") is not None and eastern_weekday(c.get("published")) not in r["weekdays"]:
-        return False
+    if r.get("weekdays") is not None:
+        d = listen_day(c, r)
+        if d is None or d.weekday() not in r["weekdays"]:
+            return False
     return True
 
 
@@ -755,7 +772,10 @@ def select(pool, cands, feed_state):
         r = rule_for(c, rules)
         if not is_regular(c, r):
             continue
-        key = (r["show"], (c.get("published") or "")[:10])
+        if r.get("every_episode"):
+            key = (r["show"], c["id"])
+        else:
+            key = (r["show"], str(listen_day(c, r)))
         if any(h.get("kind") == "regular" and h.get("rule_key") == "|".join(key) for h in history):
             continue  # that day's regular was already sent
         prev = by_rule_day.get(key)
@@ -768,7 +788,8 @@ def select(pool, cands, feed_state):
         if not c.get("reason"):
             c["reason"] = f"Your regular {c['show']} episode."
         add(c, "regular", "regular")
-        history[-1]["rule_key"] = f"{rule_for(c, rules)['show']}|{(c.get('published') or '')[:10]}"
+        rr = rule_for(c, rules)
+        history[-1]["rule_key"] = f"{rr['show']}|{c['id'] if rr.get('every_episode') else listen_day(c, rr)}"
 
     # 3. discovery picks, paced to the weekly budget
     disc_week = [h for h in week if h.get("kind") != "regular"]

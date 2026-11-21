@@ -49,8 +49,8 @@ Edit it any time on GitHub. Plain English is fine.
 
 ## Core shows
 This feed is my whole queue now. My subscriptions no longer auto-add.
-- Pardon My Take: Monday and Friday episodes are sent automatically. Other days only if exceptional.
-- Stavvy's World: the main weekly episode is sent automatically. Bonus and Patreon previews are scored like anything else.
+- Pardon My Take: the Monday and Friday shows are sent automatically. They post the night before (Sunday and Thursday nights). Other days only if exceptional.
+- Stavvy's World: every episode is sent automatically, bonuses and previews included.
 - Making Sense with Sam Harris: scored normally, sent at 75 or higher.
 
 ## Starred examples (what "special" looks like to me)

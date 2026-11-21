@@ -17,10 +17,10 @@
   "expansion_ttl_days": 42,
   "feed_window_days": 14,
 
-  "_regulars": "Episodes that always get sent. Weekdays: 0 Monday ... 4 Friday, Eastern time. Other episodes from these shows need others_min_score.",
+  "_regulars": "Episodes that always get sent. Pardon My Take: the Monday and Friday shows, which post the night before (after 5 PM Eastern counts as the next day). Stavvy's World: every episode, bonuses included. Weekdays: 0 Monday ... 4 Friday.",
   "always_include": [
-    {"show": "Pardon My Take", "weekdays": [0, 4], "others_min_score": 92},
-    {"show": "Stavvy's World", "skip_title_words": ["bonus", "preview"], "others_min_score": 75}
+    {"show": "Pardon My Take", "weekdays": [0, 4], "night_before_hour": 17, "others_min_score": 92},
+    {"show": "Stavvy's World", "every_episode": true}
   ],
   "always_include_max_age_days": 3,
 

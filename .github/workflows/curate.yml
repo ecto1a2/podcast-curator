@@ -2,7 +2,8 @@ name: Curate podcasts
 
 on:
   schedule:
-    - cron: "23 9 * * *"   # every day around 4 to 5 AM Cleveland time
+    - cron: "23 4 * * *"   # about 11:30 PM Cleveland time, catches episodes posted the night before
+    - cron: "23 10 * * *"  # about 5:30 AM Cleveland time, a backup pass
   workflow_dispatch:
     inputs:
       force_checkin:
