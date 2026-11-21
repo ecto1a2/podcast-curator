@@ -114,6 +114,29 @@
       "explore_reason": null,
       "added_at": "2026-11-20T10:25:22.363901+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "155666c3815e",
+      "show": "Dwarkesh Podcast",
+      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "audio_url": "https://api.substack.com/feed/podcast/225196123/e31fdeb36d2d8a60f107c733c706a545.mp3",
+      "audio_type": "audio/mpeg",
+      "published": "2026-11-16T17:46:28+00:00",
+      "minutes": 99,
+      "description": "Paul Christiano is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He’s recently joined OpenAI’s board (though here he is speaking as a private citizen). Paul thinks that on the current trajectory (absent any slowing down), there is a 1 in 3 chance that we could have superintelligence powerful enough to overthrow the government within a year. (He articulates a concrete scenario). He argues that the labs should pause further algorithmic progress until they can secure their",
+      "link": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "guid": "substack:post:225196123",
+      "image": "https://apple.dwarkesh-podcast.workers.dev/art/v1/c3Vic3RhY2s6cG9zdDoyMjUxOTYxMjM.jpg",
+      "source": "discovery",
+      "score": 94,
+      "category": "ai",
+      "reason": "Paul Christiano, who invented RLHF, on near-term AI takeover risk. Strong guest on your top theme.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-21T10:07:44.700155+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -181,6 +204,19 @@
       "minutes": 77,
       "kind": "discovery",
       "added_at": "2026-11-20T10:25:22.363901+00:00",
+      "removed_at": null,
+      "explore_term": null
+    },
+    {
+      "id": "155666c3815e",
+      "show": "Dwarkesh Podcast",
+      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "source": "discovery",
+      "category": "ai",
+      "score": 94,
+      "minutes": 99,
+      "kind": "discovery",
+      "added_at": "2026-11-21T10:07:44.700155+00:00",
       "removed_at": null,
       "explore_term": null
     }

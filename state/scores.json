@@ -3666,5 +3666,355 @@
     "filler": false,
     "reason": "Tim Dillon on Netanyahu at the UN and nepo babies; funny but light on substance.",
     "scored_at": "2026-11-20T10:25:22.363901+00:00"
+  },
+  "54c820aeaf86": {
+    "score": 72,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Sam Harris with Dalia Ziada and Yasmine Mohammed on political Islam; a core show, though a narrower topic than your favorites.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "97369619c710": {
+    "score": 93,
+    "category": "ai",
+    "filler": false,
+    "reason": "Decoder on whether Anthropic can keep safety first as a public company, with Hayden Field; squarely your AI-company theme.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "b5e95d88d9e5": {
+    "score": 50,
+    "category": "business",
+    "filler": false,
+    "reason": "Short Nvidia leadership take from Ed Elson; relevant to AI business but thin and opinion-driven.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "cba05cb35a58": {
+    "score": 76,
+    "category": "crime_econ",
+    "filler": false,
+    "reason": "Planet Money on reviving prize law to seize Iran- and Venezuela-linked tankers; sanctions and illicit networks through an economic lens.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "39f188f2b5c7": {
+    "score": 82,
+    "category": "business",
+    "filler": false,
+    "reason": "The Journal on Anthropic's record IPO and the tech sell-off; a short, well-made follow-up to a starred topic.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "3dbf1eb1a20d": {
+    "score": 58,
+    "category": "business",
+    "filler": false,
+    "reason": "Investor-focused take on the Anthropic IPO and Nvidia; useful but more stock-picking than strategy.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "0dc010a60651": {
+    "score": 35,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Close reading of Nussbaum's Therapy of Desire; too academic and only loosely tied to your interests.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "0f244c6b51d7": {
+    "score": 38,
+    "category": "news",
+    "filler": true,
+    "reason": "Daily headline roundup, which you only want when something major happens.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "7bfd0448d17e": {
+    "score": 45,
+    "category": "news",
+    "filler": false,
+    "reason": "Ezra Klein with Rep. Robert Garcia on investigating Trump corruption; strong host, but partisan domestic politics sits outside your core topics.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "033cd01a7436": {
+    "score": 42,
+    "category": "business",
+    "filler": false,
+    "reason": "Scott Galloway essay read aloud on business hubris; a short listen, but you want less Prof G.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "53c7be1aa2ff": {
+    "score": 78,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Kyle Chan on how AI is reshaping China's industrial policy; blends China strategy and AI, a Dan Wang-style listen.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "4af5b7fa87cc": {
+    "score": 25,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Matt and Shane's chaotic comedy hangout; not one of the comedians you follow.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "04b071b06d9a": {
+    "score": 60,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Andrew Santino hosts Jeremiah Watkins on comedy and fatherhood; solid comedy, but a lighter hang.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "02b675624a27": {
+    "score": 45,
+    "category": "news",
+    "filler": false,
+    "reason": "Economist daily briefing covering the Rohingya genocide ruling and AI cybercrime; a roundup with only a slice that fits.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "c5c4e080bbd1": {
+    "score": 66,
+    "category": "ai",
+    "filler": false,
+    "reason": "Hard Fork covers Anthropic going public and Jensen Huang, but opens with a long GTA VI segment.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "fe332979870c": {
+    "score": 40,
+    "category": "systems",
+    "filler": false,
+    "reason": "Freakonomics on housing regulation and Austin's rule changes; a policy-systems angle, but far from your main interests.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "ae7676034746": {
+    "score": 28,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan political commentary; not your focus.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "87bcc38caf46": {
+    "score": 42,
+    "category": "news",
+    "filler": false,
+    "reason": "Bernie Sanders on money in politics; a big guest, but domestic politics isn't your topic.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "092c43485c39": {
+    "score": 52,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Ex-CIA officer on the Nvidia espionage story; relevant to AI and China, but long and sensational.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "ecaa0bf38267": {
+    "score": 80,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Judd Apatow with Neal Brennan on observing his own mind and handling career setbacks; reflective and in your lane.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "ac3341ac325c": {
+    "score": 50,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Robert Pape on political violence and war escalation; geopolitics, but alarmist and long.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "e3f766b77c20": {
+    "score": 35,
+    "category": "news",
+    "filler": false,
+    "reason": "Texas Senate candidate James Talarico on inequality; US campaign politics is off-topic for you.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "5ab4a262caa5": {
+    "score": 87,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee with Neal Brennan on sobriety, his father's death, and what he wishes he'd known; close to your starred episodes.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "5b35ccc987ac": {
+    "score": 60,
+    "category": "comedy",
+    "filler": false,
+    "reason": "LL Cool J with Neal Brennan on leadership and friendship; an interesting guest, but not a comedian.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "52ca59c9face": {
+    "score": 70,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bobby Lee on Flagrant, one of your favorite comedians; crude and long, but a fun listen.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "098f69f71b7c": {
+    "score": 55,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Short Mark Normand episode that is mostly a Patreon teaser; a quick chore listen.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "feed0483bf1f": {
+    "score": 52,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Short Mark Normand Patreon preview; fine for a chore, but light.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "14b45c7d2501": {
+    "score": 78,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand and Keith Robinson with Bert in the kitchen, talking NYC comedy and Patrice O'Neal; a good one for you.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "12192696ee32": {
+    "score": 42,
+    "category": "crime_econ",
+    "filler": false,
+    "reason": "A short look at Australia's alleged egg cartel; a fun cartel-economics angle, but small stakes and a local story.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "1af6e1273e78": {
+    "score": 70,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "George Friedman on Middle East security and long-term US strategy; a concise great-power overview.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "f5fb0b74ae00": {
+    "score": 28,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Fringe conspiratorial framing, not the grounded geopolitics you like, and it runs 105 minutes.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "8dce38f193a0": {
+    "score": 68,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "George Friedman gives a compact 37-minute read on the Trump-Xi summit, Taiwan and Iran.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "0a7e7275ff87": {
+    "score": 72,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Hoover's Eyck Freymann on Taiwan, the US-China AI rivalry and the Trump-Xi summit.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "7958916a0d4e": {
+    "score": 68,
+    "category": "ai",
+    "filler": false,
+    "reason": "Estonia's former government CIO Luukas Ilves on how AI agents could force governments to rebuild themselves.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "8f95cb7ad473": {
+    "score": 70,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "A short, timely breakdown of the new chip export rule and China's AI compute access.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "6568afdbba65": {
+    "score": 74,
+    "category": "ai",
+    "filler": false,
+    "reason": "Dylan Patel of SemiAnalysis on Jensen Huang's exit and the China chip access fight.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "57f47073da16": {
+    "score": 68,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Chris McGuire on the Megaspeed chip scandal and how $80B in AI chips slipped through.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "0172956dca41": {
+    "score": 52,
+    "category": "news",
+    "filler": false,
+    "reason": "Policy-heavy roundtable on Democrats' next steps, with the Nvidia story only a side thread.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "85b2d66bb86e": {
+    "score": 55,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Smart defense panel on the Iran war, though the focus is narrower and more military than you usually pick.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "1d54f3ff3379": {
+    "score": 35,
+    "category": "ai",
+    "filler": false,
+    "reason": "The interview is in Chinese, and the English version only exists as a written translation.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "b667433e8e20": {
+    "score": 56,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Iran blockade and war-powers discussion, solid but more military-focused than your usual picks.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "f5708e5fc80c": {
+    "score": 60,
+    "category": "ai",
+    "filler": false,
+    "reason": "Superintelligence as geopolitical power, though a consulting executive guest is less compelling.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "5d42f685862f": {
+    "score": 82,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Harvard's Meg Rithmire on what's broken in China's economy, close to your Dan Wang favorites.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "51f9f6e5015d": {
+    "score": 66,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Michael Kofman on Ukraine, Starlink and what the US military should learn from the war.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "f6c716fec1b5": {
+    "score": 64,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Deep, wonky dive on chip equipment export controls and China, but a narrow topic.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "e7e1892a2cbc": {
+    "score": 52,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "A defense procurement conversation that is too niche for your usual interests.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "cd8bd2a1a2f8": {
+    "score": 76,
+    "category": "ai",
+    "filler": false,
+    "reason": "Rare inside view from an Ant AI lab product lead on why he thinks AGI is inevitable.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "a2afb7938fe1": {
+    "score": 66,
+    "category": "ai",
+    "filler": false,
+    "reason": "Saif Khan, an architect of US chip export controls, on the AI balance with China.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "0ee2e043f35e": {
+    "score": 64,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "A lively crossover with Yglesias and Demsas on China, AI and politics.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+  },
+  "fd0a62f05091": {
+    "score": 82,
+    "category": "ai",
+    "filler": false,
+    "reason": "Kevin Roose on the people who believed in AGI early, covering OpenAI, Anthropic and DeepMind.",
+    "scored_at": "2026-11-21T10:07:44.700155+00:00"
   }
 }
