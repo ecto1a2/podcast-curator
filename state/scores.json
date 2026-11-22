@@ -4219,5 +4219,26 @@
     "filler": false,
     "reason": "Short solo leadership take on AI and human capability; a light chore listen.",
     "scored_at": "2026-11-22T05:22:30.870000+00:00"
+  },
+  "f6251d5de91c": {
+    "score": 58,
+    "category": "business",
+    "filler": false,
+    "reason": "Merchant cash advances are a fraud-adjacent, under-regulated finance story; NPR reporter Alina Selyukh explains it well, though it's only loosely on your core topics.",
+    "scored_at": "2026-11-22T11:05:29.841351+00:00"
+  },
+  "21802ca578b9": {
+    "score": 22,
+    "category": "news",
+    "filler": false,
+    "reason": "Domestic political focus-group analysis with Jon Favreau; not a topic you follow and far from your core interests.",
+    "scored_at": "2026-11-22T11:05:29.841351+00:00"
+  },
+  "07d57f4fb0a6": {
+    "score": 35,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Dr. David Perlmutter on dementia and metabolic health is wellness-focused rather than health policy or strategy, and it runs almost two hours.",
+    "scored_at": "2026-11-22T11:05:29.841351+00:00"
   }
 }
