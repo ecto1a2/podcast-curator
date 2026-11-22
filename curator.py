@@ -1028,7 +1028,8 @@ def parse_ticks(body, meta):
             continue
         kind, *rest = m.group(2).split(":")
         if kind == "p" and len(rest) == 2 and rest[0].isdigit() and int(rest[0]) <= len(picks):
-            groups.setdefault({"loved": "Loved", "fine": "Fine", "skipped": "Skipped"}.get(rest[1], rest[1]),
+            groups.setdefault({"loved": "Very interested in", "fine": "Fine",
+                               "skipped": "Not interested in"}.get(rest[1], rest[1]),
                                []).append(picks[int(rest[0]) - 1])
         elif kind == "t" and rest and rest[0] in poll:
             groups.setdefault("Wants this new topic", []).append(poll[rest[0]])
@@ -1065,7 +1066,8 @@ def read_checkin_replies(state):
     feedback = state.setdefault("feedback", [])
     known = {f["comment_id"] for f in feedback}
     open_issues = [i for i in gh("GET", "/issues?state=open&per_page=50")
-                   if i["title"].startswith("Podcast check-in") and "pull_request" not in i]
+                   if i["title"].startswith("Podcast check-in") and "pull_request" not in i
+                   and days_ago(i.get("created_at")) < 15]
     metas = state.get("checkin_meta", {})
     picks_by_issue = state.get("checkin_picks", {})
     for issue in open_issues:
@@ -1125,39 +1127,37 @@ def weekly_checkin(feed_state, state, dry):
     except Exception as e:
         warn(f"could not read check-in replies: {e}")
         return
-    if not (NOW.weekday() == SETTINGS["checkin_weekday"] or os.environ.get("FORCE_CHECKIN")):
+    is_day = eastern_date(NOW.isoformat()).weekday() == SETTINGS["checkin_weekday"]
+    recent = days_ago(state.get("last_checkin_at")) < 5
+    if not os.environ.get("FORCE_CHECKIN") and (not is_day or recent):
         return
     week = [h for h in feed_state.get("history", []) if days_ago(h["added_at"]) < 7]
-    picks = [f"{h['show']}: {h['title']}" for h in week]
+    picks = [f"{h['show']}: {h['title']}" for h in week if h.get("kind") != "regular"]
     poll = {} if dry else topic_poll(state)
     terms = [t["term"] for t in active_terms(state) if not t.get("kept")]
     reasons = {t["term"]: t.get("reason", "") for t in active_terms(state)}
     user = SETTINGS.get("github_username")
     lines = [
-        (f"@{user} " if user else "") + "Two-minute check-in. Tap the boxes. Add a comment below only if you want to.",
+        (f"@{user} " if user else "") + "One-minute check-in. Open this on GitHub (web or app) to tap the boxes. "
+        "Leave anything blank if you have no opinion.",
         "",
         "**Health**",
         health_summary(state, len(week)),
         "",
-        "### This week's picks",
+        "### Very interested",
     ]
     if not picks:
-        lines.append("No new picks this week.")
-    for i, p in enumerate(picks, 1):
-        lines += ["", f"**{i}. {short(p)}**",
-                  f"- [ ] Loved it <!-- p:{i}:loved -->",
-                  f"- [ ] Fine <!-- p:{i}:fine -->",
-                  f"- [ ] Skipped <!-- p:{i}:skipped -->"]
-    lines += ["", "### New interests being explored"]
-    if not terms:
-        lines.append("Nothing new to decide this week.")
+        lines.append("No discovery picks this week.")
+    lines += [f"- [ ] {short(p, 80)} <!-- p:{i}:loved -->" for i, p in enumerate(picks, 1)]
+    if picks:
+        lines += ["", "### Not for me"]
+        lines += [f"- [ ] {short(p, 80)} <!-- p:{i}:skipped -->" for i, p in enumerate(picks, 1)]
+    if terms:
+        lines += ["", "### New interests being explored (tick only to drop)"]
     for i, t in enumerate(terms, 1):
-        lines += ["", f"**{t}**" + (f": {reasons[t]}" if reasons.get(t) else ""),
-                  f"- [ ] Keep for good <!-- e:{i}:keep -->",
-                  f"- [ ] Drop <!-- e:{i}:drop -->"]
-    lines += ["", "### New topics to try"]
-    if not poll:
-        lines.append("No suggestions this week.")
+        lines.append(f"- [ ] Drop {t}" + (f" ({reasons[t]})" if reasons.get(t) else "") + f" <!-- e:{i}:drop -->")
+    if poll:
+        lines += ["", "### New topics to try"]
     for k, v in poll.items():
         lines.append(f"- [ ] {v} <!-- t:{k} -->")
     lines += ["", "### Weekly volume",
@@ -1169,8 +1169,7 @@ def weekly_checkin(feed_state, state, dry):
         issue = gh("POST", "/issues", {"title": f"Podcast check-in: week of {NOW.strftime('%b %d')}",
                                        "body": "\n".join(lines)})
         state.setdefault("checkin_meta", {})[str(issue["number"])] = {"picks": picks, "poll": poll, "terms": terms}
-        for old in open_issues:
-            gh("PATCH", f"/issues/{old['number']}", {"state": "closed"})
+        state["last_checkin_at"] = NOW.isoformat()
         log(f"opened check-in issue #{issue['number']}")
     except Exception as e:
         warn(f"could not open check-in issue: {e}")
