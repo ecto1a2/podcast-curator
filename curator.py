@@ -1028,7 +1028,7 @@ def parse_ticks(body, meta):
             continue
         kind, *rest = m.group(2).split(":")
         if kind == "p" and len(rest) == 2 and rest[0].isdigit() and int(rest[0]) <= len(picks):
-            groups.setdefault({"loved": "Very interested in", "fine": "Fine",
+            groups.setdefault({"loved": "Very interested in", "fine": "Somewhat interested in",
                                "skipped": "Not interested in"}.get(rest[1], rest[1]),
                                []).append(picks[int(rest[0]) - 1])
         elif kind == "t" and rest and rest[0] in poll:
@@ -1150,6 +1150,8 @@ def weekly_checkin(feed_state, state, dry):
         lines.append("No discovery picks this week.")
     lines += [f"- [ ] {short(p, 80)} <!-- p:{i}:loved -->" for i, p in enumerate(picks, 1)]
     if picks:
+        lines += ["", "### Somewhat interested"]
+        lines += [f"- [ ] {short(p, 80)} <!-- p:{i}:fine -->" for i, p in enumerate(picks, 1)]
         lines += ["", "### Not for me"]
         lines += [f"- [ ] {short(p, 80)} <!-- p:{i}:skipped -->" for i, p in enumerate(picks, 1)]
     if terms:
