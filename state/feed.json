@@ -183,6 +183,29 @@
       "explore_reason": null,
       "added_at": "2026-11-21T13:36:54.295546+00:00",
       "kind": "regular"
+    },
+    {
+      "id": "82dadfcb9a69",
+      "show": "Ground Truths",
+      "title": "Michael Lewis: The NIH “Murder Mystery,” DOGE, and Our Government Immune System",
+      "audio_url": "https://api.substack.com/feed/podcast/217874085/b8fe02cd6112174e9ee19d5678e184db.mp3",
+      "audio_type": "audio/mpeg",
+      "published": "2026-10-06T13:53:21Z",
+      "minutes": 63,
+      "description": "Michael Lewis is one of the best storytellers of our era. You know and likely have read his books Moneyball, The Big Short, The Blind Side, Flash Boys, Liar’s Poker, and The Undoing Project, to name a few. He has long been one of my favorite authors. This was the first interview that Michael did on his new book, BLOCKERS, published on October 6th, streamed live on Substack Sept 29th. It’s his 21st book and 4 of the last 5 have been about the US government: The Fifth Risk (2019), Premonition (2021), and Who Is Government? (2025). His ability to talk with the silent civil servant heroes of multi",
+      "link": "https://podcasts.apple.com/us/podcast/michael-lewis-the-nih-murder-mystery-doge-and/id1728526108?i=1000793460272&uo=4",
+      "guid": "substack:post:217874085",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/0d/8d/440d8ddf-03a2-5b08-f7c6-11907f2e9732/mza_12289963176262846584.jpg/600x600bb.jpg",
+      "source": "explore",
+      "score": 78,
+      "category": "healthcare",
+      "reason": "Michael Lewis on his new book about NIH and DOGE; sharp storytelling on health policy.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": "Eric Topol",
+      "explore_reason": "AI in healthcare, strong fit with Heart of Healthcare",
+      "added_at": "2026-11-23T05:39:21.957298+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -293,6 +316,19 @@
       "removed_at": null,
       "explore_term": null,
       "rule_key": "Pardon My Take|2026-11-20"
+    },
+    {
+      "id": "82dadfcb9a69",
+      "show": "Ground Truths",
+      "title": "Michael Lewis: The NIH “Murder Mystery,” DOGE, and Our Government Immune System",
+      "source": "explore",
+      "category": "healthcare",
+      "score": 78,
+      "minutes": 63,
+      "kind": "discovery",
+      "added_at": "2026-11-23T05:39:21.957298+00:00",
+      "removed_at": null,
+      "explore_term": "Eric Topol"
     }
   ]
 }

@@ -34,7 +34,7 @@
         "tier": 2,
         "reason": "AI in healthcare, strong fit with Heart of Healthcare",
         "added": "2026-11-18T21:49:08.368989+00:00",
-        "hits": 0,
+        "hits": 1,
         "kept": true
       },
       {
@@ -734,9 +734,32 @@
       "sent": 0,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-23T05:39:21.957298+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
-  "feedback": [],
+  "feedback": [
+    {
+      "comment_id": "body-3",
+      "date": "2026-11-23T05:39:21.957298+00:00",
+      "picks": [
+        "Pardon My Take: NFL Week 10, Fastest 2 Minutes, Niners And Bengals Roll, Vikings Are Back With Kirk, Hank's Sad Pancakes + Who's Back Of The Week",
+        "Stavvy's World: #207 - Nathan Lund and Sam Tallent",
+        "The Diary Of A CEO with Steven Bartlett: Dr. Sarah Paine: Why The World Is Turning Away From America",
+        "Making Sense with Sam Harris: #499 — The Birth of AGI",
+        "Blocks: I Wish I Knew w/ Neal Brennan: Bobby Lee: I Wish I Knew",
+        "Dwarkesh Podcast: Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+        "Stavvy's World: Bonus #207 - Django Gold and JP McDade [PATREON PREVIEW]",
+        "Pardon My Take: Kyle Long In Studio, Week 11 Picks & Preview, RIP Fiona The Hippo + Fyre Fest Of The Week"
+      ],
+      "comment": "Very interested in: Pardon My Take: NFL Week 10, Fastest 2 Minutes, Niners And Bengals Roll, Vikings Are Back With Kirk, Hank's Sad Pancakes + Who's Back Of The Week; Stavvy's World: #207 - Nathan Lund and Sam Tallent; The Diary Of A CEO with Steven Bartlett: Dr. Sarah Paine: Why The World Is Turning Away From America; Making Sense with Sam Harris: #499 — The Birth of AGI; Dwarkesh Podcast: Paul Christiano – We could be 12 months away from AIs that can overthrow the government; Stavvy's World: Bonus #207 - Django Gold and JP McDade [PATREON PREVIEW]; Pardon My Take: Kyle Long In Studio, Week 11 Picks & Preview, RIP Fiona The Hippo + Fyre Fest Of The Week. Not interested in: Blocks: I Wish I Knew w/ Neal Brennan: Bobby Lee: I Wish I Knew. Wants this new topic: Dwarkesh Podcast: sharp, deep interviews with AI researchers and domain experts.; ChinaTalk: Jordan Schneider on China, tech policy, and great-power strategy.. Weekly volume: too few, wants more."
+    }
+  ],
   "checkin_picks": {
     "1": [
       "Pardon My Take: NFL Week 10, Fastest 2 Minutes, Niners And Bengals Roll, Vikings Are Back With Kirk, Hank's Sad Pancakes + Who's Back Of The Week",
@@ -745,12 +768,12 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-22T11:05:29.841351+00:00",
+    "at": "2026-11-23T05:39:21.957298+00:00",
     "dry_run": false,
-    "candidates": 417,
-    "scored": 3,
+    "candidates": 448,
+    "scored": 21,
     "changes": [
-      "held 1 slot(s) open: nothing cleared the bar today"
+      "sent (exploring Eric Topol, score 78): Ground Truths / Michael Lewis: The NIH “Murder Mystery,” DOGE, and Our Government Immune System"
     ],
     "errors": []
   },

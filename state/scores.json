@@ -4240,5 +4240,152 @@
     "filler": false,
     "reason": "Dr. David Perlmutter on dementia and metabolic health is wellness-focused rather than health policy or strategy, and it runs almost two hours.",
     "scored_at": "2026-11-22T11:05:29.841351+00:00"
+  },
+  "b2a44ad4e7be": {
+    "score": 75,
+    "category": "ai",
+    "filler": false,
+    "reason": "Philosophers wrestle with AI, jobs and meaning without work, which lines up with your AI-and-work and meaning interests.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "72702b08ab52": {
+    "score": 83,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand and Sam Morril hosting Sam Tallent and Adam Ray is a loose, funny two-hour hang.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "545a87f2d91f": {
+    "score": 48,
+    "category": "history",
+    "filler": false,
+    "reason": "Concluding Watergate and CIA installment from two sharp hosts, but it's part four of a series and only loosely on your topics.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "bef02ce1d247": {
+    "score": 48,
+    "category": "history",
+    "filler": false,
+    "reason": "Well-told narrative history on Captain Cook, a good occasional pick, though it's off your core themes.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "09fec6445d5c": {
+    "score": 62,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Mary the Color Scientist and philosophical zombies, close to your consciousness interests, though it's an academic text read.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "a46072a40c00": {
+    "score": 58,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Compass Pathways CEO Kabir Nath on psilocybin phase three data and the coming FDA ruling, a short healthcare-meets-business listen.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "7231ba550983": {
+    "score": 86,
+    "category": "ai",
+    "filler": false,
+    "reason": "Economist on Anthropic's record IPO and what it means for OpenAI, directly on your AI-companies theme and widely discussed.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "ec91f0256344": {
+    "score": 77,
+    "category": "ai",
+    "filler": false,
+    "reason": "Jacob Ward on Anthropic's IPO and bubble fears, relevant AI business coverage that's getting attention.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "064c66027201": {
+    "score": 79,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Howie Forman and Harlan Krumholz on post-midterm health policy and whether the AI boom's fragility threatens medicine.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "002b94ee4839": {
+    "score": 68,
+    "category": "ai",
+    "filler": false,
+    "reason": "Covers METR's findings on AI R&D at Anthropic and the policy fallout, solid AI-risk material for you.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "7162d2604cf7": {
+    "score": 80,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Charité's CEO on building AI in-house at Europe's largest hospital, a strong health-system AI strategy case in under 30 minutes.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "ab6fc3f4b1bf": {
+    "score": 72,
+    "category": "ai",
+    "filler": false,
+    "reason": "Quick weekly AI news roundup touching Amodei and Altman on models they can't control, which fits your AI-risk interest.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "4a9785de59e0": {
+    "score": 84,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Are You Garbage? with Jay Larson, a Stavvy's World regular, is a good fit for your core comedy taste.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "87803e9a3aec": {
+    "score": 30,
+    "category": "other",
+    "filler": false,
+    "reason": "Generic productivity and habit-planning advice, only loosely tied to decision making.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "f7c303d1e0de": {
+    "score": 42,
+    "category": "business",
+    "filler": false,
+    "reason": "Tim Draper on thinking like an entrepreneur is business-adjacent, but it's a light self-improvement show.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "429f6566affa": {
+    "score": 12,
+    "category": "other",
+    "filler": false,
+    "reason": "Mediumship and spirit communication is off your topics.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "63932b69738d": {
+    "score": 12,
+    "category": "other",
+    "filler": false,
+    "reason": "Mediumship and spirit communication is off your topics.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "58b593da1edb": {
+    "score": 14,
+    "category": "other",
+    "filler": false,
+    "reason": "Spiritual-coaching talk about life transitions is off your topics.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "d6917e403837": {
+    "score": 73,
+    "category": "systems",
+    "filler": false,
+    "reason": "Short Theory of Constraints case on WeWork using Alan Barnard's antifragility ideas, like your starred KPI Fireside episode.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "4226ca10c95c": {
+    "score": 77,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Stavros Halkias back with Caleb Hearon for a long, funny hang, even if it's an older episode.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "2e5052156670": {
+    "score": 66,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Tim Dillon riffs on Anthropic and Elon, in Nick Mullen's comedy orbit, so a decent comedy-meets-AI pick.",
+    "scored_at": "2026-11-23T05:39:21.957298+00:00"
   }
 }
