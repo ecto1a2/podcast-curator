@@ -4387,5 +4387,103 @@
     "filler": false,
     "reason": "Tim Dillon riffs on Anthropic and Elon, in Nick Mullen's comedy orbit, so a decent comedy-meets-AI pick.",
     "scored_at": "2026-11-23T05:39:21.957298+00:00"
+  },
+  "3d9633cf25db": {
+    "score": 88,
+    "category": "comedy",
+    "filler": false,
+    "reason": "New Stavvy's World with Carl Tart and Mandal; a core show, and the Thanksgiving theme should be funny.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "cd94b0245de5": {
+    "score": 85,
+    "category": "sports",
+    "filler": false,
+    "reason": "Your Monday Pardon My Take: Week 11 recaps, Niners-Vikings, and a Tom Jackson tribute.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "d53976427de8": {
+    "score": 45,
+    "category": "news",
+    "filler": false,
+    "reason": "A quick news roundup. The AI economy segment is relevant, but it's a daily headline show.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "2c2237dffa91": {
+    "score": 72,
+    "category": "systems",
+    "filler": false,
+    "reason": "Darryl Campbell, author of Fatal Abstraction, explains how a single router failure grounded US flights. It's a strong systems-failure story.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "9cbabeb65240": {
+    "score": 62,
+    "category": "business",
+    "filler": false,
+    "reason": "Covers the AI bubble and Anthropic's IPO. You wanted less Prof G, so it's only a moderate pick.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "de20ab8cef01": {
+    "score": 35,
+    "category": "other",
+    "filler": false,
+    "reason": "A resilience conversation with a shark attack survivor. It's well made but off your core topics.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "08d8d8d71d3a": {
+    "score": 74,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Hone Health CEO Saad Alam on a $228M raise and a digital health push into drug development.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "e81544e2a97d": {
+    "score": 66,
+    "category": "ai",
+    "filler": false,
+    "reason": "AI reportedly proves the Riemann hypothesis. It's a short, well-explained AI story from The Economist.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "29d62b1b0490": {
+    "score": 58,
+    "category": "ai",
+    "filler": false,
+    "reason": "Scott Galloway on whether AI creates more jobs than it destroys. It's relevant and short, but Prof G is heavy for you already.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "e8a1f8e317c6": {
+    "score": 38,
+    "category": "comedy",
+    "filler": false,
+    "reason": "A Bad Friends Friendsgiving episode. It's comedy, but not one of your named comedians.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "447ef6b71442": {
+    "score": 80,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Afra Wang on China's vibecoding boom and its AI optimism. It joins AI, China and economics.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "0fbd3206fb1f": {
+    "score": 55,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Bill Maher with Ann Wilson of Heart. Club Random is a favorite, but this is a music-heavy episode.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "6d8a51be2c86": {
+    "score": 78,
+    "category": "business",
+    "filler": false,
+    "reason": "Steve Eisman, who called the 2008 crash, on the AI bubble and markets. A strong guest on a Diary of a CEO episode.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "748017364967": {
+    "score": 68,
+    "category": "systems",
+    "filler": false,
+    "reason": "Cal Newport and Ben Meer on building repeatable systems instead of relying on discipline. It's a good systems-thinking fit.",
+    "scored_at": "2026-11-23T11:22:05.930736+00:00"
   }
 }

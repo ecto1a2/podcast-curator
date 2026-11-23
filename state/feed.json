@@ -206,6 +206,52 @@
       "explore_reason": "AI in healthcare, strong fit with Heart of Healthcare",
       "added_at": "2026-11-23T05:39:21.957298+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "cd94b0245de5",
+      "show": "Pardon My Take",
+      "title": "NFL Week 11, Fastest 2 Minutes, Niners Dominate The Vikings, Remembering Tom Jackson And Who's Back Of The Week",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/landmark-dynamic.barstoolsports.com/stream/v2/NIVNtUWD6vpu1tZAwgxhmFQm/audio.mp3?v=2&etag=eccbc87e",
+      "audio_type": "audio/mpeg",
+      "published": "2026-11-23T08:09:24+00:00",
+      "minutes": 171,
+      "description": "NFL Week 11, we start with fastest 2 minutes, remembering Tom Jackson, and then recap every game from Sunday (00:00:00-00:17:44) Lions 31, Bucs 21 (00:17:44-00:30:00) Panthers 35, Ravens 33 (00:30:00-00:40:07) Eagles 19, Steelers 16 (00:40:07-00:56:34) Bears 21, Saints 13 (00:56:34-01:06:22) Cowboys 51, Titans 30 (01:06:22-01:19:29) Chiefs 34, Cardinals 7 (01:19:29-01:23:17) Bills 26, Dolphins 9 (01:23:17-01:31:18) Jets 27, Chargers 24 (01:31:18-01:40:50) Broncos 38, Raiders 24 (01:40:50-01:46:43) Giants 23, Jaguars 18 (01:46:43-02:08:06) Niners 35, Vikings 10 (02:08:06-02:21:09) We then finis",
+      "link": "https://www.barstoolsports.com/shows/pardon-my-take",
+      "guid": "25de7280-2be9-4130-8f4d-83179dc12f9f",
+      "image": "https://chumley.barstoolsports.com/union/2026/11/23/Football-Only-Show---Football-Car-2.418f7ef1.jpg?crop=3000%3A3000%2Csmart&format=jpeg",
+      "source": "core",
+      "score": 85,
+      "category": "sports",
+      "reason": "Your Monday Pardon My Take: Week 11 recaps, Niners-Vikings, and a Tom Jackson tribute.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-23T11:22:05.930736+00:00",
+      "kind": "regular"
+    },
+    {
+      "id": "3d9633cf25db",
+      "show": "Stavvy's World",
+      "title": "#208 - Carl Tart and Mandal",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/40de7631-83e4-408a-bf6e-7ab4b5196c79/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=40de7631-83e4-408a-bf6e-7ab4b5196c79&feed=Fa0PP4fl",
+      "audio_type": "audio/mpeg",
+      "published": "2026-11-23T11:00:00+00:00",
+      "minutes": 122,
+      "description": "Carl Tart and Mandal return for a special Thanksgiving edition of the pod to discuss the diversity of the fat coalition, whether turkey sucks or not, tradition existing to prevent pure overindulgence, the audacity of US Polo Assn, the downfall of Big Dogs, general plus size shopping options, callous humor as a defense mechanism in youth, harboring grudges against enemies, eating delicious cupcakes with a cup of milk during the pod, and much more. Carl, Mandal and Stav help callers including a fat who's on a consistently healthy track for the first time in his life who wants tips on how to stic",
+      "link": "https://siriusxm.com",
+      "guid": "d4cad986-e48e-4a77-ae36-67e65493b09b",
+      "image": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed",
+      "source": "core",
+      "score": 88,
+      "category": "comedy",
+      "reason": "New Stavvy's World with Carl Tart and Mandal; a core show, and the Thanksgiving theme should be funny.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-23T11:22:05.930736+00:00",
+      "kind": "regular"
     }
   ],
   "history": [
@@ -329,6 +375,34 @@
       "added_at": "2026-11-23T05:39:21.957298+00:00",
       "removed_at": null,
       "explore_term": "Eric Topol"
+    },
+    {
+      "id": "cd94b0245de5",
+      "show": "Pardon My Take",
+      "title": "NFL Week 11, Fastest 2 Minutes, Niners Dominate The Vikings, Remembering Tom Jackson And Who's Back Of The Week",
+      "source": "core",
+      "category": "sports",
+      "score": 85,
+      "minutes": 171,
+      "kind": "regular",
+      "added_at": "2026-11-23T11:22:05.930736+00:00",
+      "removed_at": null,
+      "explore_term": null,
+      "rule_key": "Pardon My Take|2026-11-23"
+    },
+    {
+      "id": "3d9633cf25db",
+      "show": "Stavvy's World",
+      "title": "#208 - Carl Tart and Mandal",
+      "source": "core",
+      "category": "comedy",
+      "score": 88,
+      "minutes": 122,
+      "kind": "regular",
+      "added_at": "2026-11-23T11:22:05.930736+00:00",
+      "removed_at": null,
+      "explore_term": null,
+      "rule_key": "Stavvy's World|3d9633cf25db"
     }
   ]
 }

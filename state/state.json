@@ -741,6 +741,13 @@
       "sent": 1,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-23T11:22:05.930736+00:00",
+      "claude_ok": true,
+      "sent": 2,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -768,12 +775,13 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-23T05:39:21.957298+00:00",
+    "at": "2026-11-23T11:22:05.930736+00:00",
     "dry_run": false,
-    "candidates": 448,
-    "scored": 21,
+    "candidates": 441,
+    "scored": 14,
     "changes": [
-      "sent (exploring Eric Topol, score 78): Ground Truths / Michael Lewis: The NIH “Murder Mystery,” DOGE, and Our Government Immune System"
+      "sent (regular, score 85): Pardon My Take / NFL Week 11, Fastest 2 Minutes, Niners Dominate The Vikings, Remembering Tom Jackson And Who's Back Of The Week",
+      "sent (regular, score 88): Stavvy's World / #208 - Carl Tart and Mandal"
     ],
     "errors": []
   },
