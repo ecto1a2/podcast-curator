@@ -748,6 +748,13 @@
       "sent": 2,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-24T02:55:50.323005+00:00",
+      "claude_ok": true,
+      "sent": 0,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -775,14 +782,11 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-23T11:22:05.930736+00:00",
+    "at": "2026-11-24T02:55:50.323005+00:00",
     "dry_run": false,
-    "candidates": 441,
-    "scored": 14,
-    "changes": [
-      "sent (regular, score 85): Pardon My Take / NFL Week 11, Fastest 2 Minutes, Niners Dominate The Vikings, Remembering Tom Jackson And Who's Back Of The Week",
-      "sent (regular, score 88): Stavvy's World / #208 - Carl Tart and Mandal"
-    ],
+    "candidates": 427,
+    "scored": 10,
+    "changes": [],
     "errors": []
   },
   "checkin_meta": {

@@ -4485,5 +4485,75 @@
     "filler": false,
     "reason": "Cal Newport and Ben Meer on building repeatable systems instead of relying on discipline. It's a good systems-thinking fit.",
     "scored_at": "2026-11-23T11:22:05.930736+00:00"
+  },
+  "22335a0f90d2": {
+    "score": 80,
+    "category": "business",
+    "filler": false,
+    "reason": "The Journal's tight explainer on Jensen Huang's reinstatement at Nvidia, a major AI company story, with WSJ reporting.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "8e8b820f78fe": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Covers the Nvidia news from an investor angle, but it is more stock chatter than analysis.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "5f1d625b87cc": {
+    "score": 38,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Funny banter, but Segura and Kreischer aren't on your comedian list, so it's a lower fit.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "79da4a51929c": {
+    "score": 36,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Comedy roast and banter, but not from comedians on your list.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "beb8d9e227a1": {
+    "score": 82,
+    "category": "ai",
+    "filler": false,
+    "reason": "Stephen Witt, Huang's biographer, plus NYT's Jonathan Swan, unpack how Trump got Jensen Huang back at Nvidia.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "ba17ab15dfb7": {
+    "score": 68,
+    "category": "business",
+    "filler": false,
+    "reason": "Adam Grant and Scott Galloway on Nvidia's accountability question, though it's only a short preview.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "abdec3fbe54b": {
+    "score": 72,
+    "category": "systems",
+    "filler": false,
+    "reason": "Evan Lunt on building an AI center of excellence at JBT Marel, in your KPI Fireside lane.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "8d7f18f80f78": {
+    "score": 78,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Penn's Kevin Johnson on synthetic patients and consent, which sits right where AI meets health systems.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "59165553eeaf": {
+    "score": 93,
+    "category": "ai",
+    "filler": false,
+    "reason": "Tyler Cowen and DeepMind economist Alex Imas on why AI isn't yet speeding up the economy, which matches your stars.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "80f9dc1d5533": {
+    "score": 84,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Chris McGuire and Peter Harrell on the Nvidia-China tech policy fallout, ChinaTalk's strong point.",
+    "scored_at": "2026-11-24T02:55:50.323005+00:00"
   }
 }
