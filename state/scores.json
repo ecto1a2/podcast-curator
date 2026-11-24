@@ -4569,5 +4569,89 @@
     "filler": false,
     "reason": "Mark Normand's travel-and-road comedy show in a short 29-minute slot, good for chores; a Patreon preview.",
     "scored_at": "2026-11-24T05:28:50.437045+00:00"
+  },
+  "c73fe8b9aab0": {
+    "score": 55,
+    "category": "news",
+    "filler": false,
+    "reason": "Short, big-event briefing on Nvidia and Huang's return, but it is a daily headline roundup.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "69f896605bab": {
+    "score": 58,
+    "category": "sports",
+    "filler": false,
+    "reason": "Pablo Torre with David Chang and Mina Kimes is fun, but it is a food-and-football novelty story.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "d47ebf5b3015": {
+    "score": 80,
+    "category": "ai",
+    "filler": false,
+    "reason": "Ezra Klein on AI-driven cybersecurity chaos: a big systemic AI risk story, explained in depth.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "14294c800e29": {
+    "score": 66,
+    "category": "business",
+    "filler": false,
+    "reason": "Galloway and Elson on Huang's reinstatement and AI-market risk, though you wanted less Prof G.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "ea1b0e971aba": {
+    "score": 68,
+    "category": "business",
+    "filler": false,
+    "reason": "Economist's tight take on Huang's return and what it means for Nvidia, plus a measles segment.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "52596c256731": {
+    "score": 78,
+    "category": "business",
+    "filler": false,
+    "reason": "Bing Gordon on Bezos, Jobs and Amazon board lessons: operator depth in Knowledge Project style.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "0528a456c4db": {
+    "score": 22,
+    "category": "other",
+    "filler": false,
+    "reason": "Movie-making nostalgia about Elf with Andy Richter, off your topics.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "2baa1ee07ee3": {
+    "score": 42,
+    "category": "news",
+    "filler": false,
+    "reason": "Partisan political reaction at 100 minutes; the Nvidia angle is covered better elsewhere.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "5dab9aeeb8d7": {
+    "score": 55,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Daniel Cox on young men, dating and the gender divide has some relevance to your raising-boys interests.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "c983acb8f931": {
+    "score": 83,
+    "category": "business",
+    "filler": false,
+    "reason": "Odd Lots on Huang's return and the AI trade: sharp market analysis on your top theme.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "a0bb620d13c4": {
+    "score": 50,
+    "category": "parenting",
+    "filler": false,
+    "reason": "Dr. Becky is a favorite, but this holiday Q&A is a lighter, generic episode.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "94701a0e8a3e": {
+    "score": 82,
+    "category": "ai",
+    "filler": false,
+    "reason": "Steve Eisman, of The Big Short, on whether AI is a bubble: strong guest on your core theme.",
+    "scored_at": "2026-11-24T11:14:38.642569+00:00"
   }
 }

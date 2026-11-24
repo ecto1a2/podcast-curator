@@ -762,6 +762,13 @@
       "sent": 1,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-24T11:14:38.642569+00:00",
+      "claude_ok": true,
+      "sent": 0,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -789,13 +796,11 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-24T05:28:50.437045+00:00",
+    "at": "2026-11-24T11:14:38.642569+00:00",
     "dry_run": false,
-    "candidates": 429,
-    "scored": 2,
-    "changes": [
-      "sent (exploring ChinaTalk, score 84): ChinaTalk / Emergency Pod: Jensen Back"
-    ],
+    "candidates": 433,
+    "scored": 12,
+    "changes": [],
     "errors": []
   },
   "checkin_meta": {
