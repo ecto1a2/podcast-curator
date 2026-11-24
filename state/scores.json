@@ -4555,5 +4555,19 @@
     "filler": false,
     "reason": "Chris McGuire and Peter Harrell on the Nvidia-China tech policy fallout, ChinaTalk's strong point.",
     "scored_at": "2026-11-24T02:55:50.323005+00:00"
+  },
+  "aaf5d00b6cbf": {
+    "score": 45,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Hoover mailbag with loose topics; some geopolitics and leadership, but less depth than a guest-led interview.",
+    "scored_at": "2026-11-24T05:28:50.437045+00:00"
+  },
+  "808440d33aa6": {
+    "score": 72,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand's travel-and-road comedy show in a short 29-minute slot, good for chores; a Patreon preview.",
+    "scored_at": "2026-11-24T05:28:50.437045+00:00"
   }
 }

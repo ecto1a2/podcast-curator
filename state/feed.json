@@ -252,6 +252,29 @@
       "explore_reason": null,
       "added_at": "2026-11-23T11:22:05.930736+00:00",
       "kind": "regular"
+    },
+    {
+      "id": "80f9dc1d5533",
+      "show": "ChinaTalk",
+      "title": "Emergency Pod: Jensen Back",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1651960026.mp3",
+      "audio_type": "audio/mpeg",
+      "published": "2026-11-23T21:55:00+00:00",
+      "minutes": 42,
+      "description": "Wow. To make sense of it, ChinaTalk brought on Chris McGuire who works on China and emerging technologies and previously ran tech protection strategy as deputy senior director at the NSC. Peter Harrell works on geoeconomics and was President Biden's senior director for international economics. We discuss… What Trump could have promised NVIDIA: a pardon, a sweetheart settlement or future licenses, and why a five-year statute of limitations means a paused DOJ probe isn't enough. Swiss-cheese controls: last week's strong BIS rule on remote access and Southeast Asian smuggling, and whether waving ",
+      "link": "",
+      "guid": "8a038b74-e788-11f1-9b61-4b03141b9f4a",
+      "image": "https://megaphone-images.spotifycdn.com/podcasts/8a038b74-e788-11f1-9b61-4b03141b9f4a/image/7ab852fedce3380a73f14f52490b27b8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "source": "explore",
+      "score": 84,
+      "category": "geopolitics",
+      "reason": "Chris McGuire and Peter Harrell on the Nvidia-China tech policy fallout, ChinaTalk's strong point.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": "ChinaTalk",
+      "explore_reason": "Dan Wang-style China analysis and tech geopolitics",
+      "added_at": "2026-11-24T05:28:50.437045+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -403,6 +426,19 @@
       "removed_at": null,
       "explore_term": null,
       "rule_key": "Stavvy's World|3d9633cf25db"
+    },
+    {
+      "id": "80f9dc1d5533",
+      "show": "ChinaTalk",
+      "title": "Emergency Pod: Jensen Back",
+      "source": "explore",
+      "category": "geopolitics",
+      "score": 84,
+      "minutes": 42,
+      "kind": "discovery",
+      "added_at": "2026-11-24T05:28:50.437045+00:00",
+      "removed_at": null,
+      "explore_term": "ChinaTalk"
     }
   ]
 }

@@ -16,7 +16,7 @@
         "tier": 2,
         "reason": "Dan Wang-style China analysis and tech geopolitics",
         "added": "2026-11-18T21:49:08.368989+00:00",
-        "hits": 0,
+        "hits": 1,
         "kept": true
       },
       {
@@ -755,6 +755,13 @@
       "sent": 0,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-24T05:28:50.437045+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -782,11 +789,13 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-24T02:55:50.323005+00:00",
+    "at": "2026-11-24T05:28:50.437045+00:00",
     "dry_run": false,
-    "candidates": 427,
-    "scored": 10,
-    "changes": [],
+    "candidates": 429,
+    "scored": 2,
+    "changes": [
+      "sent (exploring ChinaTalk, score 84): ChinaTalk / Emergency Pod: Jensen Back"
+    ],
     "errors": []
   },
   "checkin_meta": {
