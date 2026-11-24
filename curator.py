@@ -898,9 +898,9 @@ def write_feed(items):
                                              "type": "application/rss+xml"})
     ET.SubElement(ch, f"{{{NS_IT}}}author").text = "Podcast Curator"
     ET.SubElement(ch, f"{{{NS_IT}}}explicit").text = "true"
-    ET.SubElement(ch, f"{{{NS_IT}}}image", {"href": url + "cover.png"})
+    ET.SubElement(ch, f"{{{NS_IT}}}image", {"href": url + SETTINGS.get("cover_file", "cover-brza.png")})
     img = ET.SubElement(ch, "image")
-    ET.SubElement(img, "url").text = url + "cover.png"
+    ET.SubElement(img, "url").text = url + SETTINGS.get("cover_file", "cover-brza.png")
     ET.SubElement(img, "title").text = SETTINGS["feed_title"]
     ET.SubElement(img, "link").text = url
     ET.SubElement(ch, "lastBuildDate").text = format_datetime(NOW)

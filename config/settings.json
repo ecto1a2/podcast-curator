@@ -4,6 +4,7 @@
   "model": "claude-sonnet-5-5",
   "feed_title": "B.rza Listening Shelf",
   "feed_base_url": "",
+  "cover_file": "cover-brza.png",
 
   "_budget": "About 10 a week: roughly 3 regulars plus up to 7 discovery picks.",
   "max_discovery_per_week": 7,
