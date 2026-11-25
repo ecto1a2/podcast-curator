@@ -4653,5 +4653,61 @@
     "filler": false,
     "reason": "Steve Eisman, of The Big Short, on whether AI is a bubble: strong guest on your core theme.",
     "scored_at": "2026-11-24T11:14:38.642569+00:00"
+  },
+  "335ed2b8aaf5": {
+    "score": 80,
+    "category": "sports",
+    "filler": false,
+    "reason": "Your Monday/Friday Pardon My Take slot, with a Thanksgiving NFL preview and Brandon Walker on college football.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "91bb63517e47": {
+    "score": 52,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Gerald Knaus is a deep expert on EU migration policy, but the UK-politics focus is only loosely on your topics.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "66f0b49462f1": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Short, with Hank Green interviewing Nilay Patel on effectiveness at work, but it mostly promotes his book.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "f380c161c18f": {
+    "score": 30,
+    "category": "business",
+    "filler": false,
+    "reason": "Travel stock picks are narrow stock-picking content that doesn't match your interests.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "935996acc2ca": {
+    "score": 76,
+    "category": "crime_econ",
+    "filler": false,
+    "reason": "A $170M cattle Ponzi scheme that fooled a major bank. It's fraud as a lens on economics, in a short episode.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "b0c357c3b8c5": {
+    "score": 84,
+    "category": "ai",
+    "filler": false,
+    "reason": "Dwarkesh responds to objections to his recursive self-improvement essay, which suits your AI risk interest and the Dwarkesh topic you asked for.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "534d7e483171": {
+    "score": 52,
+    "category": "business",
+    "filler": false,
+    "reason": "Short and well run, with Durham's Aarron Atkinson-Toal on marketing psychology, but only loosely related to your interests.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "b9bc648617c0": {
+    "score": 42,
+    "category": "geopolitics",
+    "filler": true,
+    "reason": "Preview of a China geopolitics episode from a partisan show, with little depth. It is also an older upload.",
+    "scored_at": "2026-11-25T05:29:39.788577+00:00"
   }
 }

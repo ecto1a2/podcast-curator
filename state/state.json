@@ -769,6 +769,13 @@
       "sent": 0,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-25T05:29:39.788577+00:00",
+      "claude_ok": true,
+      "sent": 0,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -796,11 +803,13 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-24T11:14:38.642569+00:00",
+    "at": "2026-11-25T05:29:39.788577+00:00",
     "dry_run": false,
-    "candidates": 433,
-    "scored": 12,
-    "changes": [],
+    "candidates": 415,
+    "scored": 8,
+    "changes": [
+      "held 1 slot(s) open: nothing cleared the bar today"
+    ],
     "errors": []
   },
   "checkin_meta": {
