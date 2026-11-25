@@ -4709,5 +4709,68 @@
     "filler": true,
     "reason": "Preview of a China geopolitics episode from a partisan show, with little depth. It is also an older upload.",
     "scored_at": "2026-11-25T05:29:39.788577+00:00"
+  },
+  "db1279169381": {
+    "score": 90,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Moxie Marlinspike on Signal, encryption and surveillance, interviewed by Tyler Cowen: exactly the deep-expert format you star.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "c24344eae734": {
+    "score": 35,
+    "category": "news",
+    "filler": false,
+    "reason": "A daily headline roundup with no single major event, so it's skippable this week.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "a2ef4bac3faa": {
+    "score": 76,
+    "category": "ai",
+    "filler": false,
+    "reason": "Covers Anthropic's IPO and OpenAI, plus corporate governance expert Charles Elson on the Nvidia scandal.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "60980b333b52": {
+    "score": 66,
+    "category": "crime_econ",
+    "filler": false,
+    "reason": "Cargo theft as an economics story: stolen goods, fencing, and why the FBI struggles to catch the thieves.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "6b3892370ba5": {
+    "score": 58,
+    "category": "business",
+    "filler": false,
+    "reason": "FedEx CEO Raj Subramaniam on AI at scale and global supply chains; a solid short business listen.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "3f84fa35cd6f": {
+    "score": 50,
+    "category": "systems",
+    "filler": false,
+    "reason": "Why construction never gets more productive is a good systems question, but this is a 2023 rerun.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "d71b72626966": {
+    "score": 68,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Short, well-explained look at the Iran-America stalemate and how Gulf states are reading it.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "8408bd806224": {
+    "score": 42,
+    "category": "business",
+    "filler": false,
+    "reason": "Creator economy economics from Scott Galloway; light and tangential, and you want less Prof G.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "93d389d1640a": {
+    "score": 12,
+    "category": "cooking",
+    "filler": true,
+    "reason": "A Thanksgiving rerun from 2022 with no new content.",
+    "scored_at": "2026-11-25T12:51:20.521527+00:00"
   }
 }

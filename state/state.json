@@ -776,6 +776,13 @@
       "sent": 0,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-25T12:51:20.521527+00:00",
+      "claude_ok": true,
+      "sent": 0,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -803,14 +810,16 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-25T05:29:39.788577+00:00",
+    "at": "2026-11-25T12:51:20.521527+00:00",
     "dry_run": false,
-    "candidates": 415,
-    "scored": 8,
+    "candidates": 416,
+    "scored": 9,
     "changes": [
       "held 1 slot(s) open: nothing cleared the bar today"
     ],
-    "errors": []
+    "errors": [
+      "interest expansion skipped: Expecting ',' delimiter: line 1 column 966 (char 965)"
+    ]
   },
   "checkin_meta": {
     "2": {
