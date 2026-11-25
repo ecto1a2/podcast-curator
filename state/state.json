@@ -835,6 +835,13 @@
       "sent": 0,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-25T12:55:28.600764+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -862,12 +869,12 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-25T12:53:11.438116+00:00",
+    "at": "2026-11-25T12:55:28.600764+00:00",
     "dry_run": false,
-    "candidates": 420,
-    "scored": 4,
+    "candidates": 421,
+    "scored": 0,
     "changes": [
-      "held 1 slot(s) open: nothing cleared the bar today"
+      "sent (best available, score 90): Conversations with Tyler / Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance"
     ],
     "errors": []
   },

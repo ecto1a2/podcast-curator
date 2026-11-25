@@ -275,6 +275,29 @@
       "explore_reason": "Dan Wang-style China analysis and tech geopolitics",
       "added_at": "2026-11-24T05:28:50.437045+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "db1279169381",
+      "show": "Conversations with Tyler",
+      "title": "Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance",
+      "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-305-MoxieMarlinspike-podcast-v4.mp3?dest-id=850607",
+      "audio_type": "audio/mpeg",
+      "published": "2026-11-25T12:08:00+00:00",
+      "minutes": 46,
+      "description": "Help us keep the conversations going in 2027. Donate to Conversations with Tyler today . Moxie Marlinspike built Signal and designed the encryption protocol underneath it — the same protocol that also secures WhatsApp, Facebook Messenger, and Skype. He's spent his career on the unglamorous, structural side of privacy, down to whether the company itself can see your contacts, your group names, or your search history. That background makes him an unusually direct interlocutor on the biggest live question in his field: whether the recent flood of AI-assisted math results could put cryptography it",
+      "link": "https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance",
+      "guid": "ae5d8a48-bc5e-4fdb-aed9-63d779cd7c12",
+      "image": "https://static.libsyn.com/p/assets/b/2/c/8/b2c8e0949e5459d7a04421dee9605cbd/CWT-305-MoxieMarlinspike-libsyn-20261105-d8sa3bgz3w.png",
+      "source": "subscribed",
+      "score": 90,
+      "category": "big_ideas",
+      "reason": "Moxie Marlinspike on Signal, encryption and surveillance, interviewed by Tyler Cowen: exactly the deep-expert format you star.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-25T12:55:28.600764+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -439,6 +462,19 @@
       "added_at": "2026-11-24T05:28:50.437045+00:00",
       "removed_at": null,
       "explore_term": "ChinaTalk"
+    },
+    {
+      "id": "db1279169381",
+      "show": "Conversations with Tyler",
+      "title": "Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance",
+      "source": "subscribed",
+      "category": "big_ideas",
+      "score": 90,
+      "minutes": 46,
+      "kind": "discovery",
+      "added_at": "2026-11-25T12:55:28.600764+00:00",
+      "removed_at": null,
+      "explore_term": null
     }
   ]
 }
