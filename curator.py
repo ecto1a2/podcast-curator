@@ -338,6 +338,17 @@ def extract_json(text, opener="["):
     return json.loads(text[start:end + 1])
 
 
+def claude_json(system, user, max_tokens=4000, opener="["):
+    """Ask Claude for JSON; if the reply doesn't parse, ask once more to fix it."""
+    reply = claude(system, user, max_tokens)
+    try:
+        return extract_json(reply, opener)
+    except ValueError as e:
+        fixed = claude("Return the same data as strictly valid JSON. Escape quotes inside strings. "
+                       "Reply with only the JSON.", f"Parse error: {e}\n\n{reply[-15000:]}", max_tokens)
+        return extract_json(fixed, opener)
+
+
 def taste_context(feedback):
     parts = ["# Listener profile\n" + read_text(CFG / "profile.md"),
              "# Listener's latest notes\n" + read_text(CFG / "notes.md")]
@@ -379,8 +390,8 @@ def score_with_claude(cands, feedback):
             "explore": c.get("explore_reason") if c["source"] == "explore" else None,
         } for c in batch]
         try:
-            reply = claude(system, "Candidates:\n" + json.dumps(payload, ensure_ascii=False), 6000)
-            for row in extract_json(reply):
+            rows = claude_json(system, "Candidates:\n" + json.dumps(payload, ensure_ascii=False), 6000)
+            for row in rows:
                 if isinstance(row, dict) and row.get("id"):
                     results[row["id"]] = row
         except Exception as e:
@@ -469,8 +480,8 @@ def expand_interests(state, feed_state, sources, dry):
         f"Propose up to {S['expansion_new_per_week']} additions.",
     ])
     try:
-        reply = extract_json(claude(EXPANSION_INSTRUCTIONS + "\n\n" + taste_context(state.get("feedback", [])),
-                                    user, 2000), "{")
+        reply = claude_json(EXPANSION_INSTRUCTIONS + "\n\n" + taste_context(state.get("feedback", [])),
+                            user, 2000, "{")
     except Exception as e:
         warn(f"interest expansion skipped: {e}")
         return
