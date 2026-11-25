@@ -4772,5 +4772,33 @@
     "filler": true,
     "reason": "A Thanksgiving rerun from 2022 with no new content.",
     "scored_at": "2026-11-25T12:51:20.521527+00:00"
+  },
+  "a076462bd7e6": {
+    "score": 18,
+    "category": "other",
+    "filler": false,
+    "reason": "Church staff wellbeing is off-topic for you; it has no link to AI, healthcare, or your usual interests.",
+    "scored_at": "2026-11-25T12:53:11.438116+00:00"
+  },
+  "f673117d8422": {
+    "score": 16,
+    "category": "other",
+    "filler": false,
+    "reason": "Church staff culture and pastoral leadership don't connect to your AI, healthcare, or strategy interests.",
+    "scored_at": "2026-11-25T12:53:11.438116+00:00"
+  },
+  "31548a64d2bd": {
+    "score": 22,
+    "category": "business",
+    "filler": false,
+    "reason": "Organizational culture and innovation has some overlap with strategy, but it's framed for Christian workplaces and isn't about AI or healthcare.",
+    "scored_at": "2026-11-25T12:53:11.438116+00:00"
+  },
+  "688421b25499": {
+    "score": 18,
+    "category": "other",
+    "filler": false,
+    "reason": "A church's staff culture turnaround doesn't fit your topics, despite a loose link to engagement surveys.",
+    "scored_at": "2026-11-25T12:53:11.438116+00:00"
   }
 }

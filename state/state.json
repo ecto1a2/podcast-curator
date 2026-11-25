@@ -54,9 +54,54 @@
         "added": "2026-11-18T21:49:08.368989+00:00",
         "hits": 0,
         "kept": true
+      },
+      {
+        "term": "Dylan Patel",
+        "kind": "person",
+        "tier": 2,
+        "reason": "SemiAnalysis founder; AI chips and China, fits Dwarkesh and ChinaTalk",
+        "added": "2026-11-25T12:53:11.438116+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Ben Thompson Stratechery",
+        "kind": "person",
+        "tier": 2,
+        "reason": "Tech and AI company strategy; pairs with Decoder and Acquired",
+        "added": "2026-11-25T12:53:11.438116+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Robert Wachter",
+        "kind": "person",
+        "tier": 2,
+        "reason": "Leading voice on AI and digital health in hospitals",
+        "added": "2026-11-25T12:53:11.438116+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Daniel Kokotajlo",
+        "kind": "person",
+        "tier": 2,
+        "reason": "AI 2027 author; AI risk, like the Paul Christiano episode",
+        "added": "2026-11-25T12:53:11.438116+00:00",
+        "hits": 0,
+        "kept": false
+      },
+      {
+        "term": "Nonzero with Robert Wright",
+        "kind": "show",
+        "tier": 2,
+        "reason": "Consciousness, meditation, AI and geopolitics; Sam Harris and Ezra Klein adjacent",
+        "added": "2026-11-25T12:53:11.438116+00:00",
+        "hits": 0,
+        "kept": false
       }
     ],
-    "last_run": null,
+    "last_run": "2026-11-25T12:53:11.438116+00:00",
     "blocked": [
       "bobby lee"
     ]
@@ -783,6 +828,13 @@
       "sent": 0,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-25T12:53:11.438116+00:00",
+      "claude_ok": true,
+      "sent": 0,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -810,16 +862,14 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-25T12:51:20.521527+00:00",
+    "at": "2026-11-25T12:53:11.438116+00:00",
     "dry_run": false,
-    "candidates": 416,
-    "scored": 9,
+    "candidates": 420,
+    "scored": 4,
     "changes": [
       "held 1 slot(s) open: nothing cleared the bar today"
     ],
-    "errors": [
-      "interest expansion skipped: Expecting ',' delimiter: line 1 column 966 (char 965)"
-    ]
+    "errors": []
   },
   "checkin_meta": {
     "2": {
