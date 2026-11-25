@@ -453,6 +453,7 @@ def expand_interests(state, feed_state, sources, dry):
         return
     if days_ago(exp.get("last_run")) < 6.5 and not os.environ.get("FORCE_EXPAND"):
         return
+    subscribed = [x["name"] for x in sources.get("subscribed", [])]
     sent = feed_state.get("history", [])[-40:]
     current = [f"{t['term']} (tier {t.get('tier')}, {int(days_ago(t['added']))} days old, "
                f"{t.get('hits', 0)} picks sent{', permanent' if t.get('kept') else ''})" for t in exp["terms"]]
@@ -473,7 +474,6 @@ def expand_interests(state, feed_state, sources, dry):
     except Exception as e:
         warn(f"interest expansion skipped: {e}")
         return
-    subscribed = [x["name"] for x in sources.get("subscribed", [])]
     known = {t["term"].lower() for t in exp["terms"]} | set(exp.get("blocked", [])) | {
         x.lower() for x in sources.get("people", []) + sources.get("topics", []) + sources.get("discovery_shows", [])
         + subscribed}
@@ -1203,7 +1203,10 @@ def main():
     feed_state = load_json(STATE / "feed.json", {"items": [], "history": []})
     scores = load_json(STATE / "scores.json", {})
 
-    expand_interests(state, feed_state, sources, dry)
+    try:
+        expand_interests(state, feed_state, sources, dry)
+    except Exception as e:
+        warn(f"interest expansion crashed, skipped this run: {e!r}")
     cands = dedupe(gather(sources, state, dry))
     log(f"{len(cands)} unique candidates")
 
@@ -1270,5 +1273,16 @@ def main():
     return 0
 
 
+def safe_main():
+    try:
+        return main()
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        raise_or_clear_alert(f"The curator crashed: {e!r}. No picks were sent this run. "
+                             "Ask Claude to look at the latest failed run in the Actions tab.")
+        return 1
+
+
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(safe_main())
