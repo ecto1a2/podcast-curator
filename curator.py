@@ -813,10 +813,9 @@ def select(pool, cands, feed_state):
         return min((days_ago(h["added_at"]) for h in history if pred(h)), default=9999)
 
     def explore_waiting():
-        return any(p["source"] == "explore" and p["id"] not in seen and not p.get("filler")
-                   and p["category"] != "excluded" and p["score"] >= S["min_score"] for p in pool)
+        return any(p["source"] == "explore" and eligible(p, reserve=False) for p in pool)
 
-    def eligible(c):
+    def eligible(c, reserve=True):
         if c["id"] in seen or c.get("filler") or c["category"] == "excluded":
             return False
         r = rule_for(c, rules)
@@ -835,7 +834,7 @@ def select(pool, cands, feed_state):
         explore_week = sum(1 for h in disc_week if h.get("source") == "explore")
         if c["source"] == "explore" and explore_week >= S["explore_per_week"]:
             return False
-        if (c["source"] != "explore" and explore_week < S["explore_per_week"] and explore_waiting()
+        if (reserve and c["source"] != "explore" and explore_week < S["explore_per_week"] and explore_waiting()
                 and len(disc_week) - explore_week >= S["max_discovery_per_week"] - S["explore_per_week"]):
             return False  # hold the exploration slots while exploration picks are available
         if c["source"] == "seed" and seeds_week >= S["max_seeds_per_week"]:
