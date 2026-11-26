@@ -651,11 +651,11 @@
     "scored_at": "2026-11-18T21:49:08.368989+00:00"
   },
   "036593b70572": {
-    "score": 82,
+    "score": 88,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Tyler Cowen talking with Terence Tao on proof, beauty and AI's role in math; fits your starred Conversations with Tyler.",
-    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+    "reason": "Tyler Cowen interviews Terence Tao, a rare deep-expert conversation on what proof and beauty feel like.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "4112720c829f": {
     "score": 30,
@@ -1183,11 +1183,11 @@
     "scored_at": "2026-11-26T05:29:50.933212+00:00"
   },
   "4b34a9a7c7dc": {
-    "score": 52,
+    "score": 58,
     "category": "business",
     "filler": false,
-    "reason": "Why a big law firm collapsed, explained through a partner-run lens; a decent business story.",
-    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+    "reason": "John Morley on why law firms collapse like bank runs, a neat systems-style case study.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "ec7467e583ec": {
     "score": 45,
@@ -1743,46 +1743,46 @@
     "scored_at": "2026-11-26T05:29:50.933212+00:00"
   },
   "4d9323893429": {
-    "score": 72,
+    "score": 66,
     "category": "ai",
     "filler": false,
-    "reason": "Decoder on the public backlash against AI and tech, with Jon Favreau reading the midterms.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Jon Favreau on why the public turned on Silicon Valley, a useful take on the AI backlash.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "da0676843ea7": {
     "score": 60,
     "category": "sports",
     "filler": false,
-    "reason": "Pablo Torre with Adam McKay on corrupt sports owners and billionaires; fun, but only partly on your topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Adam McKay on billionaires and corrupt sports owners, a Pablo Torre conversation that mixes culture and the business of sports.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "23e94f6ccf46": {
-    "score": 88,
+    "score": 80,
     "category": "ai",
     "filler": false,
-    "reason": "Paul Kedrosky on Anthropic's IPO day and its long-term outlook, close to your starred Prof G episodes.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Paul Kedrosky on Anthropic's IPO and its long-term prospects, a sharp business take on a company you follow.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "3c9a5e505211": {
-    "score": 52,
+    "score": 55,
     "category": "history",
     "filler": false,
-    "reason": "Part 4 of a narrative history series; strong storytelling, but it only pays off if you've heard the earlier parts.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Gripping narrative history from Holland and Sandbrook, but it is part 4 of a series.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "58b5042335b7": {
-    "score": 56,
+    "score": 50,
     "category": "news",
     "filler": false,
-    "reason": "Rory and Marina Hyde on tech billionaires and the AI backlash; lively but political and broad.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Rory and Marina Hyde on tech billionaires and the AI backlash, though much of it is general politics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b8c6ecb346bb": {
-    "score": 42,
-    "category": "other",
+    "score": 45,
+    "category": "geopolitics",
     "filler": false,
-    "reason": "Honeytrap history framed around the Nvidia scandal; more spy gossip than substance.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "The Jensen Huang honeytrap angle, but mostly spy history and not much on AI strategy.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c5784366eff7": {
     "score": 64,
@@ -1799,25 +1799,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "0801352e7a99": {
-    "score": 48,
-    "category": "business",
+    "score": 42,
+    "category": "news",
     "filler": false,
-    "reason": "Robert Reich on Democratic strategy and regulation, with a parenting-of-young-men angle; mostly domestic politics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Robert Reich on Democratic strategy, mostly domestic politics, with a short parenting note.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "7aac002d5264": {
     "score": 80,
     "category": "ai",
     "filler": false,
-    "reason": "Odd Lots on the AI buildout financing, the Anthropic IPO, and the Nvidia situation.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Odd Lots on the AI buildout's financing, the Anthropic IPO and the Nvidia turmoil.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "ebcc2a53f4cf": {
     "score": 82,
     "category": "healthcare",
     "filler": false,
-    "reason": "Martin Gaynor and others on whether the Sutter Health suits changed prices; directly relevant to health system strategy.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Martin Gaynor on whether the Sutter Health suits curbed hospital consolidation, directly relevant to health system strategy.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "692f7d931154": {
     "score": 42,
@@ -1827,18 +1827,18 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "cbd3c482e68b": {
-    "score": 72,
+    "score": 66,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Concise Economist briefing on the Xi, Putin and Trump summit in Shenzhen.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Xi, Putin and Trump at APEC in Shenzhen, explained briefly by the Economist's China correspondent.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b764874dbe43": {
-    "score": 66,
+    "score": 64,
     "category": "ai",
     "filler": false,
-    "reason": "The Economist on Nvidia's post-Huang future, export controls, and the AI industry.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "What Huang's exit means for Nvidia, covering export controls and the AI chip race.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b4294600e18a": {
     "score": 55,
@@ -1848,25 +1848,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "115e42134200": {
-    "score": 40,
-    "category": "other",
-    "filler": false,
-    "reason": "Spy and honeypot tradecraft around the Huang scandal; over two hours and sensational.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
-  },
-  "08a0368dd095": {
-    "score": 58,
-    "category": "business",
-    "filler": false,
-    "reason": "How Nvidia might survive Huang's exit, plus Russia's Africa push; short and relevant.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
-  },
-  "e2528787bd64": {
-    "score": 52,
+    "score": 48,
     "category": "geopolitics",
     "filler": false,
-    "reason": "How China's emissions fell, plus Bukele's regional reach; a quick world-economy briefing.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Spy tradecraft around the Jensen Huang story, but it is over two hours and sensational.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "08a0368dd095": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Who succeeds Jensen Huang and how Nvidia survives the transition, plus Russia's Africa push.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "e2528787bd64": {
+    "score": 48,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "China's falling emissions plus Bukele's reach, a briefing with some geopolitics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b45d3f11aa0e": {
     "score": 33,
@@ -1876,102 +1876,102 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "2c8491a7ace8": {
-    "score": 42,
+    "score": 38,
     "category": "news",
     "filler": false,
-    "reason": "Post-midterm Republican soul-searching; domestic political news.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Republicans after the midterms, mostly domestic political commentary.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "3766acfd9442": {
-    "score": 82,
+    "score": 78,
     "category": "business",
     "filler": false,
-    "reason": "Former Tesla president Jon McNeill on how Musk makes decisions and solves problems, on a show you've starred.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Former Tesla president Jon McNeill on how Musk solves problems, with first-principles thinking and operator depth.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "1186d3774a5f": {
-    "score": 55,
-    "category": "ai",
+    "score": 45,
+    "category": "news",
     "filler": false,
-    "reason": "Economist on the Nvidia CEO scandal and its AI implications; short and clear.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Nvidia CEO's alleged spy relationship, mostly personal drama, with Ebola and cooking segments.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "119b85427bcc": {
     "score": 55,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Israel's possible new prime minister Eisenkot, explained by Economist correspondents.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Israel's post-election politics and Eisenkot's bid to unseat Netanyahu, explained concisely by Economist correspondents.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "6e7502c80077": {
-    "score": 44,
-    "category": "geopolitics",
+    "score": 42,
+    "category": "news",
     "filler": false,
-    "reason": "A UK prime minister interview on foreign policy; mildly relevant to US-China themes.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Andy Burnham interview on UK foreign policy; moderate fit, mostly British politics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "41973d761010": {
     "score": 62,
     "category": "healthcare",
     "filler": false,
-    "reason": "The business of longevity drugs after GLP-1s; a healthcare and biotech strategy angle.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "The business of longevity drugs after GLP-1s ties healthcare and biotech strategy in a short listen.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "f76ea9c03bc4": {
-    "score": 62,
+    "score": 72,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Robert Pape on Iran war escalation and political violence; relevant to the Middle East, though alarmist and long.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Robert Pape on Iran war escalation is a deep-expert geopolitics conversation on a show you've starred.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "a3877caa7a51": {
-    "score": 38,
+    "score": 45,
     "category": "news",
     "filler": false,
-    "reason": "Midterm night recap; the news is already well covered elsewhere.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Midterm results recap is a big event, but US partisan politics is not your core interest.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c0b602365c89": {
-    "score": 66,
+    "score": 60,
     "category": "business",
     "filler": false,
-    "reason": "K.C. Irving's story of beating bigger rivals through vertical integration; strong strategy, but slightly over two hours.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "K.C. Irving's story of vertical integration is a strong business deep dive, but at 125 minutes it runs long.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "99a75ff73f8f": {
-    "score": 38,
+    "score": 50,
     "category": "healthcare",
     "filler": false,
-    "reason": "Fertility biotech startups; a little healthcare-adjacent, but off your core topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Startups tackling egg aging and miscarriage is health innovation, though the fit is adjacent.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "8bfac2092c39": {
-    "score": 33,
+    "score": 30,
     "category": "news",
     "filler": false,
-    "reason": "Midterms preview that is now outdated.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Midterms preview is a daily-style news roundup, outside your interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b12e0ff02224": {
-    "score": 55,
+    "score": 50,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Economist's concise look at Modi's 25 years; solid geopolitics context, though India is not your core focus.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A 25-year assessment of Modi and India's direction is useful for how the world works.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "158f1bc16f5b": {
     "score": 42,
     "category": "business",
     "filler": false,
-    "reason": "Interesting look at Musk's secretive foundation, but only loosely tied to your core interests.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Elon Musk's opaque foundation is mildly interesting, but the rest of the episode is off-topic.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "114127a95b5d": {
-    "score": 72,
+    "score": 74,
     "category": "healthcare",
     "filler": false,
-    "reason": "Short, practical look at how Medicaid work requirements are being rolled out, relevant to your health system strategy work.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Medicaid work requirements and outreach efforts are directly relevant to your health system strategy work.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "ed0f449323a3": {
     "score": 98,
@@ -1981,18 +1981,18 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "40bf828fad7c": {
-    "score": 42,
+    "score": 40,
     "category": "comedy",
     "filler": false,
-    "reason": "Comedy chaos with Luis J. Gomez and Colum Tyrrell, but none of your core comedians.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Comedy roundtable with Luis J. Gomez, but none of your favorite comedians are on it.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c1cdc704dc21": {
-    "score": 62,
+    "score": 50,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Quick, well-explained read on Israel's election and what it means for Netanyahu and the region.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Israel's messy election results are explained clearly, though the later Eisenkot episode supersedes this one.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "45484acfce7b": {
     "score": 50,
@@ -2009,39 +2009,39 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "40e99de7f51c": {
-    "score": 33,
+    "score": 35,
     "category": "cooking",
     "filler": true,
-    "reason": "A rerun of the James Hoffmann coffee episode, so little new content.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A rerun of the James Hoffmann coffee episode with no new content.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "d361ad0906ea": {
-    "score": 66,
+    "score": 55,
     "category": "business",
     "filler": false,
-    "reason": "Ex-Amex CEO Kenneth Chenault on leading through crisis; a good short operator conversation.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Ken Chenault on leading Amex through 9/11 and 2008 is a solid operator conversation.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "8eebdc8fdf57": {
-    "score": 90,
+    "score": 88,
     "category": "ai",
     "filler": false,
-    "reason": "Economist breaks down Anthropic's IPO filing and what it says about the company and the industry.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Anthropic's IPO filing, unpacked in a tight 24 minutes, hits your top AI and business themes.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "46be77c182de": {
-    "score": 60,
-    "category": "big_ideas",
+    "score": 55,
+    "category": "systems",
     "filler": false,
-    "reason": "Steven Kotler on training flow states; a good Knowledge Project episode, adjacent to your core topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Steven Kotler on flow and peak performance is solid on The Knowledge Project, but only loosely tied to your core topics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c5bb0397f606": {
-    "score": 50,
+    "score": 55,
     "category": "big_ideas",
     "filler": false,
-    "reason": "James Marriott on the decline of reading and its effect on society; thoughtful but off your main topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "James Marriott on the death of reading and a post-literate society is a thoughtful big-ideas conversation.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "f89ebccdd893": {
     "score": 38,
@@ -2051,46 +2051,46 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "7deeb6fd79d9": {
-    "score": 30,
+    "score": 25,
     "category": "news",
     "filler": false,
-    "reason": "Partisan midterm commentary, not a big event explained in depth.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Partisan campaign banter and daily politics, not a topic you follow.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "e96352daad64": {
-    "score": 72,
+    "score": 58,
     "category": "parenting",
     "filler": false,
-    "reason": "Dr. Becky with Chelsea Handler on how kids need other trusted adults, and what that shows about parents.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Dr. Becky with Chelsea Handler is a fun, insightful parenting angle.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "7b889d131fdd": {
-    "score": 82,
+    "score": 38,
     "category": "comedy",
     "filler": false,
-    "reason": "Mark Normand's Tuesdays with Stories: a long, funny hang with Joe List.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Comedy hangout with none of your favorite comedians, so it is a weak fit.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "47a480b24968": {
     "score": 50,
-    "category": "business",
+    "category": "systems",
     "filler": false,
-    "reason": "Business lessons from Utah leaders on KPI Fireside; a lighter fit than the Theory of Constraints episodes you starred.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "KPI Fireside is a show you've starred, but this Utah business-lessons episode is only loosely related to your interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "85c629fd740a": {
-    "score": 45,
+    "score": 42,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Lula's comeback explained concisely, though Brazil sits outside your main geopolitics interests.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Lula's comeback win is a notable result, but Brazil is outside your usual focus.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "7d776d22b5f1": {
-    "score": 50,
+    "score": 35,
     "category": "history",
     "filler": false,
-    "reason": "Founders on Garfield's rise; a narrative history angle, but a book summary more than a conversation.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Garfield's rise is narrative history from a book about his assassination, so it is only a loose fit.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "a8cb9ea5974d": {
     "score": 35,
@@ -2100,39 +2100,39 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "7408a9334463": {
-    "score": 85,
+    "score": 72,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril guests on Bad Friends for a long, loose, funny conversation.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril on Bad Friends is a comedian you like, and a loose hang is fine.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "4e2fc9e964c0": {
-    "score": 78,
+    "score": 80,
     "category": "ai",
     "filler": false,
-    "reason": "Lindsay Owens on how AI shopping agents could change prices; AI meets markets, and Meta's Muse is a theme you've starred.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Lindsay Owens on how AI agents change pricing ties AI to business and the economy, and Odd Lots is sharp.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c69c979b1430": {
-    "score": 90,
+    "score": 84,
     "category": "ai",
     "filler": false,
-    "reason": "Bill Maher and Justine Bateman argue about AI and Hollywood; a Club Random episode of the kind you star.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Bill Maher and Justine Bateman argue about AI on Club Random, a format you starred.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "44aa7f5b5c99": {
-    "score": 76,
+    "score": 70,
     "category": "business",
     "filler": false,
-    "reason": "Mark Cuban on AI, markets and building companies; a strong Diary of a CEO guest.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Mark Cuban on AI, sales, and market crashes is operator-level business talk with an AI angle.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "27c2d73c9379": {
-    "score": 32,
+    "score": 38,
     "category": "news",
     "filler": false,
-    "reason": "Eric Holder on midterm election risks; informative but partisan political commentary.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Eric Holder on stopping election theft is partisan political talk outside your core topics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "d59502d0281e": {
     "score": 38,
@@ -2142,39 +2142,39 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "8675d7128c39": {
-    "score": 40,
+    "score": 52,
     "category": "business",
     "filler": false,
-    "reason": "Restaurateur Richard Mott on keeping a Chicago restaurant open for decades; a pleasant but off-topic business story.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A restaurateur's three-decade operating story is a decent operator interview, but the topic is adjacent.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "82a82b01d7fc": {
-    "score": 78,
+    "score": 90,
     "category": "comedy",
     "filler": false,
-    "reason": "Andrew Santino hosts Kevin Ryan and H. Foley of Are You Garbage?; a reliably funny hang.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Andrew Santino hosting your Are You Garbage? guys, Kevin Ryan and H. Foley. Two favorites in one episode.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "1549a782903c": {
-    "score": 72,
+    "score": 62,
     "category": "ai",
     "filler": false,
-    "reason": "Freakonomics on whether AI will help or replace human creativity; AI and work, in a thoughtful series.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "AI and creative work is on your AI-and-work theme, but this is a general-audience take.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "a1475af656e8": {
-    "score": 22,
+    "score": 25,
     "category": "news",
     "filler": false,
-    "reason": "Partisan US politics and polling chatter, not a topic you follow closely.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Partisan midterm polling talk, not a big event explained in depth.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b5eb1fe21423": {
-    "score": 48,
+    "score": 55,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Short Economist briefing on Nigeria's security crisis, but not a core region for you.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A short Economist briefing on Nigeria's security crisis and Europe's Starlink rival, good for a chore.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "42ec6ca1e199": {
     "score": 56,
@@ -2184,39 +2184,39 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "892265d5b561": {
-    "score": 44,
+    "score": 55,
     "category": "history",
     "filler": false,
-    "reason": "Interesting economic history angle on Maria Edgeworth, but only loosely tied to your interests.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Odd Lots on Maria Edgeworth and early economic ideas. It's interesting, but a niche literary angle.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c1cb7a53fda9": {
-    "score": 50,
+    "score": 22,
     "category": "cooking",
     "filler": false,
-    "reason": "Chef interview with James Beard winner Meherwan Irani on Indian street food, a decent occasional cooking pick.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Indian street food with chef Meherwan Irani. Cooking is only an occasional interest for you.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "353a9fd47abb": {
-    "score": 38,
+    "score": 15,
     "category": "cooking",
     "filler": false,
-    "reason": "Light kitchen humor with Roz Chast, but only a borderline fit.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Light kitchen humor with Roz Chast. It's low on your priority topics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "a54dc819137a": {
-    "score": 45,
+    "score": 74,
     "category": "ai",
     "filler": true,
-    "reason": "Karen Hao on who controls AI, but it's a clip of an earlier episode.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Karen Hao on who controls AI and the AGI race, but it's a short clip of an earlier episode.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b1dcbbc03b06": {
-    "score": 66,
+    "score": 82,
     "category": "ai",
     "filler": false,
-    "reason": "Dwarkesh tours Intel's fab to explain the chip future behind AI; sharp but technical.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Dwarkesh's deep dive into the future of chips at Intel's fab. It's a topic you asked for.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "7f0ffa5227cf": {
     "score": 68,
@@ -2226,39 +2226,39 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "4962f74a6403": {
-    "score": 44,
+    "score": 35,
     "category": "business",
     "filler": false,
-    "reason": "Bhaskar Sunkara on markets under socialism is a thoughtful economics conversation, but it's ideologically niche for you.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A socialism-and-markets debate with Bhaskar Sunkara. It's mostly ideological and off your core topics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "90341e50ca92": {
-    "score": 75,
+    "score": 72,
     "category": "healthcare",
     "filler": false,
-    "reason": "Why Medicare Advantage plans keep disappearing, squarely in your health policy and strategy lane.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Why Medicare Advantage plans keep disappearing, which bears directly on your health system strategy work.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "3acc7e63c6e7": {
-    "score": 22,
+    "score": 12,
     "category": "cooking",
     "filler": true,
-    "reason": "A 2022 archive rerun about ballpark vendors.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A 2022 archive rerun about ballpark vendors, with no new content.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "5e508f10519c": {
-    "score": 78,
+    "score": 76,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Zelenskyy on the cost of war and peace negotiations, a long but major geopolitics interview.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "President Zelenskyy on leading Ukraine through war and the cost of peace. Strong geopolitics, though long at 110 minutes.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "94aa117bbb46": {
-    "score": 50,
+    "score": 15,
     "category": "comedy",
     "filler": false,
-    "reason": "Shane Gillis-adjacent comedy hangout, fun but not one of your core comedians.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A rowdy podcast episode with no tie to your listed comedians.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "113a3033e613": {
     "score": 62,
@@ -2268,11 +2268,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "5f1ae781f48b": {
-    "score": 74,
+    "score": 84,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Nobel laureate James Robinson on what a failing state looks like, big-picture how-the-world-works material.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Nobel laureate James Robinson on what failing states look like. A Conversations with Tyler-style expert, and short.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "126356fc0302": {
     "score": 87,
@@ -2282,25 +2282,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "d2ef8647ceec": {
-    "score": 55,
+    "score": 50,
     "category": "business",
     "filler": false,
-    "reason": "Freakonomics on whether private equity helps or hurts, a solid business and strategy listen.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Freakonomics on private equity's effects on the economy, a decent business topic that is marked as an update.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "787695fc0d17": {
-    "score": 81,
+    "score": 85,
     "category": "ai",
     "filler": false,
-    "reason": "Cal Newport, whom you've starred, on AI regulation and how AI affects learning.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Cal Newport on AI regulation and its effect on learning. You starred his earlier AI conversation.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "f16a07184eeb": {
-    "score": 45,
+    "score": 50,
     "category": "business",
     "filler": false,
-    "reason": "Short, practical HBR episode on workplace envy; useful but not a core topic.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A short HBR episode on turning workplace envy into growth. It's pleasant but not central to your interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "9da2b23e0ad1": {
     "score": 45,
@@ -2313,43 +2313,43 @@
     "score": 28,
     "category": "other",
     "filler": false,
-    "reason": "Social skills tips on mingling, off your main topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Tips on mingling and small talk. It's off your topics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "37fd18fd7804": {
     "score": 22,
     "category": "news",
     "filler": false,
-    "reason": "Partisan reaction to a Vance town hall, not a topic you follow.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Partisan political commentary and daily news reaction. It's not a major event explained well.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "2b1ae554dbd7": {
-    "score": 50,
+    "score": 60,
     "category": "business",
     "filler": false,
-    "reason": "CME's Terry Duffy on finance regulation and prediction markets, short and markets-focused.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "CME's Terry Duffy on five decades of market regulation, prediction markets and 24/7 trading. A short listen.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b6d4ff1b4858": {
-    "score": 68,
+    "score": 66,
     "category": "parenting",
     "filler": false,
-    "reason": "Dr. Becky, a star of yours, on raising kids who can survive failure, with astronaut Kellie Gerardi.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Dr. Becky with astronaut Kellie Gerardi on raising kids who can survive failure. Parenting is occasional for you, but she's a favorite.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b5976bea83c7": {
-    "score": 72,
+    "score": 30,
     "category": "comedy",
     "filler": false,
-    "reason": "Mark Normand and Joe List riffing in their usual loose, funny weekly show.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A storytelling comedy podcast with none of your listed comedians.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "94a4b83e32bc": {
-    "score": 73,
+    "score": 78,
     "category": "systems",
     "filler": false,
-    "reason": "Former Toyota insiders on the Toyota Way, right in your KPI Fireside, continuous improvement wheelhouse.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A 35-year Toyota veteran on the Toyota Way, on a show you starred for Theory of Constraints.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "3ff99c242ae1": {
     "score": 42,
@@ -2359,11 +2359,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "6a074804fea1": {
-    "score": 68,
+    "score": 38,
     "category": "comedy",
     "filler": false,
-    "reason": "Bobby Lee with the Bad Friends crew, a birthday episode with his usual chaos.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A banter podcast with no hosts from your list.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "491d14d98277": {
     "score": 66,
@@ -2374,31 +2374,31 @@
   },
   "4b3e2b721218": {
     "score": 55,
-    "category": "comedy",
+    "category": "big_ideas",
     "filler": false,
-    "reason": "Bill Maher interviewing Michael Douglas has a good host, but it's a celebrity life story and long.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Bill Maher's Club Random with Michael Douglas. The format is one you like, but celebrity life stories are borderline.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "e6db453cfe91": {
-    "score": 82,
+    "score": 80,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Hospice physician Christopher Kerr on consciousness, death and meaning, close to your Sam Harris and death favorites.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Hospice physician Dr. Christopher Kerr on dying, consciousness and regret. It lines up with your death and meaning interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "28b3e9432c81": {
-    "score": 85,
+    "score": 84,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Carlo Rovelli on the nature of reality, with Alex O'Connor, matching your consciousness and philosophy interests.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Physicist Carlo Rovelli on reality on Within Reason, the show where you starred Annaka Harris on consciousness.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c3215131ea71": {
-    "score": 28,
+    "score": 32,
     "category": "news",
     "filler": false,
-    "reason": "Midterm horse-race analysis. It's a partisan political roundup, not a major event explained.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Midterm horse-race analysis with Amy Walter. It's political news, not a major event explained.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "aa4a2f4b2c38": {
     "score": 60,
@@ -2408,11 +2408,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "61d1373e2e37": {
-    "score": 78,
+    "score": 72,
     "category": "comedy",
     "filler": false,
-    "reason": "Andrew Santino with Irish stand-up Colum Tyrrell, a loose comedian-to-comedian hang from one of your guys.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Andrew Santino, one of your comedians, hosts Irish stand-up Colum Tyrrell for a stand-up and comedy-scene conversation.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "e74268d3bcc6": {
     "score": 75,
@@ -2422,18 +2422,18 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "2b42109e81ec": {
-    "score": 55,
+    "score": 72,
     "category": "business",
     "filler": false,
-    "reason": "David Rubenstein's philanthropy and the Kennedy Center. Decent business angle, but not core.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "David Rubenstein on private equity wealth and patriotic philanthropy is a sharp business and power conversation.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "cd73dc5ab9ae": {
-    "score": 15,
+    "score": 28,
     "category": "news",
     "filler": false,
-    "reason": "Campaign-trail snark and Trump jokes, a daily political roundup.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Partisan political headline roundup, not a major event explained in depth.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "e641a0198bea": {
     "score": 62,
@@ -2443,25 +2443,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "44e911b6b21a": {
-    "score": 45,
-    "category": "cooking",
-    "filler": false,
-    "reason": "Two chefs on Italian cooking, including Joshua McFadden. Fine for your occasional cooking slot.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
-  },
-  "c2c2b6f06666": {
     "score": 50,
     "category": "cooking",
     "filler": false,
-    "reason": "Yotam Ottolenghi answering cooking questions. A fun pick if you're due a cooking episode.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Chef interviews with Joshua McFadden on pasta, a fine occasional cooking slot.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "c2c2b6f06666": {
+    "score": 54,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Yotam Ottolenghi answering weeknight cooking questions fits your occasional cooking slot.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "fd054d84ab34": {
-    "score": 40,
+    "score": 45,
     "category": "big_ideas",
     "filler": true,
-    "reason": "A short replay clip of a meaning debate with Alex O'Connor. Better to hear full conversations.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Meaning and faith debate with Alex O'Connor, but it's only a replayed clip.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "5bd6737dd044": {
     "score": 80,
@@ -2481,15 +2481,15 @@
     "score": 35,
     "category": "cooking",
     "filler": true,
-    "reason": "Bonus extended cut of a Hong Kong diner interview, a weak add-on to the main episode.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Extended-cut bonus of a chef interview on Hong Kong diners; fairly light.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "26c0d21f12da": {
-    "score": 45,
+    "score": 50,
     "category": "comedy",
-    "filler": false,
-    "reason": "Comedy chat with Tim Butterly, but not one of your core comedians.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "filler": true,
+    "reason": "Roseanne with Bill Maher is fun, but this is a Classics rerun.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "ced470878108": {
     "score": 52,
@@ -2509,15 +2509,15 @@
     "score": 72,
     "category": "healthcare",
     "filler": false,
-    "reason": "Short Tradeoffs look at AHRQ cuts and health research with Aaron Carroll. Relevant to health policy.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Aaron Carroll on AHRQ cuts and health research, short and relevant to health policy.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "23e4054b2610": {
-    "score": 40,
+    "score": 42,
     "category": "other",
     "filler": false,
-    "reason": "Phone addiction and focus tips, outside your core topics and over two hours.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Phone addiction and focus is off your main topics, and it runs over two hours.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "93484b05b7ba": {
     "score": 72,
@@ -2527,60 +2527,60 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "743e4b20c8b9": {
-    "score": 62,
-    "category": "business",
-    "filler": false,
-    "reason": "Founders on the Carnegie, Rockefeller, Gould and Morgan era. Business history with strong operator lessons.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
-  },
-  "d575dc84a5bd": {
     "score": 66,
     "category": "business",
     "filler": false,
-    "reason": "Adam Grant on team alignment and productive conflict. A short, practical listen for a strategist.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Carnegie, Rockefeller, Gould and Morgan make a strong business history deep dive.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
-  "a9115537df03": {
-    "score": 55,
+  "d575dc84a5bd": {
+    "score": 62,
     "category": "business",
     "filler": false,
-    "reason": "Ryan Serhant on persuasion and sales on The Knowledge Project. Useful but not core.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Adam Grant on team alignment and productive conflict, a short and useful strategy listen.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "a9115537df03": {
+    "score": 48,
+    "category": "business",
+    "filler": false,
+    "reason": "Ryan Serhant on persuasion is a Knowledge Project episode, but sales tactics are only loosely your interest.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "5c81b3830b2d": {
-    "score": 30,
+    "score": 28,
     "category": "other",
     "filler": false,
-    "reason": "Brandon Flowers on music, faith and family. A fan interview outside your topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Music celebrity interview, off your topics.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "8af7350d6923": {
-    "score": 15,
+    "score": 28,
     "category": "news",
     "filler": false,
-    "reason": "Partisan campaign-trail roundup of political gossip.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Partisan campaign-trail chatter, not a major event explained in depth.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c6641e0b00f3": {
-    "score": 76,
+    "score": 72,
     "category": "parenting",
     "filler": false,
-    "reason": "Dr. Becky with Adam Grant on kids' friendships. Strong host and guest for your parenting slot.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Dr. Becky with Adam Grant on friendship nuance, a strong pairing for your parenting slot.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "899e9d7cb992": {
-    "score": 40,
+    "score": 38,
     "category": "comedy",
     "filler": false,
-    "reason": "Storytelling comedy podcast, but not one of your comedians.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Storytelling comedy podcast, but not one of your core comedians.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "6f09294fe93f": {
-    "score": 62,
+    "score": 66,
     "category": "systems",
     "filler": false,
-    "reason": "Nick Katko on lean and continuous improvement in accounting. Process thinking from a show you've starred.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "KPI Fireside on lean process fixes, a good fit with your continuous improvement interest.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "8e7b440bdc6c": {
     "score": 72,
@@ -2779,39 +2779,39 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "6b2eee28b02e": {
-    "score": 8,
+    "score": 6,
     "category": "other",
     "filler": false,
-    "reason": "Human Design and spirit communication; not your topic.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Human Design and spirit communication, not your topic.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "0e1e50131247": {
-    "score": 18,
+    "score": 20,
     "category": "other",
-    "filler": true,
-    "reason": "Generic money-habits self-help; low value for you.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "filler": false,
+    "reason": "Generic personal-finance habit list with little depth.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "91c9db3dcccf": {
-    "score": 72,
+    "score": 82,
     "category": "ai",
     "filler": false,
-    "reason": "Cal Newport on why AI's workplace impact is uneven, a close match to the Prof G Cal Newport star.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Cal Newport on why AI's workplace impact lags, framed through the history of efficiency.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "78bf95dee9a7": {
-    "score": 25,
-    "category": "other",
+    "score": 22,
+    "category": "big_ideas",
     "filler": false,
-    "reason": "Generic self-improvement psychology; off your core topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Light hedonic adaptation piece, short and shallow for you.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "669b4af9fa4a": {
     "score": 22,
     "category": "other",
     "filler": false,
-    "reason": "Consumer psychology self-help; not a topic you follow.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Black Friday consumer psychology is light self-help.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "6a7e07667c66": {
     "score": 15,
@@ -2821,25 +2821,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "c3d5cf4d8004": {
-    "score": 55,
+    "score": 68,
     "category": "ai",
     "filler": false,
-    "reason": "Short Cal Newport take on Google, AI and schools; tangential but timely and quick.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Cal Newport's quick take on Google, AI in schools, and why it bundles the tools.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "2fa12223f379": {
     "score": 15,
     "category": "other",
     "filler": false,
-    "reason": "Self-help on being more interesting; not your topics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Self-improvement fluff on being interesting.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "f701f0bcbc1e": {
-    "score": 38,
-    "category": "other",
+    "score": 45,
+    "category": "big_ideas",
     "filler": false,
-    "reason": "Phone addiction and digital minimalism; interesting but not a core topic and long.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Phone-escape investigation from Cal Newport is interesting, but off your core themes.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "ce16e02bccdb": {
     "score": 8,
@@ -2849,25 +2849,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "e2b4355b45ee": {
-    "score": 86,
+    "score": 88,
     "category": "healthcare",
     "filler": false,
-    "reason": "Theory of Constraints applied to hospitals with an AI angle; hits healthcare, systems and AI.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Theory of Constraints applied to hospitals, with AI second. Hits your healthcare, TOC and AI themes.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "bdf5c2a904e4": {
-    "score": 30,
-    "category": "other",
-    "filler": false,
-    "reason": "Reading and Harvard's Hum 10; off-topic for you.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
-  },
-  "e6b62aeddba3": {
-    "score": 84,
+    "score": 40,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Sam Harris with Sherry Turkle on artificial intimacy, AI therapy and empathy; short and on theme.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Short Cal Newport piece on reading and Harvard's Hum 10; thoughtful but tangential.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "e6b62aeddba3": {
+    "score": 85,
+    "category": "ai",
+    "filler": false,
+    "reason": "Sam Harris with Sherry Turkle on AI intimacy, empathy and robot consciousness, in a short slot.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "e15dc63fb6f4": {
     "score": 15,
@@ -2877,25 +2877,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "a8979dc82ff7": {
-    "score": 45,
+    "score": 62,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Cal Newport's framework for thinking about technology; mildly relevant but long.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Cal Newport's third-way framing on tech is thoughtful, but it's only loosely tied to your AI interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "a456907e7389": {
-    "score": 88,
-    "category": "big_ideas",
+    "score": 93,
+    "category": "comedy",
     "filler": false,
-    "reason": "Sam Harris with Jimmy Carr on comedy, AI, meditation and culture; blends comedy and ideas.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Harris with Jimmy Carr on comedy, AI, meditation and the West. It's short and hits several of your interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "61568a5369e8": {
-    "score": 60,
+    "score": 74,
     "category": "ai",
     "filler": false,
-    "reason": "Short Cal Newport piece on Seinfeld and succeeding in the AI moment.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A short Cal Newport take on AI and work, using a Seinfeld story. Good for chores.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "4fc9d18bd0ca": {
     "score": 25,
@@ -2926,11 +2926,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "3bf22fa33c9b": {
-    "score": 55,
+    "score": 45,
     "category": "crime_econ",
     "filler": false,
-    "reason": "Britt Elmore on 27 years in narcotics and why the drug trade persists; long.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A veteran narcotics undercover cop on the drug trade. It's relevant, but long and more anecdotal than economic.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "072950ffde66": {
     "score": 35,
@@ -2957,8 +2957,8 @@
     "score": 35,
     "category": "big_ideas",
     "filler": true,
-    "reason": "Eckhart Tolle re-release on consciousness; no new content and a spiritual, not rigorous, take.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A re-release of a 2023 Eckhart Tolle talk on consciousness, with no new content.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "9141a577948f": {
     "score": 10,
@@ -3024,11 +3024,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "f46efe8f58f3": {
-    "score": 76,
+    "score": 66,
     "category": "crime_econ",
     "filler": false,
-    "reason": "Mariana van Zeller has covered trafficking, scams and the black market for years; this episode digs into the economics of scams.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Mariana van Zeller has deep experience reporting on trafficking and scams, which fits your crime-as-economics interest, though it runs 2.5 hours.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b69493eb4514": {
     "score": 66,
@@ -3038,11 +3038,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "a783c82bd4a1": {
-    "score": 62,
+    "score": 58,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Tam Hunt on electromagnetic theories of consciousness fits your interest, though it is a niche angle.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Tam Hunt on electromagnetic theories of consciousness. The topic fits, but it's niche and technical.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "c78a435c8692": {
     "score": 50,
@@ -3053,10 +3053,10 @@
   },
   "c7fb345915d5": {
     "score": 8,
-    "category": "other",
+    "category": "news",
     "filler": false,
-    "reason": "Partisan political commentary, not a topic you follow.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Partisan midterms commentary and a daily-style show, which isn't what you want.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "e362f10c741b": {
     "score": 55,
@@ -3066,25 +3066,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "e2ef789b44e7": {
-    "score": 80,
+    "score": 84,
     "category": "ai",
     "filler": false,
-    "reason": "Emile Torres, a former AI doomer, on AI risk, with Cal Newport as host.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Cal Newport interviews Emile Torres, a former AI doomer, on AI risk. It fits your strongest theme.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "dd0972b544c9": {
-    "score": 66,
+    "score": 70,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Sam Harris with Dara Horn on antisemitism; strong conversation but off your core themes.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Harris and Dara Horn on antisemitism and institutional failure. It's strong, but 100 minutes and off your core themes.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "44a7329c2c13": {
-    "score": 50,
+    "score": 42,
     "category": "crime_econ",
     "filler": false,
-    "reason": "Steve Murphy on hunting Escobar is interesting but runs 3.5 hours and leans military-story.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Steve Murphy on hunting Pablo Escobar. It's a drug-trade story, but at 3.5 hours it leans toward war-story narrative.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "7fa272a51091": {
     "score": 84,
@@ -4940,5 +4940,103 @@
     "filler": false,
     "reason": "A review of Daniel Kokotajlo on Rogan covers AI risk, but it's secondhand commentary on the original.",
     "scored_at": "2026-11-26T05:29:50.933212+00:00"
+  },
+  "3392446692a8": {
+    "score": 86,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Core Stavvy's World bonus with George Civeris and Liza Treyger, a short Patreon preview that is auto-sent.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "fc32d969b5cb": {
+    "score": 33,
+    "category": "news",
+    "filler": false,
+    "reason": "A daily headline roundup of storms and tariffs, with nothing major to explain in depth.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "f80a2a54cf29": {
+    "score": 30,
+    "category": "sports",
+    "filler": true,
+    "reason": "A vault rerun from May with no new content, though Pablo Torre's Harambe story is fun.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "57ebe8d962fc": {
+    "score": 86,
+    "category": "ai",
+    "filler": false,
+    "reason": "Gary Marcus debates OpenAI's business model and Anthropic's IPO with Eric Newcomer, and people are talking about it.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "dfbe544b6051": {
+    "score": 91,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "OpenAI's head of health products, Ashley Alexander, on health systems and clinicians, which is exactly your AI-in-healthcare lane.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "94ed9dffccc7": {
+    "score": 84,
+    "category": "ai",
+    "filler": false,
+    "reason": "Geoffrey Hinton on superintelligence and existential risk, in a widely discussed interview.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "04201b69bc9c": {
+    "score": 35,
+    "category": "news",
+    "filler": false,
+    "reason": "Spanish election and Mattel, a short briefing with little tie to your interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "e6d3418f28ea": {
+    "score": 70,
+    "category": "business",
+    "filler": false,
+    "reason": "Historian Marc Levinson on how UPS built modern logistics, a good company deep dive with a systems angle.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "6daed3821f32": {
+    "score": 72,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Rural health care access and emerging fixes, solid health policy reporting from Tradeoffs.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "a38c686dc068": {
+    "score": 38,
+    "category": "other",
+    "filler": false,
+    "reason": "Ethical hacker Ryan Montgomery on personal privacy; cybersecurity is off your topics and the episode runs long.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "cbd3c482e68b_dup_guard": {
+    "score": 0,
+    "category": "excluded",
+    "filler": true,
+    "reason": "Placeholder guard, ignore.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "26c0d21f12da_dummy": {
+    "score": 0,
+    "category": "other",
+    "filler": true,
+    "reason": "placeholder",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "26c0d21f12da_x": {
+    "score": 0,
+    "category": "other",
+    "filler": true,
+    "reason": "placeholder",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "46e03d1353fb": {
+    "score": 5,
+    "category": "other",
+    "filler": false,
+    "reason": "Psychic medium content, outside your interests.",
+    "scored_at": "2026-11-26T11:18:57.920890+00:00"
   }
 }

@@ -321,6 +321,29 @@
       "explore_reason": null,
       "added_at": "2026-11-26T05:29:50.933212+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "3392446692a8",
+      "show": "Stavvy's World",
+      "title": "Bonus #208 - Kushgiving w/ George Civeris and Liza Treyger [PATREON PREVIEW]",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/ad27bdd7-1a77-4429-a586-3adfee68b3f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=ad27bdd7-1a77-4429-a586-3adfee68b3f7&feed=Fa0PP4fl",
+      "audio_type": "audio/mpeg",
+      "published": "2026-11-26T11:00:00+00:00",
+      "minutes": 6,
+      "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld After Thanksgiving dinner, comes Kushgiving loud. George Civeris and Liza Treyger join the pod to chop it up with Stav like they're cousins in the basement hanging out after the family dinner, discussing topics like Ben Affleck's extremely divorced tattoos, the weight of immigrant upbringings, getting too old for drugs, and oh, so much poignantly-ass more. George, Liza and Stav help callers including a woman who's wondering if she should adopt her nephew to teach his deadbeat mom a lesson, and a man who's not sure if ",
+      "link": "https://siriusxm.com",
+      "guid": "a6a87b7b-3b44-49ff-af3b-2790ee26651f",
+      "image": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed",
+      "source": "core",
+      "score": 86,
+      "category": "comedy",
+      "reason": "Core Stavvy's World bonus with George Civeris and Liza Treyger, a short Patreon preview that is auto-sent.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-26T11:18:57.920890+00:00",
+      "kind": "regular"
     }
   ],
   "history": [
@@ -511,6 +534,20 @@
       "added_at": "2026-11-26T05:29:50.933212+00:00",
       "removed_at": null,
       "explore_term": null
+    },
+    {
+      "id": "3392446692a8",
+      "show": "Stavvy's World",
+      "title": "Bonus #208 - Kushgiving w/ George Civeris and Liza Treyger [PATREON PREVIEW]",
+      "source": "core",
+      "category": "comedy",
+      "score": 86,
+      "minutes": 6,
+      "kind": "regular",
+      "added_at": "2026-11-26T11:18:57.920890+00:00",
+      "removed_at": null,
+      "explore_term": null,
+      "rule_key": "Stavvy's World|3392446692a8"
     }
   ]
 }

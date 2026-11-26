@@ -849,6 +849,13 @@
       "sent": 1,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-26T11:18:57.920890+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -876,18 +883,14 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-26T05:29:50.933212+00:00",
+    "at": "2026-11-26T11:18:57.920890+00:00",
     "dry_run": false,
-    "candidates": 448,
-    "scored": 193,
+    "candidates": 449,
+    "scored": 132,
     "changes": [
-      "sent (best available, score 98): The Diary Of A CEO with Steven Bartlett / 90 Million People: Why Iran Is The Most Incompetent War In Human History"
+      "sent (regular, score 86): Stavvy's World / Bonus #208 - Kushgiving w/ George Civeris and Liza Treyger [PATREON PREVIEW]"
     ],
-    "errors": [
-      "buzz scan skipped: no JSON found in model reply",
-      "starred episode not found yet: The Ezra Klein Show / Michael Pollan's Journey to the Borderlands of Consciousness",
-      "starred episode not found yet: The Ezra Klein Show / Something That Traditional Economics"
-    ]
+    "errors": []
   },
   "checkin_meta": {
     "2": {
