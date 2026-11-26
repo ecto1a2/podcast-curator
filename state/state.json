@@ -428,11 +428,11 @@
     },
     "The Ezra Klein Show|Michael Pollan's Journey to the Borderlands of Consciousness": {
       "candidate": null,
-      "checked": "2026-11-18T21:49:08.368989+00:00"
+      "checked": "2026-11-26T05:29:50.933212+00:00"
     },
     "The Ezra Klein Show|Something That Traditional Economics": {
       "candidate": null,
-      "checked": "2026-11-18T21:49:08.368989+00:00"
+      "checked": "2026-11-26T05:29:50.933212+00:00"
     },
     "Prof G Markets|Cal Newport: The AI Industry Is Betting": {
       "candidate": {
@@ -842,6 +842,13 @@
       "sent": 1,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-26T05:29:50.933212+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -869,14 +876,18 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-25T12:55:28.600764+00:00",
+    "at": "2026-11-26T05:29:50.933212+00:00",
     "dry_run": false,
-    "candidates": 421,
-    "scored": 0,
+    "candidates": 448,
+    "scored": 193,
     "changes": [
-      "sent (best available, score 90): Conversations with Tyler / Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance"
+      "sent (best available, score 98): The Diary Of A CEO with Steven Bartlett / 90 Million People: Why Iran Is The Most Incompetent War In Human History"
     ],
-    "errors": []
+    "errors": [
+      "buzz scan skipped: no JSON found in model reply",
+      "starred episode not found yet: The Ezra Klein Show / Michael Pollan's Journey to the Borderlands of Consciousness",
+      "starred episode not found yet: The Ezra Klein Show / Something That Traditional Economics"
+    ]
   },
   "checkin_meta": {
     "2": {

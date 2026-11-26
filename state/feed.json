@@ -298,6 +298,29 @@
       "explore_reason": null,
       "added_at": "2026-11-25T12:55:28.600764+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "ed0f449323a3",
+      "show": "The Diary Of A CEO with Steven Bartlett",
+      "title": "90 Million People: Why Iran Is The Most Incompetent War In Human History",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5NXR742DT1QNDCDPS193Q51.mp3",
+      "audio_type": "audio/mpeg",
+      "published": "2026-10-29T06:00:00+00:00",
+      "minutes": 102,
+      "description": "Are escalating geopolitical tensions hurtling humanity towards World War III? Dr. Sarah Paine highlights the historical roots of geopolitical conflicts and demonstrates how shifting away from a rules-based maritime order guarantees economic collapse. Dr. Sarah Paine is a renowned geopolitical strategist, historian, and retired professor from the U.S. Naval War College, specializing in Russian and Chinese imperial history and maritime strategy. She applies historical models such as the Peloponnesian War and World War II to decode the actions of leaders like Vladimir Putin and Xi Jinping. In thi",
+      "link": "",
+      "guid": "flightcast:01M5NXR742DT1QNDCDPS193Q51",
+      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M5NZ8FAPCJ2RFPDH202RH6XM/paine_cover.jpg",
+      "source": "discovery",
+      "score": 98,
+      "category": "geopolitics",
+      "reason": "Dr. Sarah Paine on Iran and maritime order; an automatic yes and a match for your starred episodes.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-26T05:29:50.933212+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -473,6 +496,19 @@
       "minutes": 46,
       "kind": "discovery",
       "added_at": "2026-11-25T12:55:28.600764+00:00",
+      "removed_at": null,
+      "explore_term": null
+    },
+    {
+      "id": "ed0f449323a3",
+      "show": "The Diary Of A CEO with Steven Bartlett",
+      "title": "90 Million People: Why Iran Is The Most Incompetent War In Human History",
+      "source": "discovery",
+      "category": "geopolitics",
+      "score": 98,
+      "minutes": 102,
+      "kind": "discovery",
+      "added_at": "2026-11-26T05:29:50.933212+00:00",
       "removed_at": null,
       "explore_term": null
     }
