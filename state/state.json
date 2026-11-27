@@ -870,6 +870,15 @@
         "Nonzero with Robert Wright"
       ],
       "problem": null
+    },
+    {
+      "date": "2026-11-27T11:14:17.812523+00:00",
+      "claude_ok": true,
+      "sent": 0,
+      "failed_feeds": [
+        "Nonzero with Robert Wright"
+      ],
+      "problem": null
     }
   ],
   "feedback": [
@@ -897,13 +906,11 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-27T05:31:27.633507+00:00",
+    "at": "2026-11-27T11:14:17.812523+00:00",
     "dry_run": false,
-    "candidates": 432,
-    "scored": 25,
-    "changes": [
-      "sent (short pick, score 93): The Journal. / Why Anthropic’s IPO Didn’t Stop the Tech Selloff"
-    ],
+    "candidates": 430,
+    "scored": 45,
+    "changes": [],
     "errors": [
       "feed failed for Nonzero with Robert Wright: HTTP Error 403: Forbidden"
     ]

@@ -3234,11 +3234,11 @@
     "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "0298ba99a129": {
-    "score": 50,
-    "category": "geopolitics",
+    "score": 58,
+    "category": "crime_econ",
     "filler": false,
-    "reason": "The Nvidia espionage story has a tech and China angle, but it's a long spy-tradecraft episode and only loosely on your topics.",
-    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+    "reason": "Nvidia espionage and honeypot tradecraft from an ex-CIA officer; relevant to AI and China, but long.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "6799a207b219": {
     "score": 58,
@@ -3258,15 +3258,15 @@
     "score": 82,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Sam Harris on AI takeover odds, in a short episode that fits a chore.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Sam Harris on AI takeover odds in a short, current-events format; fits your AI risk and Harris interests.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "d53aa2bf5c17": {
-    "score": 72,
-    "category": "business",
+    "score": 55,
+    "category": "crime_econ",
     "filler": false,
-    "reason": "Pablo Torre investigates the Tebow-linked Life Surge, an MLM and DOJ story from the business and corruption side of sports.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Pablo Torre investigates a multilevel marketing scheme and DOJ scrutiny, which is fraud as a business and culture story.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "1c59a3ec856f": {
     "score": 45,
@@ -3276,102 +3276,102 @@
     "scored_at": "2026-11-20T10:25:22.363901+00:00"
   },
   "5a3c39b4f5fb": {
-    "score": 89,
-    "category": "ai",
+    "score": 88,
+    "category": "business",
     "filler": false,
-    "reason": "Aswath Damodaran on the Nvidia scandal and how he values Anthropic, a strong fit for your AI-company interest.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Aswath Damodaran values Anthropic and unpacks the Nvidia scandal; a deep expert on AI markets.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "e88d73787b92": {
-    "score": 28,
+    "score": 38,
     "category": "other",
     "filler": false,
-    "reason": "Astronomy with Michelle Thaller is a good conversation but outside your topics.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Astronomy with Michelle Thaller is a good conversation but falls outside your core topics.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "2e25223b04e3": {
-    "score": 72,
+    "score": 66,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Rory Stewart on the limits of nation-building in Afghanistan and Syria, in a compact 23 minutes.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Short Rest Is Politics episode on nation-building failures in Afghanistan and Syria; a geopolitics fit.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "590d9d7dd35e": {
-    "score": 62,
+    "score": 58,
     "category": "business",
     "filler": false,
-    "reason": "A quick, upbeat take on the record Anthropic IPO and what it means for the market.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Quick take on Anthropic's record IPO and the market ripple effects.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "1d90badaacd7": {
-    "score": 89,
-    "category": "geopolitics",
+    "score": 84,
+    "category": "crime_econ",
     "filler": false,
-    "reason": "The Journal on Nvidia chip smuggling and export-control loopholes into China, tying AI to sanctions evasion.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Chip smuggling and export-control loopholes into China, with WSJ's Stu Woo; crime, China and AI in one.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "63d3ca124673": {
-    "score": 74,
+    "score": 72,
     "category": "healthcare",
     "filler": false,
-    "reason": "KFF panel on how a Democratic Congress could reshape Medicaid and ACA policy, directly relevant to your work.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Margot Sanger-Katz and colleagues on Democrats' healthcare agenda; useful policy context for your work.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "2e829e569e9c": {
-    "score": 35,
+    "score": 40,
     "category": "news",
     "filler": false,
-    "reason": "Ben Shapiro on Trump is a political interview, not a major event explained.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Political interview with Ben Shapiro; not a big event and not squarely in your topics.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "823f2671231d": {
-    "score": 52,
+    "score": 30,
     "category": "cooking",
     "filler": false,
-    "reason": "Yotam Ottolenghi on vegetable-centric Thanksgiving dishes, a solid chef interview if you want a cooking slot.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Thanksgiving recipes from Ottolenghi arrive after the holiday, so it is less useful now.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "13d3b0e002f2": {
-    "score": 56,
-    "category": "business",
+    "score": 55,
+    "category": "news",
     "filler": false,
-    "reason": "A short weekly recap covering the Nvidia scandal, useful if you missed other coverage.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Weekly roundup touching Nvidia and politics; fine for a short slot but not essential.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "e8b1a0291022": {
-    "score": 22,
+    "score": 28,
     "category": "other",
     "filler": true,
-    "reason": "A replayed clip of David Sinclair on longevity and eating, off-topic and not new.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Replay clip of a David Sinclair longevity segment; a recap, not new content.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "0f90a1f2d464": {
-    "score": 48,
+    "score": 50,
     "category": "comedy",
-    "filler": true,
-    "reason": "A rerun Club Random with Tarantino on movies. Fun, but not the ideas-driven comedy you favor.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "filler": false,
+    "reason": "Bill Maher and Quentin Tarantino on movies; a long rerun with only a loose link to your tastes.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "ac9049b7402f": {
-    "score": 50,
-    "category": "cooking",
+    "score": 42,
+    "category": "history",
     "filler": false,
-    "reason": "A narrative chapter on Jacques Pépin's life and career, a pleasant short listen.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Jacques Pépin's life story is a narrative chapter in a series, so it needs the earlier chapters.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "83db6e91d8f6": {
-    "score": 86,
+    "score": 85,
     "category": "ai",
     "filler": false,
-    "reason": "Jack Dorsey on reorganizing Block around AI and rethinking managers, squarely on AI and work.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Jack Dorsey on reorganizing Block around AI; strong AI-and-work strategy from an operator.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "537dc4b9a515": {
-    "score": 52,
+    "score": 55,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Bernie Sanders on the Iran war and Netanyahu, though it is mostly domestic politics and runs 90 minutes.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Bernie Sanders on the Iran war and democracy; interesting but partisan, and 90 minutes.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "139775bfa9ad": {
     "score": 70,
@@ -3395,81 +3395,81 @@
     "scored_at": "2026-11-20T10:25:22.363901+00:00"
   },
   "dfcd274ee6bf": {
-    "score": 75,
+    "score": 70,
     "category": "systems",
     "filler": false,
-    "reason": "Tatyana Staneva on asking the right questions in healthcare innovation, matching your systems and healthcare interests.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Healthcare innovation through the lens of asking the right questions, which echoes your starred IdeaCast episode on questions.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "09d70016b96a": {
-    "score": 70,
-    "category": "healthcare",
-    "filler": false,
-    "reason": "Brian Fengler on getting evidence and peer data to physicians, practical for health system strategy.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
-  },
-  "72384f8bb5fe": {
     "score": 66,
     "category": "healthcare",
     "filler": false,
-    "reason": "Connie Lehman on AI that predicts breast cancer risk from a mammogram, a concrete AI-in-healthcare case.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Practical look at getting evidence to physicians and changing practice through data, useful for health system strategy.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "72384f8bb5fe": {
+    "score": 58,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "AI risk prediction from mammograms with Connie Lehman is solid AI-in-healthcare, but it is clinical and narrow.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "ea0a058c2f04": {
-    "score": 77,
+    "score": 74,
     "category": "healthcare",
     "filler": false,
-    "reason": "John Halamka of Mayo Clinic Platform on what big health data can and can't answer, plus AI governance.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "John Halamka of Mayo Clinic Platform on what health data and AI governance can and can't answer.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "4738fda2cad3": {
-    "score": 58,
+    "score": 50,
     "category": "ai",
     "filler": false,
-    "reason": "A short systems-thinking look at AI strategy, energy limits and ROI traps, though the format is thin.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Short take on AI energy and ROI strategy, though it's an AI-generated deep dive with a lighter guest.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "0f47f141220b": {
-    "score": 65,
-    "category": "healthcare",
-    "filler": false,
-    "reason": "AWS's Dan Sheeran on building AI products for healthcare and life sciences, relevant to your strategy work.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
-  },
-  "59c0849c21e7": {
-    "score": 56,
-    "category": "healthcare",
-    "filler": false,
-    "reason": "Adam Blum on one open-source patient record, useful health-data architecture but fairly technical.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
-  },
-  "dfd260dcf574": {
-    "score": 85,
+    "score": 55,
     "category": "ai",
     "filler": false,
-    "reason": "Odd Lots on a US company using Chinese open-weight models, mixing AI business strategy with US-China policy.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "AWS healthcare AI strategy from Dan Sheeran, relevant to your work but more corporate and promotional.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "59c0849c21e7": {
+    "score": 45,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "Technical data-architecture discussion with Adam Blum on open-source patient records, probably too in the weeds for a non-coder.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "dfd260dcf574": {
+    "score": 86,
+    "category": "ai",
+    "filler": false,
+    "reason": "How a US AI company uses Chinese open-weight models, plus the policy risk; AI, China and business together.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "020a07d0e872": {
-    "score": 45,
+    "score": 28,
     "category": "cooking",
     "filler": false,
-    "reason": "Milk Street's Thanksgiving Q&A with Erin French is seasonal and light, a fit only if you want cooking.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Thanksgiving Q&A episode that is now past its date.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "f2a50d5f946b": {
-    "score": 58,
+    "score": 50,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Short, on-topic systems-and-geopolitics primer on multipolar order and supply chain weaponisation, but a lesser-known show and no marquee guest.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Quick 9-minute primer on multipolar geopolitics and supply chain weaponization, fine for a chore but light.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "7ad42c40d288": {
-    "score": 55,
+    "score": 72,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Roman Mars with Tyler Cowen is fun, but design and flags sit outside your core topics.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Tyler Cowen with Roman Mars on design and noticing everyday things, a favorite format with an unusually deep guest.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "8bf50df43241": {
     "score": 66,
@@ -3500,18 +3500,18 @@
     "scored_at": "2026-11-20T10:25:22.363901+00:00"
   },
   "aff324b2cdf6": {
-    "score": 62,
+    "score": 60,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Quick, clear look at whether China is exporting its economic problems; good for a short chore listen.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Short, clear explainer on China's two-speed economy and its export of overcapacity.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "0f207e529ce2": {
-    "score": 80,
-    "category": "geopolitics",
+    "score": 82,
+    "category": "big_ideas",
     "filler": false,
-    "reason": "Tyler Cowen and Liaquat Ahamed on the 1873 crisis; strong economic history in a show you consistently star.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Tyler Cowen interviews Pulitzer winner Liaquat Ahamed on financial crises and 1873, a classic deep-expert conversation.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "3cdfaec60ce4": {
     "score": 90,
@@ -3535,11 +3535,11 @@
     "scored_at": "2026-11-20T10:25:22.363901+00:00"
   },
   "53bbbc99d5b4": {
-    "score": 86,
+    "score": 84,
     "category": "healthcare",
     "filler": false,
-    "reason": "Zeke Emanuel argues autonomous AI will manage much of what doctors do. Squarely your AI-in-healthcare theme.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Zeke Emanuel argues autonomous AI will take over much of physicians' work, squarely on AI in healthcare.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "8ab79f1d252e": {
     "score": 82,
@@ -3549,11 +3549,11 @@
     "scored_at": "2026-11-20T10:25:22.363901+00:00"
   },
   "30c1fd161e9d": {
-    "score": 38,
-    "category": "ai",
+    "score": 25,
+    "category": "other",
     "filler": false,
-    "reason": "Edtech AI discussion with a different Dan Wang, not the China author; weak fit.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Edtech episode with a different Dan Wang, not the China analyst, and off your topics.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   },
   "e7e4164719a7": {
     "score": 70,
@@ -5122,5 +5122,96 @@
     "filler": false,
     "reason": "Mark Normand with Neal Brennan on fatherhood, anxiety and phones, in the Blocks format you've starred.",
     "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "ab43d05ebe50": {
+    "score": 35,
+    "category": "news",
+    "filler": false,
+    "reason": "Daily headline roundup with no major event explained in depth.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "7ffaadc6c81d": {
+    "score": 45,
+    "category": "sports",
+    "filler": false,
+    "reason": "Pablo Torre with Desus Nice and Jason Schreier on GTA VI; fun, but the topic is only loosely on your list.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "f16a69740a20": {
+    "score": 80,
+    "category": "business",
+    "filler": false,
+    "reason": "Patrick Boyle on Anthropic's IPO and what it means for OpenAI; strong AI business angle.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "b19edf069786": {
+    "score": 91,
+    "category": "ai",
+    "filler": false,
+    "reason": "Terence Tao on how AI is transforming mathematics; a deep expert on AI and work.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "ced223587efd": {
+    "score": 66,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Thi Nguyen on games, meaning and scorekeeping; a philosophy-of-meaning idea in your wheelhouse.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "501e401e33dc": {
+    "score": 50,
+    "category": "business",
+    "filler": false,
+    "reason": "The money behind the manosphere is an interesting economics angle, but the topic is a bit tangential.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "70acde63a891": {
+    "score": 68,
+    "category": "geopolitics",
+    "filler": false,
+    "reason": "Isabella Weber on affordability policy; solid economics with an expert guest.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "ce0c0affb0b6": {
+    "score": 35,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Baking-focused Milk Street episode; cooking is only an occasional interest.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "f41d97c2cf8b": {
+    "score": 25,
+    "category": "other",
+    "filler": true,
+    "reason": "Short replay clip on an MMA fighter's background; a recap, not new content.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "15aa4433b9bb": {
+    "score": 42,
+    "category": "other",
+    "filler": false,
+    "reason": "Long Diary of a CEO episode on hacking and privacy; only loosely connected to your interests.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "b603343c591b": {
+    "score": 45,
+    "category": "news",
+    "filler": false,
+    "reason": "Three-minute news item on Dario Amodei's share sale; thin but on topic.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "42e1576bf8a8": {
+    "score": 88,
+    "category": "ai",
+    "filler": false,
+    "reason": "Exclusive interview with Dario and Daniela Amodei on Anthropic's IPO, covering safety, compute and public-market expectations. It fits your AI company interest.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "4227ac2ee4e4": {
+    "score": 68,
+    "category": "history",
+    "filler": false,
+    "reason": "Tonio Andrade on why China lost the gunpowder age, a ChinaTalk deep dive on military and tech history.",
+    "scored_at": "2026-11-27T11:14:17.812523+00:00"
   }
 }
