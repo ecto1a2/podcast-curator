@@ -261,6 +261,11 @@
       "url": "https://feeds.megaphone.fm/TPC7413106767",
       "checked": "2026-11-22T05:22:30.870000+00:00",
       "matched": "Are You Garbage? Comedy Podcast"
+    },
+    "Nonzero with Robert Wright": {
+      "url": "https://api.substack.com/feed/podcast/17302.rss",
+      "checked": "2026-11-27T05:31:27.633507+00:00",
+      "matched": "Robert Wright's Nonzero"
     }
   },
   "seed_cache": {
@@ -856,6 +861,15 @@
       "sent": 1,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-27T05:31:27.633507+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [
+        "Nonzero with Robert Wright"
+      ],
+      "problem": null
     }
   ],
   "feedback": [
@@ -883,14 +897,16 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-26T11:18:57.920890+00:00",
+    "at": "2026-11-27T05:31:27.633507+00:00",
     "dry_run": false,
-    "candidates": 449,
-    "scored": 132,
+    "candidates": 432,
+    "scored": 25,
     "changes": [
-      "sent (regular, score 86): Stavvy's World / Bonus #208 - Kushgiving w/ George Civeris and Liza Treyger [PATREON PREVIEW]"
+      "sent (short pick, score 93): The Journal. / Why Anthropic’s IPO Didn’t Stop the Tech Selloff"
     ],
-    "errors": []
+    "errors": [
+      "feed failed for Nonzero with Robert Wright: HTTP Error 403: Forbidden"
+    ]
   },
   "checkin_meta": {
     "2": {

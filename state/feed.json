@@ -344,6 +344,29 @@
       "explore_reason": null,
       "added_at": "2026-11-26T11:18:57.920890+00:00",
       "kind": "regular"
+    },
+    {
+      "id": "c9fce8e3fb9f",
+      "show": "The Journal.",
+      "title": "Why Anthropic’s IPO Didn’t Stop the Tech Selloff",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/WSJ5057656439.mp3",
+      "audio_type": "audio/mpeg",
+      "published": "2026-11-20T21:47:00+00:00",
+      "minutes": 21,
+      "description": "Anthropic made its much-anticipated debut on the stock market yesterday. The company’s initial public offering was the largest ever, making the company one of the world’s most valuable. But as WSJ’s Peter Rudegeair explains, investors are worried about pressures on other stocks in the AI and tech sectors, leading to a huge sell off that’s raining on the Anthropic parade. Ryan Knutson hosts. Further Listening: - The Biggest Loser of the Midterms? Data Centers - Is AI Running Out of Money to Borrow? Sign up for WSJ’s free What’s News newsletter. Learn more about your ad choices. Visit megaphone.",
+      "link": "",
+      "guid": "3a87686a-e52e-11f1-b54f-3b9fc17986dc",
+      "image": "https://megaphone-images.spotifycdn.com/podcasts/b84f9932-8174-11e9-bbd8-7f261513f0c9/image/d84a4f4d55158df9d14f6f2d4b219a28.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "source": "subscribed",
+      "score": 93,
+      "category": "ai",
+      "reason": "Anthropic's record IPO and the AI selloff, covered by The Journal, which you've starred on Anthropic before.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-27T05:31:27.633507+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -548,6 +571,19 @@
       "removed_at": null,
       "explore_term": null,
       "rule_key": "Stavvy's World|3392446692a8"
+    },
+    {
+      "id": "c9fce8e3fb9f",
+      "show": "The Journal.",
+      "title": "Why Anthropic’s IPO Didn’t Stop the Tech Selloff",
+      "source": "subscribed",
+      "category": "ai",
+      "score": 93,
+      "minutes": 21,
+      "kind": "discovery",
+      "added_at": "2026-11-27T05:31:27.633507+00:00",
+      "removed_at": null,
+      "explore_term": null
     }
   ]
 }

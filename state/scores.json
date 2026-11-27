@@ -798,11 +798,11 @@
     "scored_at": "2026-11-18T21:49:08.368989+00:00"
   },
   "01f94df7474f": {
-    "score": 84,
+    "score": 74,
     "category": "comedy",
     "filler": false,
-    "reason": "Mark Normand and Sam Morril riffing together, two of your favorite comedians.",
-    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+    "reason": "Mark Normand and Sam Morril riffing on marriage, babies and Brooklyn nights, with no guest needed.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "20125e20d939": {
     "score": 50,
@@ -1113,11 +1113,11 @@
     "scored_at": "2026-11-26T05:29:50.933212+00:00"
   },
   "c153335d258e": {
-    "score": 58,
+    "score": 45,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Ex-CIA officer John Kiriakou on the Nvidia honeypot story; timely, but over two hours.",
-    "scored_at": "2026-11-18T21:49:08.368989+00:00"
+    "reason": "Nvidia espionage touches AI and geopolitics, but it runs over two hours and leans sensational.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "5db03765a2de": {
     "score": 35,
@@ -1820,11 +1820,11 @@
     "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "692f7d931154": {
-    "score": 42,
+    "score": 34,
     "category": "news",
     "filler": false,
-    "reason": "Bernie Sanders on democracy and the Iran war; politics-heavy and long.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Bernie Sanders on US politics and the Democratic Party falls outside your core topics.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "cbd3c482e68b": {
     "score": 66,
@@ -1841,11 +1841,11 @@
     "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b4294600e18a": {
-    "score": 55,
+    "score": 50,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Economist take on the Donbas-for-NATO offer and the administration's hurry; decent geopolitics.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A short look at the NATO-for-Donbas offer to Ukraine, though it reads as a news roundup.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "115e42134200": {
     "score": 48,
@@ -2499,11 +2499,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "6df1a4fda3d3": {
-    "score": 45,
+    "score": 66,
     "category": "comedy",
-    "filler": true,
-    "reason": "A Club Random Classics rerun with Roseanne Barr, so likely no new content.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "filler": false,
+    "reason": "Bill Maher and Roseanne Barr on whether jokes can save humanity. It's a rerun-style Classics episode but still an idea-driven comedy conversation.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "37ed9cdfdce9": {
     "score": 72,
@@ -2905,11 +2905,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "253c8378dc8e": {
-    "score": 80,
+    "score": 64,
     "category": "comedy",
     "filler": false,
-    "reason": "Michael Che with Trevor Noah on comedy and SNL; long but a favorite guest.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Michael Che with Trevor Noah on comedy's unwritten rules, though it runs well past two hours.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "3274ced32952": {
     "score": 22,
@@ -2996,11 +2996,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "e0bc28c37b12": {
-    "score": 97,
+    "score": 90,
     "category": "comedy",
     "filler": false,
-    "reason": "Michael Che on Stavvy's World again, a core show and one of your starred guests.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Michael Che on Stavvy's World, the same pairing as one of your starred episodes.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "eb7b3adc3372": {
     "score": 72,
@@ -3017,11 +3017,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "7e1d6f656f92": {
-    "score": 78,
+    "score": 56,
     "category": "comedy",
     "filler": false,
-    "reason": "Michael Che on SNL writing and comedy culture; he's a favorite of yours, and the length is manageable.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Michael Che on writing at SNL and comedy culture, but the host's political slant dilutes the comedy.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "f46efe8f58f3": {
     "score": 66,
@@ -3031,11 +3031,11 @@
     "scored_at": "2026-11-26T11:18:57.920890+00:00"
   },
   "b69493eb4514": {
-    "score": 66,
+    "score": 55,
     "category": "comedy",
     "filler": false,
-    "reason": "Michael Che on standup versus SNL, short and easy, though more of a standard press interview.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Michael Che's standalone Breakfast Club interview on standup versus SNL. Decent, not deep.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "a783c82bd4a1": {
     "score": 58,
@@ -3206,32 +3206,32 @@
     "scored_at": "2026-11-19T12:21:10.365547+00:00"
   },
   "f73383428a5e": {
-    "score": 55,
+    "score": 45,
     "category": "news",
     "filler": false,
-    "reason": "Quick daily briefing that covers the Anthropic IPO and a Trump-Xi-Putin summit, but it's a headline roundup.",
-    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+    "reason": "Covers the Anthropic IPO and the Trump-Xi-Putin summit, but it's a daily headline roundup and a week old.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "a1d359b4ce3f": {
-    "score": 80,
-    "category": "big_ideas",
+    "score": 82,
+    "category": "crime_econ",
     "filler": false,
-    "reason": "Tyler Cowen with Richard Hanania on Nostromo, Latin American crime and populism; this matches your starred Conversations with Tyler episodes.",
-    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+    "reason": "Tyler Cowen and Richard Hanania on Nostromo, Latin American crime and populism.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "b5d3f99e8213": {
-    "score": 93,
+    "score": 86,
     "category": "comedy",
     "filler": false,
-    "reason": "Michael Che with Sam Morril and Mark Normand, three of your favorite comedians, and close to your starred Bobby Lee episode.",
-    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+    "reason": "Michael Che with Mark Normand and Sam Morril, three comics you like trading SNL stories and joke swaps.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "cca5e7b96f7f": {
-    "score": 84,
+    "score": 78,
     "category": "ai",
     "filler": false,
-    "reason": "The Economist covers Anthropic's record IPO and what it means for OpenAI, in a tight 23 minutes.",
-    "scored_at": "2026-11-19T12:21:10.365547+00:00"
+    "reason": "Economist breaks down Anthropic's record IPO and the OpenAI rivalry in a tight 23 minutes.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   },
   "0298ba99a129": {
     "score": 50,
@@ -5038,5 +5038,89 @@
     "filler": false,
     "reason": "Psychic medium content, outside your interests.",
     "scored_at": "2026-11-26T11:18:57.920890+00:00"
+  },
+  "299c4280700c": {
+    "score": 58,
+    "category": "big_ideas",
+    "filler": false,
+    "reason": "Brian Greene is a world-class expert, though physics is outside your usual topics and the episode runs nearly two hours.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "0aaebe4e83df": {
+    "score": 36,
+    "category": "news",
+    "filler": false,
+    "reason": "Rory Stewart on Vance is sharp, but it's US politics and a short rerun-style revisit.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "30f89c169738": {
+    "score": 28,
+    "category": "business",
+    "filler": true,
+    "reason": "A light Thanksgiving stock chat with no news and little depth.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "1a6e1c9b9f0f": {
+    "score": 72,
+    "category": "ai",
+    "filler": false,
+    "reason": "Covers the AI-assisted Riemann Hypothesis proof with Claude, explained from first principles. Long, but strong on AI and thinking.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "36b2d423d5e4": {
+    "score": 42,
+    "category": "cooking",
+    "filler": false,
+    "reason": "Kenji López-Alt and Melissa Clark are great, but it's a Thanksgiving special that's now past and runs almost two hours.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "ae84201006a5": {
+    "score": 58,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Neal Brennan with Pete Holmes on psychology and staying sane, though you passed on the last I Wish I Knew episode.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "51ececa706c2": {
+    "score": 82,
+    "category": "healthcare",
+    "filler": false,
+    "reason": "An OpenEvidence clinical lead explains how the AI tool works, squarely in your AI-in-healthcare lane.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "24a75b69dead": {
+    "score": 38,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Michael Che appears on a late-night talk show, but it's mostly celebrity chatter and news banter.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "7539b597499b": {
+    "score": 70,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Michael Che on building a special, SNL and bombing, in a tight 44 minutes.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "61b56a4ba17a": {
+    "score": 38,
+    "category": "comedy",
+    "filler": false,
+    "reason": "The full show is mostly unrelated segments, with only a short Che interview inside.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "a415d3e87de5": {
+    "score": 10,
+    "category": "excluded",
+    "filler": false,
+    "reason": "Gossip-heavy Bachelor and Gypsy Rose roast show, with only a passing Che mention.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
+  },
+  "a8577c53899a": {
+    "score": 72,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Mark Normand with Neal Brennan on fatherhood, anxiety and phones, in the Blocks format you've starred.",
+    "scored_at": "2026-11-27T05:31:27.633507+00:00"
   }
 }
