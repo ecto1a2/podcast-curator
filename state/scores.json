@@ -3668,32 +3668,32 @@
     "scored_at": "2026-11-20T10:25:22.363901+00:00"
   },
   "54c820aeaf86": {
-    "score": 72,
+    "score": 78,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Sam Harris with Dalia Ziada and Yasmine Mohammed on political Islam; a core show, though a narrower topic than your favorites.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Core Sam Harris episode; Dalia Ziada and Yasmine Mohammed on political Islam, a topic Harris handles with depth.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "97369619c710": {
-    "score": 93,
+    "score": 88,
     "category": "ai",
     "filler": false,
-    "reason": "Decoder on whether Anthropic can keep safety first as a public company, with Hayden Field; squarely your AI-company theme.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Hayden Field on whether Anthropic can keep safety first as a public company; squarely your AI strategy interest.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "b5e95d88d9e5": {
     "score": 50,
     "category": "business",
     "filler": false,
-    "reason": "Short Nvidia leadership take from Ed Elson; relevant to AI business but thin and opinion-driven.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Quick Nvidia governance take; adjacent to AI companies but thin and overlaps with other Jensen coverage.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "cba05cb35a58": {
     "score": 76,
     "category": "crime_econ",
     "filler": false,
-    "reason": "Planet Money on reviving prize law to seize Iran- and Venezuela-linked tankers; sanctions and illicit networks through an economic lens.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Revived prize law and seized Iran and Venezuela tankers: sanctions enforcement seen through economics, in a tight 25 minutes.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "39f188f2b5c7": {
     "score": 82,
@@ -3706,85 +3706,85 @@
     "score": 58,
     "category": "business",
     "filler": false,
-    "reason": "Investor-focused take on the Anthropic IPO and Nvidia; useful but more stock-picking than strategy.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Covers the Anthropic IPO and Nvidia's leadership change, but it's a general stock-picking roundup.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "0dc010a60651": {
-    "score": 35,
+    "score": 30,
     "category": "big_ideas",
     "filler": false,
-    "reason": "Close reading of Nussbaum's Therapy of Desire; too academic and only loosely tied to your interests.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Academic philosophy text study on Aristotle and Nussbaum; not a topic you follow closely.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "0f244c6b51d7": {
-    "score": 38,
+    "score": 35,
     "category": "news",
-    "filler": true,
-    "reason": "Daily headline roundup, which you only want when something major happens.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "filler": false,
+    "reason": "Daily headline roundup; not a major explained event, so it's skippable.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "7bfd0448d17e": {
-    "score": 45,
+    "score": 55,
     "category": "news",
     "filler": false,
-    "reason": "Ezra Klein with Rep. Robert Garcia on investigating Trump corruption; strong host, but partisan domestic politics sits outside your core topics.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Ezra Klein with Rep. Robert Garcia on Trump corruption investigations; strong host, but domestic partisan politics sits outside your core interests.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "033cd01a7436": {
-    "score": 42,
+    "score": 38,
     "category": "business",
     "filler": false,
-    "reason": "Scott Galloway essay read aloud on business hubris; a short listen, but you want less Prof G.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Scott Galloway essay read aloud; you want less Prof G and the topic is generic.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "53c7be1aa2ff": {
-    "score": 78,
+    "score": 84,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Kyle Chan on how AI is reshaping China's industrial policy; blends China strategy and AI, a Dan Wang-style listen.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Kyle Chan on China's AI-driven industrial policy; combines China strategy and AI with a deep specialist.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "4af5b7fa87cc": {
-    "score": 25,
+    "score": 45,
     "category": "comedy",
     "filler": false,
-    "reason": "Matt and Shane's chaotic comedy hangout; not one of the comedians you follow.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Comedy hangout podcast with a loose Friendsgiving theme; it isn't from your core comedians.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "04b071b06d9a": {
-    "score": 60,
+    "score": 66,
     "category": "comedy",
     "filler": false,
-    "reason": "Andrew Santino hosts Jeremiah Watkins on comedy and fatherhood; solid comedy, but a lighter hang.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Andrew Santino hosts Jeremiah Watkins on comedy and fatherhood; a solid pick from one of your comedians.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "02b675624a27": {
-    "score": 45,
+    "score": 55,
     "category": "news",
     "filler": false,
-    "reason": "Economist daily briefing covering the Rohingya genocide ruling and AI cybercrime; a roundup with only a slice that fits.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Rohingya genocide ruling plus AI and cybercrime; well explained, though only partly in your wheelhouse.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "c5c4e080bbd1": {
-    "score": 66,
+    "score": 62,
     "category": "ai",
     "filler": false,
-    "reason": "Hard Fork covers Anthropic going public and Jensen Huang, but opens with a long GTA VI segment.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Hard Fork covers the Anthropic IPO and Nvidia drama, though much of it is about GTA VI.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "fe332979870c": {
-    "score": 40,
-    "category": "systems",
+    "score": 45,
+    "category": "business",
     "filler": false,
-    "reason": "Freakonomics on housing regulation and Austin's rule changes; a policy-systems angle, but far from your main interests.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Freakonomics on housing regulation and Austin; economics-minded but not a core topic for you.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "ae7676034746": {
-    "score": 28,
+    "score": 40,
     "category": "news",
     "filler": false,
-    "reason": "Partisan political commentary; not your focus.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Partisan politics roundup; it touches Nvidia and China but doesn't dig deep.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "87bcc38caf46": {
     "score": 42,
@@ -3797,43 +3797,43 @@
     "score": 52,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Ex-CIA officer on the Nvidia espionage story; relevant to AI and China, but long and sensational.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Espionage and the Jensen Huang honeypot story; interesting but it runs 124 minutes and is sensational.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "ecaa0bf38267": {
-    "score": 80,
+    "score": 68,
     "category": "comedy",
     "filler": false,
-    "reason": "Judd Apatow with Neal Brennan on observing his own mind and handling career setbacks; reflective and in your lane.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Judd Apatow with Neal Brennan on his own mind and career; strong guest on a show you know.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "ac3341ac325c": {
-    "score": 50,
+    "score": 66,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Robert Pape on political violence and war escalation; geopolitics, but alarmist and long.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Robert Pape is a serious political violence scholar, though the alarmist framing is a drawback.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "e3f766b77c20": {
-    "score": 35,
+    "score": 40,
     "category": "news",
     "filler": false,
-    "reason": "Texas Senate candidate James Talarico on inequality; US campaign politics is off-topic for you.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "A US campaign-style politics interview; low on your interests.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "5ab4a262caa5": {
-    "score": 87,
+    "score": 30,
     "category": "comedy",
     "filler": false,
-    "reason": "Bobby Lee with Neal Brennan on sobriety, his father's death, and what he wishes he'd known; close to your starred episodes.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "You said no to the Bobby Lee episode; this isn't a fit.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "5b35ccc987ac": {
-    "score": 60,
+    "score": 50,
     "category": "comedy",
     "filler": false,
-    "reason": "LL Cool J with Neal Brennan on leadership and friendship; an interesting guest, but not a comedian.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "LL Cool J on lessons learned with Neal Brennan; a good conversation, but you've passed on this episode format.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "52ca59c9face": {
     "score": 70,
@@ -3864,18 +3864,18 @@
     "scored_at": "2026-11-21T10:07:44.700155+00:00"
   },
   "12192696ee32": {
-    "score": 42,
+    "score": 50,
     "category": "crime_econ",
     "filler": false,
-    "reason": "A short look at Australia's alleged egg cartel; a fun cartel-economics angle, but small stakes and a local story.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "Egg cartel case in Australia; a light economics-and-cartel angle, short and quick.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "1af6e1273e78": {
-    "score": 70,
+    "score": 72,
     "category": "geopolitics",
     "filler": false,
-    "reason": "George Friedman on Middle East security and long-term US strategy; a concise great-power overview.",
-    "scored_at": "2026-11-21T10:07:44.700155+00:00"
+    "reason": "George Friedman on Middle East security and long-term US strategy; fits your great-power strategy interest in 38 minutes.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   },
   "f5fb0b74ae00": {
     "score": 28,
@@ -5276,5 +5276,26 @@
     "filler": false,
     "reason": "A short Mollick interview on AI swarms, the end of apprenticeship, and why executives should use frontier models.",
     "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "2cc245249ec3": {
+    "score": 55,
+    "category": "business",
+    "filler": false,
+    "reason": "Short Nvidia scandal take from Ed Elson; relevant to AI companies but brief and opinionated.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
+  },
+  "8fbec303a016": {
+    "score": 82,
+    "category": "ai",
+    "filler": false,
+    "reason": "Max Tegmark on AI risk, regulation, and consciousness; hits AI risk and big ideas together.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
+  },
+  "6ac7d7ec41a4": {
+    "score": 35,
+    "category": "other",
+    "filler": false,
+    "reason": "A self-help motivation episode; Alain de Botton is only a clip.",
+    "scored_at": "2026-11-28T11:10:34.624160+00:00"
   }
 }

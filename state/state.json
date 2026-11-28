@@ -886,6 +886,13 @@
       "sent": 1,
       "failed_feeds": [],
       "problem": null
+    },
+    {
+      "date": "2026-11-28T11:10:34.624160+00:00",
+      "claude_ok": true,
+      "sent": 0,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -913,13 +920,11 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-28T05:24:53.492757+00:00",
+    "at": "2026-11-28T11:10:34.624160+00:00",
     "dry_run": false,
     "candidates": 412,
-    "scored": 23,
-    "changes": [
-      "sent (best available, score 90): Whiskey Ginger with Andrew Santino / Kevin Ryan & H. Foley Are American Garbage | Whiskey Ginger"
-    ],
+    "scored": 27,
+    "changes": [],
     "errors": []
   },
   "checkin_meta": {
