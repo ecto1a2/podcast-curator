@@ -879,6 +879,13 @@
         "Nonzero with Robert Wright"
       ],
       "problem": null
+    },
+    {
+      "date": "2026-11-28T05:24:53.492757+00:00",
+      "claude_ok": true,
+      "sent": 1,
+      "failed_feeds": [],
+      "problem": null
     }
   ],
   "feedback": [
@@ -906,14 +913,14 @@
     ]
   },
   "last_run": {
-    "at": "2026-11-27T11:14:17.812523+00:00",
+    "at": "2026-11-28T05:24:53.492757+00:00",
     "dry_run": false,
-    "candidates": 430,
-    "scored": 45,
-    "changes": [],
-    "errors": [
-      "feed failed for Nonzero with Robert Wright: HTTP Error 403: Forbidden"
-    ]
+    "candidates": 412,
+    "scored": 23,
+    "changes": [
+      "sent (best available, score 90): Whiskey Ginger with Andrew Santino / Kevin Ryan & H. Foley Are American Garbage | Whiskey Ginger"
+    ],
+    "errors": []
   },
   "checkin_meta": {
     "2": {

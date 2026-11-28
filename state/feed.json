@@ -367,6 +367,29 @@
       "explore_reason": null,
       "added_at": "2026-11-27T05:31:27.633507+00:00",
       "kind": "discovery"
+    },
+    {
+      "id": "82a82b01d7fc",
+      "show": "Whiskey Ginger with Andrew Santino",
+      "title": "Kevin Ryan & H. Foley Are American Garbage | Whiskey Ginger",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/mgln.ai/e/27/traffic.megaphone.fm/BSN6925039427.mp3",
+      "audio_type": "audio/mpeg",
+      "published": "2026-10-23T11:00:00+00:00",
+      "minutes": 86,
+      "description": "Welcome to Whiskey Ginger a Wave series. Andrew Santino sits down with Kevin Ryan and H. Foley, the boys behind the hit comedy podcast Are You Garbage?, for a conversation about stand-up, growing up, family, questionable decisions, and all the little things that separate classy people from absolute trash. Kippy and Foley have built a comedy empire out of asking one simple question: Are You Garbage? From childhood habits and family traditions to the kind of behavior that would get you banned from a country club, these two have made a career out of finding the garbage in all of us. Their brand-n",
+      "link": "",
+      "guid": "281284f4-cceb-11f1-a00f-8b912dd817e8",
+      "image": "https://megaphone-images.spotifycdn.com/podcasts/945529ee-165e-11ec-bbee-37b2e2966d81/image/678ad903ffd2ea176830c26eaa1dcc26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "source": "discovery",
+      "score": 90,
+      "category": "comedy",
+      "reason": "Andrew Santino hosting your Are You Garbage? guys, Kevin Ryan and H. Foley. Two favorites in one episode.",
+      "buzz": null,
+      "buzz_note": null,
+      "explore_term": null,
+      "explore_reason": null,
+      "added_at": "2026-11-28T05:24:53.492757+00:00",
+      "kind": "discovery"
     }
   ],
   "history": [
@@ -582,6 +605,19 @@
       "minutes": 21,
       "kind": "discovery",
       "added_at": "2026-11-27T05:31:27.633507+00:00",
+      "removed_at": null,
+      "explore_term": null
+    },
+    {
+      "id": "82a82b01d7fc",
+      "show": "Whiskey Ginger with Andrew Santino",
+      "title": "Kevin Ryan & H. Foley Are American Garbage | Whiskey Ginger",
+      "source": "discovery",
+      "category": "comedy",
+      "score": 90,
+      "minutes": 86,
+      "kind": "discovery",
+      "added_at": "2026-11-28T05:24:53.492757+00:00",
       "removed_at": null,
       "explore_term": null
     }

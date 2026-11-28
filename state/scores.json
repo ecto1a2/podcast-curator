@@ -2919,11 +2919,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "9f620b294210": {
-    "score": 78,
+    "score": 80,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril with Pete Holmes, a long conversation with a comedian you like.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril in a long, reflective conversation with Pete Holmes, who pushes comedians toward bigger ideas.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "3bf22fa33c9b": {
     "score": 45,
@@ -2947,11 +2947,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "faea2473a8a8": {
-    "score": 80,
+    "score": 62,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril rambling with Bill Burr about his new special; very long but a strong fit.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril rambling with Bill Burr about his special and the Knicks. Over two hours, though.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "3aa55679c9b4": {
     "score": 35,
@@ -2982,11 +2982,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "7afbef956b79": {
-    "score": 68,
+    "score": 74,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril telling travel and early stand-up stories; light comedy fit.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril tells touring and travel stories with the Meyers Brothers in a tight hour.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "2ec4dd58717d": {
     "score": 50,
@@ -3010,11 +3010,11 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "3baa039ae6a2": {
-    "score": 80,
+    "score": 75,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril is one of your core comedians, and this is a long, loose conversation with Rick Glassman.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril's fifth visit to Rick Glassman, an easy, funny conversation.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "7e1d6f656f92": {
     "score": 56,
@@ -3101,25 +3101,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "64a069f1af81": {
-    "score": 72,
+    "score": 79,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril with Tom Papa on bombing, creative risk and his new special; a warm conversation.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril with Tom Papa on creative risk, bombing and why happiness hurt his stand-up.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "86493ac50346": {
-    "score": 70,
+    "score": 62,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril on Rogan; a good chat but nearly three hours.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril on Rogan. Good guest, but nearly three hours and well past your cap.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "9cfe1d803425": {
-    "score": 58,
+    "score": 66,
     "category": "comedy",
     "filler": false,
-    "reason": "Sam Morril on a dating-style show, funny but lighter.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Sam Morril on a dating-themed show. Funny, but lighter on ideas than his other appearances.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "937b33d05ab9": {
     "score": 60,
@@ -3157,18 +3157,18 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "c2e9ab5e68c1": {
-    "score": 78,
-    "category": "ai",
-    "filler": false,
-    "reason": "Ethan Mollick on why AI productivity gains lag and how organizations must change.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
-  },
-  "38a777a2a5d4": {
     "score": 82,
     "category": "ai",
     "filler": false,
-    "reason": "Ethan Mollick with Scott Galloway on AI and work; fits your Prof G AI favorites.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "Ethan Mollick on why AI productivity gains lag and how companies must reorganize to capture them.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "38a777a2a5d4": {
+    "score": 80,
+    "category": "ai",
+    "filler": false,
+    "reason": "Ethan Mollick with Scott Galloway on AI, work and which human skills stay valuable.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "2d0e9397a035": {
     "score": 30,
@@ -3178,25 +3178,25 @@
     "scored_at": "2026-11-19T10:25:12.507568+00:00"
   },
   "53c3f156f1df": {
+    "score": 81,
+    "category": "ai",
+    "filler": false,
+    "reason": "Derek Thompson and Ethan Mollick on AI, struggle and why junior work that builds experts is disappearing.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "35d228d465d8": {
     "score": 80,
     "category": "ai",
     "filler": false,
-    "reason": "Derek Thompson and Ethan Mollick on AI, junior work and learning; a thoughtful conversation.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
-  },
-  "35d228d465d8": {
-    "score": 74,
-    "category": "ai",
-    "filler": false,
-    "reason": "Mollick on how firms must reorganize for AI gains; compact at 41 minutes.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A tight 41 minutes with Ethan Mollick on how firms must reorganize once AI takes whole tasks.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "d0de63b24bcb": {
-    "score": 55,
+    "score": 66,
     "category": "ai",
     "filler": false,
-    "reason": "Short breakdown of Mollick's four human advantages; useful but secondhand.",
-    "scored_at": "2026-11-19T10:25:12.507568+00:00"
+    "reason": "A quick 25-minute walkthrough of Mollick's four human advantages: deep knowledge, wide knowledge, taste and agency.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "06dcdff69f3a": {
     "score": 62,
@@ -3384,15 +3384,15 @@
     "score": 70,
     "category": "geopolitics",
     "filler": false,
-    "reason": "Robert Pape on political violence and war escalation, a serious great-power risk conversation.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "Robert Pape brings 30 years of political violence and escalation research to a heavy but substantive conversation.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "d13a0a7b9cf3": {
-    "score": 38,
+    "score": 42,
     "category": "news",
     "filler": false,
-    "reason": "James Talarico on inequality and corruption is US domestic politics, off your core topics.",
-    "scored_at": "2026-11-20T10:25:22.363901+00:00"
+    "reason": "James Talarico on inequality and corruption. Mostly domestic politics, only loosely tied to your interests.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   },
   "dfcd274ee6bf": {
     "score": 70,
@@ -5213,5 +5213,68 @@
     "filler": false,
     "reason": "Tonio Andrade on why China lost the gunpowder age, a ChinaTalk deep dive on military and tech history.",
     "scored_at": "2026-11-27T11:14:17.812523+00:00"
+  },
+  "71a9727df73e": {
+    "score": 50,
+    "category": "business",
+    "filler": false,
+    "reason": "A short look at how podcast and NPR+ subscription economics work. Decent business angle, but not core to your interests.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "7e80ecc410d9": {
+    "score": 42,
+    "category": "business",
+    "filler": false,
+    "reason": "Stock picks plus Jensen Huang's Nvidia return and AI spending, but mostly a markets roundup you may already get enough of.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "e5c11b722dcb": {
+    "score": 18,
+    "category": "other",
+    "filler": false,
+    "reason": "A philosophy panel on a To Catch a Predator film. Off-topic for you.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "5d03d32f3fde": {
+    "score": 12,
+    "category": "excluded",
+    "filler": false,
+    "reason": "A murder case update, which falls under the murder narratives you skip.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "a12b856108e6": {
+    "score": 94,
+    "category": "ai",
+    "filler": false,
+    "reason": "Daniel Kokotajlo and Ege Erdil on AI timelines and intelligence explosion odds, on Dwarkesh, a show you asked for.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "f69127392a6e": {
+    "score": 78,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Andrew Santino hosts Heather McMahan on a fresh episode of his show; a loose, funny listen.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "99efd420b605": {
+    "score": 77,
+    "category": "comedy",
+    "filler": false,
+    "reason": "Sam Morril on Your Mom's House with Tom Segura, with the cops-read-my-joke-notebook story.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "0d9ca214bbd7": {
+    "score": 60,
+    "category": "ai",
+    "filler": false,
+    "reason": "A book-club discussion of Mollick's Co-Existence. Useful on AI and work, but long and secondhand.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
+  },
+  "69881dda3e60": {
+    "score": 70,
+    "category": "ai",
+    "filler": false,
+    "reason": "A short Mollick interview on AI swarms, the end of apprenticeship, and why executives should use frontier models.",
+    "scored_at": "2026-11-28T05:24:53.492757+00:00"
   }
 }
